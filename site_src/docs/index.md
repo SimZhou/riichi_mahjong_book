@@ -16,9 +16,11 @@
 1. [麻将基础栏目导读](./kihon/index.md)
 2. [麻将基础全章 12 页](./kihon/index.md)
 3. [牌理与牌效率栏目导读](./pairi/index.md)
-4. [按牌理打牌](./pairi/pairi01.md)
-5. [有效牌与枚数](./pairi/pairi02.md)
-6. [浮牌理论](./pairi/pairi03.md)
+4. [牌理与牌效率全章 20 页](./pairi/index.md)
+5. [麻将役种栏目导读](./teyaku/index.md)
+6. [手役思路（1）](./teyaku/teyaku01.md)
+7. [手役思路（2）](./teyaku/teyaku02.md)
+8. [役牌](./teyaku/teyaku03.md)
 
 后续页面会按栏目逐步补齐。
 
