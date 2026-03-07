@@ -22,6 +22,9 @@
 7. [手役思路（1）](./teyaku/teyaku01.md)
 8. [手役思路（2）](./teyaku/teyaku02.md)
 9. [役牌](./teyaku/teyaku03.md)
+10. [宝牌与红宝牌栏目导读](./dora/index.md)
+11. [宝牌应对（1）](./dora/dora01.md)
+12. [宝牌应对（2）](./dora/dora02.md)
 
 后续页面会按栏目逐步补齐。
 
