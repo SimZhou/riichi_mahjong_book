@@ -18,9 +18,10 @@
 3. [牌理与牌效率栏目导读](./pairi/index.md)
 4. [牌理与牌效率全章 20 页](./pairi/index.md)
 5. [麻将役种栏目导读](./teyaku/index.md)
-6. [手役思路（1）](./teyaku/teyaku01.md)
-7. [手役思路（2）](./teyaku/teyaku02.md)
-8. [役牌](./teyaku/teyaku03.md)
+6. [麻将役种全章 10 页](./teyaku/index.md)
+7. [手役思路（1）](./teyaku/teyaku01.md)
+8. [手役思路（2）](./teyaku/teyaku02.md)
+9. [役牌](./teyaku/teyaku03.md)
 
 后续页面会按栏目逐步补齐。
 
