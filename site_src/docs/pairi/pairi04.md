@@ -1,114 +1,112 @@
 # 搭子理论（1）
 
-进入牌理比较后，最常见的工作之一就是：
+## 1. 基本牌理
 
-**面子超载时，该拆掉哪一组搭子。**
+搭子的评价项目主要有下面 5 项：
 
-这件事如果只靠“感觉这组差不多”去打，很容易出错。搭子的优先级需要有一套固定比较顺序。
+1. 受入枚数，也就是能把面子补完成的牌有多少张
+2. 向好形变化的能力，比如能不能变成三面、两面、两嵌等
+3. 打点价值，也就是和手役、宝牌的关系
+4. 真进入听牌以后，这个等待容不容易和到
+5. 山里大概还剩多少张
 
-## 搭子最基础的五个评价点
-
-原页给搭子列了五个判断维度：
+这一页先只用最基础的前两项来比较：
 
 1. 受入枚数
-2. 向好形变化的能力
-3. 打点价值
-4. 真做成待张后好不好和
-5. 山里大概还剩多少
+2. 好形变化
 
-但在基础阶段，先抓前两个就够了：
-
-1. `当前受入有多少`
-2. `之后变好形的概率怎样`
-
-## 先记住一条硬排序
-
-没有额外条件时，搭子的基础优先级就是：
+另外，第一章里已经讲过的搭子优劣，也要当作基础常识来记住：
 
 `两面 > 两嵌 > 嵌张 > 边张`
 
-这条顺序不是绝对真理，但在绝大多数普通比较里都成立，是你开始比较前的默认立场。
+## 2. 实际比较
 
-## 例 1：边张通常先拆
+下面就用实际的面子超载一向听牌姿，来练习搭子的比较。
 
-如果手里同时有边张、嵌张、两面，而且你只需要留下其中两组，那么最先被排除的往往就是边张。
+### 例 1
 
-原页第一组例子就是这个意思：不是因为边张“完全没用”，而是因为在其他搭子也都还在时，它通常是那组最没有继续保留价值的。
+<img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/pin1.gif"><img src="../hai/pin2.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/pin9.gif"><img src="../hai/pin9.gif"><img src="../hai/sou1.gif"><img src="../hai/sou3.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif">
 
-## 例 2：拆嵌张时要注意切牌顺序
+按搭子公式，边张 <img src="../hai/pin1.gif"><img src="../hai/pin2.gif"> 应该先拆。
 
-当确定要拆掉一组嵌张时，常见手筋是：
+### 例 2
 
-**先外后内。**
+<img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/pin2.gif"><img src="../hai/pin4.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/pin9.gif"><img src="../hai/pin9.gif"><img src="../hai/sou3.gif"><img src="../hai/sou4.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif">
 
-原因是外侧那张往往还能顺带保留更多的好形变化。
+这题也是按 `两面 > 嵌张` 的原则，拆掉筒子的嵌张。
 
-当然，这只是牌理默认。如果某张牌已经明显危险，实战上也可能反过来先把危险更低的打出去。
+不过切牌顺序上，要用能让 <img src="../hai/pin5.gif"> 继续成为有效牌的手筋，也就是先切 <img src="../hai/pin2.gif">。
 
-所以这里要区分两层：
+拆嵌张时，很多情况下都应该按“外 -> 内”的顺序切，因为这样更容易保留好形变化。当然，实战里如果危险度有差别，也可能反过来按“内 -> 外”来切。
 
-1. 结构上谁该拆
-2. 实战上拆的顺序怎么排
+至于为了三色或断幺九去切 <img src="../hai/pin9.gif">，那就是把手牌结构自己打坏了，只能说是论外。这里更重要的是先看清手牌构成：这手已经有两组完成面子和一组雀头，剩下只需要再做出两组面子，所以三组搭子里必然有一组多余。
 
-这两件事不能混成一件。
+---
 
-## 例 3：同是嵌张，就比谁更容易变好
+### 例 3
 
-如果两个搭子当前受入一样，就进入第二层比较：好形变化。
+<img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/pin3.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/pin9.gif"><img src="../hai/pin9.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif">
 
-原页第三组例子，就是让你比较两组嵌张：
+两个嵌张当前受入枚数一样，所以要进入第二层比较，也就是比较它们向好形变化的能力。
 
-1. 哪一组更容易转成两面
-2. 哪一组更容易出现两嵌或三面变化
-3. 哪一组自己重合后还能保留更多弹性
+|        | 两嵌变化 | 两面以上变化 | 双碰 + 嵌张变化 |
+|--------|----------|--------------|-----------------|
+| 筒子   | <img src="../hai/pin1.gif"> | <img src="../hai/pin2.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin9.gif"> | <img src="../hai/pin3.gif"><img src="../hai/pin5.gif"><img src="../hai/pin8.gif"> |
+| 索子   | <img src="../hai/sou1.gif"><img src="../hai/sou7.gif"> | <img src="../hai/sou2.gif"><img src="../hai/sou6.gif"> | <img src="../hai/sou3.gif"><img src="../hai/sou5.gif"> |
 
-这类比较没有必要逐手死背，但要养成习惯：
+比较之后就能看出，筒子的嵌张更容易变成好形，所以正确答案是拆索子。
 
-**当前受入一样时，优先留后续更容易变成好形的那一组。**
+至于 <img src="../hai/sou3.gif"><img src="../hai/sou5.gif"> 具体先切哪一张，牌理上都可以。实战里更常见的是先打危险度更高的 <img src="../hai/sou5.gif">。
 
-## 例 4：别忽略“三面变化”
+---
 
-有些嵌张虽然表面都只有 4 枚受入，但其中一组后续能长成三面张，这类搭子的价值会明显高于只能平凡转两面的搭子。
+### 例 4
 
-所以比较搭子时不能只停留在“现在这一步”，还要追问：
+<img src="../hai/man1.gif"><img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/pin3.gif"><img src="../hai/pin5.gif"><img src="../hai/pin8.gif"><img src="../hai/pin8.gif"><img src="../hai/sou1.gif"><img src="../hai/sou1.gif"><img src="../hai/sou1.gif"><img src="../hai/sou7.gif"><img src="../hai/sou9.gif">
 
-1. 这组牌摸进下一张后会变成什么
-2. 是只是继续一般
-3. 还是有机会直接进入更宽的形
+这是三种嵌张的比较。
 
-## 例 5：两面之间也会互相拖累
+其中最优秀的是万子的嵌张，因为摸到 <img src="../hai/man2.gif"> 时能成两面，摸到 <img src="../hai/man5.gif"> 或 <img src="../hai/man7.gif"> 时还能形成三面听，后续变化最好。
 
-原页后面两个例子提醒的是另一个常见误区：
+筒子和索子相比，索子的那组更不容易变成两面，所以这题按牌理的标准答案是切 <img src="../hai/sou9.gif">。
 
-并不是手里有三组两面，就可以默认“随便拆哪组都差不多”。
+---
 
-如果其中两组两面互相重叠受入，就会出现`受入重叠`。
+### 例 5
 
-也就是说：
+<img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man6.gif"><img src="../hai/man7.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou3.gif"><img src="../hai/sou4.gif"><img src="../hai/sou7.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif"><img src="../hai/sou9.gif">
 
-1. 它们分别看都不错
-2. 放在一起却共享了一部分有效牌
-3. 结果整体受入没有你想的那么大
+这题是三组两面的比较。
 
-这时反而应该优先拆掉那组造成重叠的搭子，让手牌整体工作面更宽。
+结论先说：这里应该拆 <img src="../hai/man3.gif"><img src="../hai/man4.gif">。
 
-## 受入重叠是什么
+原因在于两组万子两面之间，`5m` 的受入发生了重叠。如果去嫌索子的两面，整体就会直接少掉 4 枚受入。
 
-所谓受入重叠，就是两组结构在等待同一批关键牌，导致受入重叠。
+<img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man6.gif"><img src="../hai/man7.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou3.gif"><img src="../hai/sou7.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif"><img src="../hai/sou9.gif">
 
-一般原则很简单：
+当然，如果硬要嫌索子，再顺利摸到 <img src="../hai/man5.gif">，是会形成三面听。但即使把这种变化考虑进去，拆万子仍然在和牌速度上更优。
 
-**受入重叠通常该嫌。**
+这种搭子的受入彼此重叠的情况，就叫做：
 
-因为它会让你以为自己“搭子很多”，实际却没有那么多真正独立的进张。
+**二度受け**，或者说“处于二度受け状态”。
 
-## 这一页的结论
+一般来说，二度受け的效率并不好，应该尽量嫌它。
 
-1. 搭子比较的基础顺序是：先看受入，再看好形变化
-2. 默认优先级通常是 `两面 > 两嵌 > 嵌张 > 边张`
-3. 拆嵌张时常见手筋是先外后内，但实战要同时考虑危险度
-4. 当前受入相同的搭子，要优先保留后续更容易变成好形的那一组
-5. 受入一旦重叠，整体独立进张会变少，通常应该主动避免
+万子这两组里具体拆哪一边差距不大，不过切 <img src="../hai/man3.gif"><img src="../hai/man4.gif"> 的话，之后摸到 <img src="../hai/sou6.gif"> 还会出现三色的路线，所以把它当作范答。
+
+当然，切 <img src="../hai/sou9.gif"> 是最差的一打。因为即使先取一向听，断幺九的可能性仍然还在，没有必要现在就把这条路线自己砍掉。
+
+---
+
+### 例 6
+
+<img src="../hai/man1.gif"><img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou1.gif"><img src="../hai/sou3.gif"><img src="../hai/sou7.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif"><img src="../hai/sou9.gif">
+
+这题多数人不太会切错，但它本质上也是一样：万子的 <img src="../hai/man2.gif"> 形成了二度受け，让受入变窄，所以这里是一手 <img src="../hai/man1.gif"> 切。
+
+### 理论结论
+
+> 受入发生重叠，就叫做“二度受け”。一般来说，嫌二度受け会让效率更高。
 
 ---
 
