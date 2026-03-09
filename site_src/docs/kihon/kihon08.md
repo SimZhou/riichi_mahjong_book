@@ -34,6 +34,8 @@
 
 基础阶段认真理牌，本质上就是在训练这个能力。
 
+为了减少看漏和拆错，初学阶段宁可把手牌理得更整齐一些，再去打牌。先把“我现在手里到底有哪些部件”看准，比急着追求打快更重要。
+
 ## 不是所有牌都适合硬拆成基本形
 
 例 2：<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" />
@@ -65,6 +67,10 @@
 
 所以后面讲复合形时，不是为了把概念讲复杂，而是为了避免你用过于粗糙的拆法误判手牌价值。
 
+当然，复合形的具体模式不可能靠一页两页就全部记完。实际打得越多，你对这些形的感觉才会越强；但前提是你先接受一个事实：
+
+**复合形必须作为复合形来学，而不是硬压回基本形。**
+
 ## 为什么这件事重要
 
 如果你只会看基本形，容易出现两类错误：
@@ -73,6 +79,8 @@
 2. 明明某种拆法损失更大，却因为“看起来规整”而误以为更好
 
 实战里很多牌效失误，不是不会数受入，而是压根没先看清这块牌在结构上是什么。
+
+后面这一章要做的，就是逐步把这些常见复合形拆开讲，让你以后即使碰到更少见的形，也能靠同样的思路判断。
 
 ## 这一页的结论
 
