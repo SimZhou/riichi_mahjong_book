@@ -20,9 +20,9 @@
 面子又分成两种：
 
 1. 顺子：连续三张数牌组成的一组  
-   <img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" />
+   <img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" />　<img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" />　……连续三张数牌
 2. 刻子：三张相同的牌组成的一组  
-   <img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" />
+   <img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" />　<img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" />　……三张相同的牌
 
 把这件事说透，后面很多概念就顺了：麻将不是“随便凑一副看起来差不多的牌”，而是一步一步把手牌推进到固定的和牌结构。
 
