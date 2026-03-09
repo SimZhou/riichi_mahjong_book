@@ -75,3 +75,10 @@
 ---
 
 原始日文页：<http://beginners.biz/dora/dora02.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="dora01.html">上一节：宝牌应对（1）</a>
+  <a class="page-nav__link page-nav__link--next" href="dora03.html">下一节：宝牌 2 张以上</a>
+</div>
+<!-- PAGE NAV END -->

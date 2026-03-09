@@ -111,3 +111,10 @@
 ---
 
 原始日文页：<http://beginners.biz/naki/naki08.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="naki07.html">上一节：鸣牌与向听数</a>
+  <a class="page-nav__link page-nav__link--next" href="naki09.html">下一节：对对和</a>
+</div>
+<!-- PAGE NAV END -->

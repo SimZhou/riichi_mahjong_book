@@ -106,3 +106,10 @@
 ---
 
 原始日文页：<http://beginners.biz/kihon/kihon05.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="kihon04.html">上一节：面子与搭子</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon06.html">下一节：对子（1）</a>
+</div>
+<!-- PAGE NAV END -->

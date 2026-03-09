@@ -74,3 +74,10 @@
 ---
 
 原始日文页：<http://beginners.biz/kihon/kihon01.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="index.html">返回导读：麻将基础</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon02.html">下一节：麻将与概率</a>
+</div>
+<!-- PAGE NAV END -->

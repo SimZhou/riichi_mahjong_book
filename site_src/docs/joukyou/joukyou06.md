@@ -92,3 +92,10 @@
 ---
 
 原始日文页：<http://beginners.biz/joukyou/joukyou06.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="joukyou05.html">上一节：状况与做牌（3）</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou07.html">下一节：最终局战术（1）</a>
+</div>
+<!-- PAGE NAV END -->

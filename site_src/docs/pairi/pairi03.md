@@ -125,3 +125,10 @@
 ---
 
 原始日文页：<http://beginners.biz/pairi/pairi03.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="pairi02.html">上一节：有效牌与枚数</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi04.html">下一节：搭子理论（1）</a>
+</div>
+<!-- PAGE NAV END -->

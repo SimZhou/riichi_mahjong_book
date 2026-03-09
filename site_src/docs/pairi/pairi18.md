@@ -104,3 +104,10 @@
 ---
 
 原始日文页：<http://beginners.biz/pairi/pairi18.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="pairi17.html">上一节：一向听牌理（5）</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi19.html">下一节：听牌时牌理</a>
+</div>
+<!-- PAGE NAV END -->

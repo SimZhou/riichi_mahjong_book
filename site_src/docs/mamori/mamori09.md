@@ -89,3 +89,10 @@
 ---
 
 原始日文页：<http://beginners.biz/mamori/mamori09.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="mamori08.html">上一节：弃和步骤（3）</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori10.html">下一节：对副露的防守</a>
+</div>
+<!-- PAGE NAV END -->

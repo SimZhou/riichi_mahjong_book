@@ -83,3 +83,10 @@
 ---
 
 原始日文页：<http://beginners.biz/naki/naki05.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="naki04.html">上一节：碰与吃（2）</a>
+  <a class="page-nav__link page-nav__link--next" href="naki06.html">下一节：杠（2）</a>
+</div>
+<!-- PAGE NAV END -->

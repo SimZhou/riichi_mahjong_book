@@ -89,3 +89,10 @@
 ---
 
 原始日文页：<http://beginners.biz/dora/dora01.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="index.html">返回导读：宝牌与红宝牌</a>
+  <a class="page-nav__link page-nav__link--next" href="dora02.html">下一节：宝牌应对（2）</a>
+</div>
+<!-- PAGE NAV END -->

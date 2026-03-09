@@ -116,3 +116,10 @@
 ---
 
 原始日文页：<http://beginners.biz/teyaku/teyaku09.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="teyaku08.html">上一节：三色</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku10.html">下一节：对子手（2）</a>
+</div>
+<!-- PAGE NAV END -->

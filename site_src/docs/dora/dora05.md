@@ -111,3 +111,10 @@
 ---
 
 原始日文页：<http://beginners.biz/dora/dora05.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="dora04.html">上一节：切宝牌时机</a>
+  <a class="page-nav__link page-nav__link--next" href="dora06.html">下一节：红宝牌麻将基础</a>
+</div>
+<!-- PAGE NAV END -->

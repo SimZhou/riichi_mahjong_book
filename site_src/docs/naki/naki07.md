@@ -127,3 +127,10 @@
 ---
 
 原始日文页：<http://beginners.biz/naki/naki07.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="naki06.html">上一节：杠（2）</a>
+  <a class="page-nav__link page-nav__link--next" href="naki08.html">下一节：食断</a>
+</div>
+<!-- PAGE NAV END -->

@@ -106,3 +106,10 @@
 ---
 
 原始日文页：<http://beginners.biz/reach/reach08.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="reach07.html">上一节：立直取听（1）</a>
+  <a class="page-nav__link page-nav__link--next" href="../mamori/index.html">下一章：防守</a>
+</div>
+<!-- PAGE NAV END -->

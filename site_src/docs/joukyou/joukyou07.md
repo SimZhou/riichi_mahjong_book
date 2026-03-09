@@ -106,3 +106,10 @@
 ---
 
 原始日文页：<http://beginners.biz/joukyou/joukyou07.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="joukyou06.html">上一节：局势与立直判断</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou08.html">下一节：最终局战术（2）</a>
+</div>
+<!-- PAGE NAV END -->

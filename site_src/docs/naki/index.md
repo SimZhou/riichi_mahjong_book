@@ -64,3 +64,10 @@
 ---
 
 原始日文页：<http://beginners.biz/naki/>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="../osihiki/osihiki02.html">上一章：押引</a>
+  <a class="page-nav__link page-nav__link--next" href="naki01.html">下一节：鸣牌的优缺点</a>
+</div>
+<!-- PAGE NAV END -->

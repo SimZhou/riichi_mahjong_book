@@ -45,3 +45,10 @@
 ---
 
 原始日文页：<http://beginners.biz/>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <span class="page-nav__spacer"></span>
+  <a class="page-nav__link page-nav__link--next" href="kihon/index.html">下一章：麻将基础</a>
+</div>
+<!-- PAGE NAV END -->

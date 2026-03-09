@@ -103,3 +103,10 @@
 ---
 
 原始日文页：<http://beginners.biz/joukyou/joukyou08.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="joukyou07.html">上一节：最终局战术（1）</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou09.html">下一节：最终局战术（3）</a>
+</div>
+<!-- PAGE NAV END -->

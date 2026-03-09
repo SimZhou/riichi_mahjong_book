@@ -106,3 +106,10 @@
 ---
 
 原始日文页：<http://beginners.biz/naki/naki01.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="index.html">返回导读：鸣牌</a>
+  <a class="page-nav__link page-nav__link--next" href="naki02.html">下一节：副露判断基础</a>
+</div>
+<!-- PAGE NAV END -->

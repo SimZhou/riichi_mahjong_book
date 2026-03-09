@@ -121,3 +121,10 @@
 ---
 
 原始日文页：<http://beginners.biz/teyaku/teyaku04.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="teyaku03.html">上一节：役牌</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku05.html">下一节：断幺九</a>
+</div>
+<!-- PAGE NAV END -->

@@ -125,3 +125,10 @@
 ---
 
 原始日文页：<http://beginners.biz/pairi/pairi16.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="pairi15.html">上一节：一向听牌理（3）</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi17.html">下一节：一向听牌理（5）</a>
+</div>
+<!-- PAGE NAV END -->

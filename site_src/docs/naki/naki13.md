@@ -93,3 +93,10 @@
 ---
 
 原始日文页：<http://beginners.biz/naki/naki13.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="naki12.html">上一节：后付（2）</a>
+  <a class="page-nav__link page-nav__link--next" href="naki14.html">下一节：鸣牌技巧（2）</a>
+</div>
+<!-- PAGE NAV END -->

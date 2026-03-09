@@ -100,3 +100,10 @@
 ---
 
 原始日文页：<http://beginners.biz/pairi/pairi11.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="pairi10.html">上一节：两向听牌理（1）</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi12.html">下一节：两向听牌理（3）</a>
+</div>
+<!-- PAGE NAV END -->

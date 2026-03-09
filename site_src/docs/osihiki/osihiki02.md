@@ -119,3 +119,10 @@
 ---
 
 原始日文页：<http://beginners.biz/osihiki/osihiki02.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="osihiki01.html">上一节：押引铁则</a>
+  <a class="page-nav__link page-nav__link--next" href="../naki/index.html">下一章：鸣牌</a>
+</div>
+<!-- PAGE NAV END -->

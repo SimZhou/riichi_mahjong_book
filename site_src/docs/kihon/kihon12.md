@@ -103,3 +103,10 @@
 ---
 
 原始日文页：<http://beginners.biz/kihon/kihon12.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="kihon11.html">上一节：麻将的听牌（1）</a>
+  <a class="page-nav__link page-nav__link--next" href="../pairi/index.html">下一章：牌理与牌效率</a>
+</div>
+<!-- PAGE NAV END -->

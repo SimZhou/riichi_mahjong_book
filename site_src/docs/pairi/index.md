@@ -75,3 +75,10 @@
 ---
 
 原始日文页：<http://beginners.biz/pairi/>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="../kihon/kihon12.html">上一章：麻将基础</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi01.html">下一节：按牌理打牌</a>
+</div>
+<!-- PAGE NAV END -->

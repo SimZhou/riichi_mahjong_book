@@ -113,3 +113,10 @@
 ---
 
 原始日文页：<http://beginners.biz/reach/reach04.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="reach03.html">上一节：立直还是默听（2）</a>
+  <a class="page-nav__link page-nav__link--next" href="reach05.html">下一节：立直理论（1）</a>
+</div>
+<!-- PAGE NAV END -->

@@ -37,3 +37,10 @@
 ---
 
 原始日文页：<http://beginners.biz/dora/>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="../teyaku/teyaku10.html">上一章：麻将役种</a>
+  <a class="page-nav__link page-nav__link--next" href="dora01.html">下一节：宝牌应对（1）</a>
+</div>
+<!-- PAGE NAV END -->

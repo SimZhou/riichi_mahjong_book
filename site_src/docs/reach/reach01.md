@@ -122,3 +122,10 @@
 ---
 
 原始日文页：<http://beginners.biz/reach/reach01.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="index.html">返回导读：立直</a>
+  <a class="page-nav__link page-nav__link--next" href="reach02.html">下一节：立直还是默听（1）</a>
+</div>
+<!-- PAGE NAV END -->

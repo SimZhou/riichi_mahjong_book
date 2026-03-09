@@ -84,3 +84,10 @@
 ---
 
 原始日文页：<http://beginners.biz/teyaku/teyaku01.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="index.html">返回导读：麻将役种</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku02.html">下一节：手役思路（2）</a>
+</div>
+<!-- PAGE NAV END -->

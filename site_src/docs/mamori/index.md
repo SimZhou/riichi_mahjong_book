@@ -60,3 +60,10 @@
 ---
 
 原始日文页：<http://beginners.biz/mamori/>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="../reach/reach08.html">上一章：立直</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori01.html">下一节：防守基础</a>
+</div>
+<!-- PAGE NAV END -->

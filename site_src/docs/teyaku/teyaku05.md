@@ -87,3 +87,10 @@
 ---
 
 原始日文页：<http://beginners.biz/teyaku/teyaku05.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="teyaku04.html">上一节：平和</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku06.html">下一节：染手（1）</a>
+</div>
+<!-- PAGE NAV END -->

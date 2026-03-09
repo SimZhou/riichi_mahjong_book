@@ -126,3 +126,10 @@
 ---
 
 原始日文页：<http://beginners.biz/kihon/kihon03.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="kihon02.html">上一节：麻将与概率</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon04.html">下一节：面子与搭子</a>
+</div>
+<!-- PAGE NAV END -->

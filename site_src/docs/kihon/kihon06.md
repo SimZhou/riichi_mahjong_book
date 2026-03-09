@@ -108,3 +108,10 @@
 ---
 
 原始日文页：<http://beginners.biz/kihon/kihon06.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="kihon05.html">上一节：数牌与字牌</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon07.html">下一节：对子（2）</a>
+</div>
+<!-- PAGE NAV END -->

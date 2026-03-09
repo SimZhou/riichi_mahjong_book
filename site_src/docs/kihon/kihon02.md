@@ -93,3 +93,10 @@
 ---
 
 原始日文页：<http://beginners.biz/kihon/kihon02.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="kihon01.html">上一节：麻将是什么</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon03.html">下一节：听牌与向听</a>
+</div>
+<!-- PAGE NAV END -->

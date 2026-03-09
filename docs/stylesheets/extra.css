@@ -27,3 +27,55 @@ img {
   border-radius: 0.4rem;
   background: rgba(15, 118, 110, 0.06);
 }
+
+.md-typeset .page-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 1rem;
+  margin: 2.2rem 0 0.8rem;
+}
+
+.md-typeset .page-nav__link,
+.md-typeset .page-nav__spacer {
+  flex: 1 1 0;
+}
+
+.md-typeset .page-nav__link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 3rem;
+  padding: 0.8rem 1rem;
+  border: 1px solid rgba(15, 23, 42, 0.14);
+  border-radius: 0.6rem;
+  background: rgba(15, 118, 110, 0.05);
+  color: inherit;
+  font-weight: 600;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+.md-typeset .page-nav__link:hover {
+  background: rgba(15, 118, 110, 0.11);
+  border-color: rgba(15, 118, 110, 0.28);
+}
+
+.md-typeset .page-nav__link--next {
+  justify-content: flex-end;
+  text-align: right;
+}
+
+.md-typeset .page-nav__spacer {
+  display: block;
+}
+
+@media screen and (max-width: 760px) {
+  .md-typeset .page-nav {
+    flex-direction: column;
+  }
+
+  .md-typeset .page-nav__link--next {
+    justify-content: flex-start;
+    text-align: left;
+  }
+}

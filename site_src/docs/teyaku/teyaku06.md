@@ -105,3 +105,10 @@
 ---
 
 原始日文页：<http://beginners.biz/teyaku/teyaku06.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="teyaku05.html">上一节：断幺九</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku07.html">下一节：染手（2）</a>
+</div>
+<!-- PAGE NAV END -->

@@ -111,3 +111,10 @@
 ---
 
 原始日文页：<http://beginners.biz/pairi/pairi19.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="pairi18.html">上一节：一向听牌理（6）</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi20.html">下一节：向听回退</a>
+</div>
+<!-- PAGE NAV END -->

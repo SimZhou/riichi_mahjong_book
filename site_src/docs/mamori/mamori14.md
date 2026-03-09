@@ -134,3 +134,10 @@
 ---
 
 原始日文页：<http://beginners.biz/mamori/mamori14.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="mamori13.html">上一节：避免放铳</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori15.html">下一节：读立直（2）</a>
+</div>
+<!-- PAGE NAV END -->

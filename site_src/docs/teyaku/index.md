@@ -45,3 +45,10 @@
 ---
 
 原始日文页：<http://beginners.biz/teyaku/>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="../pairi/pairi20.html">上一章：牌理与牌效率</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku01.html">下一节：手役思路（1）</a>
+</div>
+<!-- PAGE NAV END -->

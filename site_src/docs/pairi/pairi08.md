@@ -91,3 +91,10 @@
 ---
 
 原始日文页：<http://beginners.biz/pairi/pairi08.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="pairi07.html">上一节：打牌选择思路</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi09.html">下一节：初期牌理（2）</a>
+</div>
+<!-- PAGE NAV END -->

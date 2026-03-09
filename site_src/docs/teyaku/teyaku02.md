@@ -101,3 +101,10 @@
 ---
 
 原始日文页：<http://beginners.biz/teyaku/teyaku02.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="teyaku01.html">上一节：手役思路（1）</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku03.html">下一节：役牌</a>
+</div>
+<!-- PAGE NAV END -->

@@ -82,3 +82,10 @@
 ---
 
 原始日文页：<http://beginners.biz/dora/dora06.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="dora05.html">上一节：宝牌与手役选择</a>
+  <a class="page-nav__link page-nav__link--next" href="dora07.html">下一节：红宝牌与祝仪</a>
+</div>
+<!-- PAGE NAV END -->

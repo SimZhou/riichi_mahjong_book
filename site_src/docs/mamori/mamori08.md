@@ -92,3 +92,10 @@
 ---
 
 原始日文页：<http://beginners.biz/mamori/mamori08.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="mamori07.html">上一节：弃和步骤（2）</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori09.html">下一节：迂回打法</a>
+</div>
+<!-- PAGE NAV END -->

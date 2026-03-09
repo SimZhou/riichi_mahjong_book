@@ -94,3 +94,10 @@
 ---
 
 原始日文页：<http://beginners.biz/mamori/mamori04.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="mamori03.html">上一节：筋牌（1）</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori05.html">下一节：壁牌</a>
+</div>
+<!-- PAGE NAV END -->

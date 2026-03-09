@@ -85,3 +85,10 @@
 ---
 
 原始日文页：<http://beginners.biz/kihon/kihon08.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="kihon07.html">上一节：对子（2）</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon09.html">下一节：复合形（1）</a>
+</div>
+<!-- PAGE NAV END -->

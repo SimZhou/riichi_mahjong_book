@@ -44,3 +44,10 @@
 ---
 
 原始日文页：<http://beginners.biz/joukyou/>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="../mamori/mamori15.html">上一章：防守</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou01.html">下一节：局势判断基础</a>
+</div>
+<!-- PAGE NAV END -->

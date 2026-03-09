@@ -100,3 +100,10 @@
 ---
 
 原始日文页：<http://beginners.biz/kihon/kihon04.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="kihon03.html">上一节：听牌与向听</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon05.html">下一节：数牌与字牌</a>
+</div>
+<!-- PAGE NAV END -->

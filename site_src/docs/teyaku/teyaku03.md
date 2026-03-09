@@ -105,3 +105,10 @@
 ---
 
 原始日文页：<http://beginners.biz/teyaku/teyaku03.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="teyaku02.html">上一节：手役思路（2）</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku04.html">下一节：平和</a>
+</div>
+<!-- PAGE NAV END -->

@@ -23,3 +23,10 @@
 ---
 
 原始日文页：<http://beginners.biz/osihiki/>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="../joukyou/joukyou09.html">上一章：局势判断</a>
+  <a class="page-nav__link page-nav__link--next" href="osihiki01.html">下一节：押引铁则</a>
+</div>
+<!-- PAGE NAV END -->

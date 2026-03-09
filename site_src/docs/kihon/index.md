@@ -45,3 +45,10 @@
 ---
 
 原始日文页：<http://beginners.biz/kihon/>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="../index.html">返回首页</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon01.html">下一节：麻将是什么</a>
+</div>
+<!-- PAGE NAV END -->

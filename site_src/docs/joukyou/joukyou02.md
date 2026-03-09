@@ -98,3 +98,10 @@
 ---
 
 原始日文页：<http://beginners.biz/joukyou/joukyou02.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="joukyou01.html">上一节：局势判断基础</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou03.html">下一节：状况与做牌（1）</a>
+</div>
+<!-- PAGE NAV END -->

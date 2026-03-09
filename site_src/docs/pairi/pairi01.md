@@ -103,3 +103,10 @@
 ---
 
 原始日文页：<http://beginners.biz/pairi/pairi01.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="index.html">返回导读：牌理与牌效率</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi02.html">下一节：有效牌与枚数</a>
+</div>
+<!-- PAGE NAV END -->

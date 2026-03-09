@@ -113,3 +113,10 @@
 ---
 
 原始日文页：<http://beginners.biz/joukyou/joukyou03.html>
+
+<!-- PAGE NAV START -->
+<div class="page-nav" markdown="0">
+  <a class="page-nav__link page-nav__link--prev" href="joukyou02.html">上一节：关注名次</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou04.html">下一节：状况与做牌（2）</a>
+</div>
+<!-- PAGE NAV END -->
