@@ -1,112 +1,137 @@
 # 听牌时牌理
 
-大多数时候，一旦听牌，可选项并不多。但只要出现“**同样能听牌，却能选不同待牌**”的局面，判断顺序仍然应该非常明确：
+大多数时候，听牌后其实没有太多可选项；但只要出现“同样能听牌，却能选不同待牌”的局面，基本原则仍然是：
 
-1. 先比待牌总枚数
-2. 枚数接近或相同，再比改良空间
-3. 还接近时，再看场况、鸣牌便利性和手役结构
+**选择最容易真正和出的待牌。**
 
-核心目标只有一个：
+## 1. 待牌枚数
 
-**选择最容易真正和出的听牌。**
+待牌枚数越多，通常就越容易和牌。先比枚数，这是听牌选择里最基础的一层。
 
-## 第一原则：待牌总枚数优先
+## 例 1
 
-这是最基础、也最容易被花哨多面张误导的一点。
+<img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"> 摸 <img src="../hai/sou7.gif" width="24" height="34"> 碰 <img src="../hai/yhaku.gif" width="32" height="24"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34">
 
-待牌种类多，不代表就一定强；真正决定和牌率的，还是场上还剩多少张能和。
+这一题一共有 `4` 种听牌方式：
 
-## 例 1：三面张不一定复杂，枚数一算就清楚
+| 打法 | 和牌牌种 | 枚数 |
+| --- | --- | --- |
+| 切 `1s` | `4s` | `3` 张 |
+| 切 `3s` | `2s 5s` | `6` 张 |
+| 切 `4s` | `3s 5s` | `4` 张 |
+| 切 `5s` | `2s 3s 6s` | `10` 张 |
 
-第一例里有四种听牌方式。
+把所有候选待牌都列出来以后，就能很直接地看出：切 `5s` 最优。
 
-如果只凭直觉，很多人会先看到双碰或熟悉的简单待牌；但把枚数全部列出来以后，最宽的是切 `5s`，能听 `2s / 3s / 6s` 共 `10` 张。
+但很多人一看到这种题，会本能地去取双碰待，或者因为不习惯三面张而犹豫。原页专门提醒：这并不是什么稀有三面张，如果平时把常见多面张练熟，这类题就应该能做到几乎不假思索。
 
-这题的价值在于提醒你：
+## 例 2
 
-1. 不要怕多面张
-2. 只要把所有候选待牌列清楚，答案通常很直接
-3. 常见三面张、多面张应该训练到能快速识别
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"> 摸 <img src="../hai/man1.gif" width="24" height="34">
 
-## 例 2：待牌种类多，不等于牌数更多
+原页专门拿这一题提醒：
 
-第二例正好是反例。
+**待牌种类多，不等于待牌枚数就一定多。**
 
-表面上切 `9m` 后形成三面张，看起来很美；但实际剩张只有 `5` 张。相比之下，改成 `6m / 9m` 的双碰待却有 `6` 张，而且还能保住已经成型的一杯口。
+| 打法 | 和牌牌种 | 枚数 |
+| --- | --- | --- |
+| 切 `9m` | `2p 3p 4p` | `5` 张 |
+| 切 `3p` | `6m 9m` | `6` 张 |
 
-所以这题的结论很干脆：
+表面上看，切 `9m` 后是三面张，似乎很漂亮；但实际剩张只有 `5` 张，连延单待都不如。
 
-1. 多面张只是形状描述
-2. 实战优先级还是具体剩张
-3. 若还牵扯手役是否被拆坏，就更不能被“看起来是三面张”迷惑
+而切 `3p` 虽然只是双碰待，却有 `6` 张，还不会把本来已经成型的一杯口高概率拆坏。
 
-## 第二原则：枚数相同时，比改良空间
+所以例 2 应以 `6m / 9m` 的双碰待立直。
 
-如果两个待牌的剩张一样，下一层就不是“随便选”，而是看哪边更容易转成更强的听牌。
+## 2. 改良比较
 
-## 例 3：同为 4 张时，谁的有效改良更多就选谁
+如果待牌枚数相同，下一层就要比：谁更容易进一步转成更强的待牌。
 
-第三例是在副露手里比较坎张和双碰。
+## 例 3
 
-两边当前都只有 `4` 张待牌，因此要继续问：
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"> 碰 <img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/ysou8.gif" width="32" height="24"><img src="../hai/sou8.gif" width="24" height="34">
 
-1. 哪边更容易进一步转成两面以上
-2. 哪些所谓改良，其实会破坏当前手役，不应计入
+这是很常见的“坎张还是双碰”选择。
 
-原例里是食断手。某些表面上的改良会导致单边和牌或破坏手牌价值，所以真正有效的改良并不多。这样一算，保留双碰更优。
+当前待牌都是 `4` 张，所以不能靠直觉，必须继续比较改良。
 
-这题说明一个细节：
+但这里是食断手，因此即便表面上能改良，也不能把会变成**片和**的变化算进去。原页特别点名：像 `8m`、`8p` 这样的变化，虽然形式上会变成两面，但实际上并不算有效改良。
 
-**改良不是只看“能不能变”，还要看“变了以后是不是还算有效听牌”。**
+这样筛掉以后：
 
-## 例 4：鸣牌手要把“吃得到”也算进改良价值
+1. 取双碰时，有效改良是 `4m`、`6p`
+2. 取坎张时，有效改良只有 `4m`
 
-第四例进一步把判断推进到副露实战。
+因此这里应保留双碰待。
 
-表面上两个坎张差不多，但其中一边的改良牌能从上家直接吃入，另一边则不能。这样一来，两边虽然纸面枚数接近，实战上的改良速度却不一样。
+这一题的关键不在“改良牌有几张”，而在：
 
-这属于稍微进阶一点的牌理：
+**改良以后，是否仍然算有效可和的听牌。**
 
-1. 副露手不只看摸牌改良
-2. 也要把“能不能鸣到”算进来
+## 例 4
 
-如果一边更容易通过吃碰完成变形，那它的真实价值就更高。
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"> 摸 <img src="../hai/nan.gif" width="24" height="34"> 吃 <img src="../hai/yman1.gif" width="32" height="24"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34">
 
-## 场况信息也能参与听牌选择
+这题看起来只是平平无奇的两组两嵌比较，但原页强调的是一个更进阶的判断：
 
-原页接着提醒了一个很实用的判断层。
+**副露手要把“能不能吃到这张改良牌”也算进去。**
 
-如果某个改良后的两面待，外侧关键牌已经在场上切掉很多张，那这种“理论上的好形”价值就该打折。也就是说：
+这里原则上要取坎 `6m` 这一边。因为两边理论上的改良牌分别是：
 
-1. 同样是好形
-2. 场上剩张差很多时，实际优先级也会跟着变
+1. `2m`
+2. `8m`
 
-听牌选择到这一步，已经不是纯静态牌理，而是开始结合牌河判断。
+但 `8m` 是可以从上家直接吃进来的，所以它在实战里的改良速度更快。
 
-## 例 5：单骑待可以比边张更强，因为它保留大量改良
+原页还给出了后续形：
 
-最后一例很重要，它打破了“4 张 > 3 张，所以边张一定强于单骑”的机械想法。
+<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"> 吃 <img src="../hai/yman1.gif" width="32" height="24"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34">
 
-原例里：
+→ <img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"> 吃 <img src="../hai/yman8.gif" width="32" height="24"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"> 吃 <img src="../hai/yman1.gif" width="32" height="24"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34">
 
-1. 边张听牌当前有 `4` 张
-2. 单骑听牌只有 `3` 张
+这就是把“鸣牌参与改良”也计入判断的一种高级做法。
 
-但单骑可以先默听保留，等待大量手变，之后再以两面以上好形立直。尤其当手里有中张暗刻、连顺、连续形时，改良牌会非常多。
+## 场况判断
 
-所以这类局面里：
+原页后面还补了一个更简单但很实用的判断层：场况。
 
-1. 不要只看当前少 `1` 张
-2. 要看“继续等待一巡”能换回多少高质量立直机会
+例如两组两嵌里，若存在 `3p / 5p / 7p` 这样的候选，假设 `1p` 已经在场上切掉 `3` 张，那么即使你把牌改良成 `1p / 4p` 待，这个所谓的“好形”实际价值也会大打折扣。
+
+也就是说，听牌选择已经不只是静态牌理，还要吸收牌河信息。
+
+## 单骑待和坎张、边张的比较要特别小心
+
+单骑待与坎张、边张的比较，是听牌选择里最容易误判的一类。因为有时虽然单骑少 `1` 张，但它后续的改良价值远大于那 `1` 张差距。
+
+## 例 5
+
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"> 摸 <img src="../hai/sou6.gif" width="24" height="34">
+
+边张有 `4` 张，单骑只有 `3` 张。
+
+但这不意味着就该机械地用边张立直。原页强调，这里更应该：
+
+1. 先把单骑留成默听
+2. 等待下一巡手变
+3. 争取以两面以上的好形立直
+
+尤其手里已经有中张暗刻、连续顺子时，手变枚数会非常多。
+
+以这一题为例，摸到：
+
+`1p 2p 4p 5p 7p 8p 1s 4s 7s`
+
+都能转成好形立直。也就是说，这种单骑虽然眼前少 `1` 张，但保留改良等待的价值很大，完全值得先压一巡。
 
 ## 这一页的结论
 
-1. 听牌时优先选择剩张最多的待牌
-2. 多面张不天然更强，必须落实到具体剩张数
-3. 剩张相同时，比有效改良空间
-4. 副露手要把鸣牌能否参与改良一起计算
-5. 场况会影响好形的真实价值
-6. 某些单骑听牌虽然眼前略窄，但因为改良极多，反而强于边张或坎张即立直
+1. 听牌选择的第一原则仍是待牌枚数
+2. 多面张不天然更强，必须落实到具体剩张
+3. 待牌枚数相同时，要比较有效改良
+4. 改良不只看“能不能变”，还要看“变了之后是不是仍有效”
+5. 副露手要把“能不能鸣到改良牌”一起算进去
+6. 单骑待有时虽然眼前略窄，但因为改良极多，反而强于坎张或边张的即立直
 
 ---
 
