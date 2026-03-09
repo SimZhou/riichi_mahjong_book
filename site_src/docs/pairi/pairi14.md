@@ -1,90 +1,127 @@
 # 一向听牌理（2）
 
-这一页开始看更具体的一向听实战题：**面子超载形。**
+这一页先看面子超载形。
 
-也就是手里已经有过多成块部分，问题不再是“能不能进一向听”，而是该删掉哪一块，才能让下一步最宽、最顺、最容易听成好形。
+只要把前面几页讲过的知识真正用起来，这类题基本都能推出正着。关键在于：不是“看到成块多就随便拆一块”，而是要判断**哪一组才是多余的弱块**。
 
-## 基本原则：先删弱搭子，再看改良空间
+---
 
-面子超载形的判断顺序可以固定成这样：
+**例 1**
 
-1. 先比较哪组搭子本身更弱
-2. 若受入和等待接近，再比较好形变化
-3. 仍接近时，再看手役或后手补救能力
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"> 摸 <img src="../hai/pin5.gif" width="24" height="34">
 
-这里最容易犯的错，是被局部役种或对子执念带偏，忘了整手牌的主要目标仍然是“留下更强的成型结构”。
+=> 切 `1m`
 
-## 例 1：两面优于坎张，且要兼顾改良路线
+两面搭子优于坎张，这是最基本的牌效率。
 
-第一例里，优先切 `1m`。
+而且这里不只是“留两面、拆坎张”这么简单。若先切 `1m`，之后摸到 `4m` 时，还能获得三面张变化，所以切牌顺序应以：
 
-理由不复杂：
+`1m -> 3m`
 
-1. 留两面，舍坎张，是最基础的牌效率
-2. 先切 `1m` 而不是 `3m`，还能保留摸 `4m` 时转成三面张的变化
+作为基本顺序。
 
-所以这里不只是“坏形先拆”，而是“在同样拆坏形时，把后续改良最多的一边留下来”。
+这一题的重点是：
 
-## 例 2：坏形互比时，嫌受入重叠更重的一边
+1. 留两面、拆坎张
+2. 同样都要拆坏形时，优先保留后续改良更多的一边
 
-第二例是坎张之间的比较。
+---
 
-当两边都不漂亮时，就要看谁的重叠更严重、谁更容易形成受入重叠。原例里索子一侧对 `3s` 的依赖更别扭，因此切 `2s`。
+**例 2**
 
-实战上记成一句话即可：
+<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">摸 <img src="../hai/pin2.gif" width="24" height="34">
 
-**坏形互比，不只看形状名字，要看它吃进后是不是还会互相打架。**
+=> 切 `2s`
 
-## 例 3：不要为了想象中的一杯口牺牲整体效率
+这是坎张之间的比较。
 
-第三例很适合提醒一个常见误区：
+这里索子方向会发生对 `3s` 的受入重叠，所以不利，应打 `2s`。
 
-看到对子、连张、重复形，就下意识想保留一杯口可能。
+这种题要注意：
 
-但如果这样做会让整手受入减少、受入重叠加重，那就不值。原例中应切 `3p`，把明显更差的重叠关系先拆掉，而不是为一杯口幻想买单。
+1. 坏形互比时，不能只看名字都叫“坎张”
+2. 还要看吃进关键牌后，会不会形成明显的受入重叠
 
-## 例 4：受入和等待接近时，用好形变化决胜
+---
 
-第四例两种打法：
+**例 3**
 
-1. 受入同为 `12` 张
-2. 留下的等待也都不算好
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">摸 <img src="../hai/sou9.gif" width="24" height="34">
 
-这种局面不能只说“都差不多”。应继续往下比较：哪边改良牌更多。
+=> 切 `3p`
 
-原例里万子方向的改良很少，筒子方向则有更多好形变化，所以应拆万子。
+这题很容易被一杯口迷惑。
 
-这一类题的关键是：
+如果为了保留一杯口去留那组重复筒子，受入会更少。即使把打点因素算进去，也仍然不利。正确做法还是先嫌弃 `1p / 4p` 这组明显会发生受入重叠的结构。
 
-1. 平手不代表随便打
-2. 当速度和现状等待都接近时，下一层比较就是改良枚数
+所以这题要记住：
 
-## 例 5：不要把“自己已经用掉一张”机械地理解成这边更差
+1. 一杯口只是附加价值
+2. 如果它要靠牺牲明显的受入和形状效率来保，就不值得
 
-第五例在比较两组两面搭子。
+---
 
-很多人会看到自己已经用掉一张 `6s`，就误判 `78s` 一侧更差。但这忽略了整体结构可以转成“**两面 + 坎张**”的复合形。
+**例 4**
 
-打 `2s` 后，索子方向的整体宽度更好，所以这里不能只凭单张存量做静态判断，而要看整块留下后能形成什么结构。
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">摸 <img src="../hai/sou1.gif" width="24" height="34">
 
-## 例 6：要考虑“反向摸牌”的补救价值
+=> 切 `1m`
 
-第六例强调一个常被忽略的点：**裏目后的补救。**
+这题两边同为 `12` 张受入，残留待牌也都是坎张，看上去似乎没有差别。
 
-看起来哪一边都能拆，但如果拆万子，就算之后摸到原本不想看的 `6m`，它仍然能成为有效改良；这就比其他拆法多了一层容错。
+既然现有受入和待牌质量都打平，就要继续比较好形变化。
 
-这个优势不算巨大，但它提醒你：
+万子方向的好形变化，实际上只有摸 `5m` 形成两嵌这一条。
 
-1. 不只看当前受入
-2. 也看打错方向后，或者摸进反向牌时，牌还救不救得回来
+而筒子方向则丰富得多，摸：
+
+`3p 4p 8p 9p`
+
+都能带来更好的变化。至于双碰变化，两边差不多，可以先排除不谈。
+
+严格说来，坎 `2m` 和坎 `6p` 的和牌难度还是有一点差距，但常规上仍应以变化量为先，拆万子是更正统的打法。
+
+---
+
+**例 5**
+
+<img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"> 摸 <img src="../hai/pin5.gif" width="24" height="34">
+
+=> 切 `2s`
+
+这是两组两面搭子之间的选择。
+
+如果只因为自己已经用掉一张 `6s`，就断定 `78s` 较差，那就是漏看了整体结构。切 `2s` 以后，索子部分可以整理成“**两面 + 坎张**”的复合形，这比静态地数某一张剩几枚更重要。
+
+原页还给了一个补充变化：
+
+☆ <img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"> 摸 <img src="../hai/sou4.gif" width="24" height="34"> 后听牌
+
+也就是说，这里要看的是整组留下后能长成什么样，而不是只拿单张存量机械比较。
+
+---
+
+**例 6**
+
+<img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"> 摸 <img src="../hai/man9.gif" width="24" height="34">
+
+=> 切 `4m`（`5m` 也可）
+
+乍看之下，万子、筒子、索子好像都能拆。
+
+但如果拆万子，之后即使摸到看似反向摸牌的 `6m`，它仍会变成有效牌：
+
+☆ <img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"> 摸 <img src="../hai/man6.gif" width="24" height="34">
+
+如果场况没有额外差异，那么 `4m 5m` 落都是正解。这个差距并不大，漏看也不至于出大问题，但“**反向摸牌后的补救**”这个想法值得记在脑子里。
 
 ## 这一页的结论
 
-1. 面子超载形先删弱搭子，基本原则仍是留两面、拆坏形
-2. 坏形互比时，要比较受入重叠和重叠程度
-3. 不要为了一杯口等想象收益牺牲整体速度
-4. 若受入与等待接近，就继续比好形变化数量
-5. 某些细节局面里，反向摸牌后的补救空间也值得纳入判断
+1. 面子超载形，先用前面学过的牌理比较强弱块
+2. 基本原则仍是留两面、拆坏形
+3. 坏形互比时，要看受入重叠本身有多严重
+4. 受入与待牌打平时，要继续比较好形变化
+5. 某些细节题里，连反向摸牌后的补救空间也可以成为判断材料
 
 ---
 
