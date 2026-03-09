@@ -30,20 +30,36 @@
 
 四面子一雀头看起来固定，但内部组合并不一样：
 
-1. 四组顺子
-2. 三组顺子加一组刻子
-3. 两组顺子加两组刻子
-4. 一组顺子加三组刻子
-5. 四组刻子
+### 1. 四面子一雀头
+
+1. 1-a 四组顺子  
+   <img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" />
+2. 1-b 三组顺子加一组刻子  
+   <img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" />
+3. 1-c 两组顺子加两组刻子  
+   <img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" />
+4. 1-d 一组顺子加三组刻子  
+   <img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" />
+5. 1-e 四组刻子  
+   <img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" />
 
 特殊和牌形也要知道：
 
-1. 七对子  
-   <img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" />
-2. 国士无双  
-   <img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/sha.gif" width="24" height="34" /><img src="../hai/pei.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" />
+### 2. 七对子
 
-这两种是例外。学习牌效率时，默认仍然先用普通手的思路来理解。
+<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" />
+
+### 3. 国士无双
+
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/sha.gif" width="24" height="34" /><img src="../hai/pei.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" />
+
+这些和牌形的成形难度并不一样。
+
+其中最难做成的当然是国士无双，而它的回报也最大，对应的是役满这个最高打点级别。
+
+另外，严格来说面子里还包括四张同牌组成的杠子；这里只先不把它和刻子分开讲，后面再单独处理。
+
+七对子和国士无双都属于特殊和牌形。学习牌效率时，默认仍然先用普通手的“四面子一雀头”思路来理解。
 
 ## 什么叫听牌
 
