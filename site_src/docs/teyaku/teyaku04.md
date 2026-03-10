@@ -1,122 +1,106 @@
 # 平和
 
-平和是最常见、也最自然的手役之一。
+平和是最容易做成的手役之一。
 
-它之所以重要，不只是因为经常出现，而是因为：
+只要按照牌效率把手牌整理顺，牌形自然就会向平和靠拢。
 
-1. 按牌效率把手做顺，本来就很容易长成平和
-2. 平和和立直、断幺九、三色等常见役复合性很好
-3. 平和要求的，恰恰就是“多做两面、少留坏形”这种最基础的正确做牌方式
+## 1. 向两面变化
 
-所以学平和，关键不是背定义，而是理解：**为什么好牌形本来就会朝平和靠拢。**
+平和要求整手全部由顺子构成，且最终听牌必须是两面。
 
-## 平和的核心：全顺子，且最终要两面听牌
+所以做平和时最关键的，不是死背定义，而是尽量把牌形往两面方向推进。
 
-平和的门槛看似简单，但实战里最重要的一点只有一个：
+### 例 1
 
-**尽量让手牌朝两面变化。**
+<span class="b">例 1</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">
 
-因为只要你：
+例 1 也是第一章的复习题。
 
-1. 尽量保留顺子结构
-2. 尽量把坏形往两面修
-3. 不把役牌雀头抱死
+按“边张不如坎张”的基本理论，这里应当拆 `12m`。
 
-平和就往往会自然长出来。
+筒子部分只要摸到 `5p`，就会直接变成两面，平和也随之确定；就算摸到 `6p`，也能形成两坎连，受入进一步扩大。
 
-## 第一部分：优先保留更容易变成两面的那一边
+边张则不会有这种向两面演化的价值，因此这里当然先拆边张。
 
-### 例 1：边张比坎张更该先拆
+### 例 2
 
-第一例本质上是第一章复习题。
+<span class="b">例 2</span><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">
 
-为了做平和，当然应优先拆 `12m` 这种边张，因为边张本身：
+例 2 则是在比较两个坎张时，也要看谁更容易变成两面。
 
-1. 成型空间小
-2. 向两面发展的能力弱
-3. 就算完成，也更容易留下不符合平和要求的听牌
+万子的坎张如果摸到 `2m`，也能变两面；摸到 `6m`，同样能变两面。
 
-相对地，筒子那侧只要摸进 `5p` 就能直接变两面，摸 `6p` 也能扩成更宽的复合结构。这就是平和思路的最基础版本：
+但筒子的坎张，只有摸到 `4p` 才会出现明显的两面变化。
 
-**谁更像两面，就优先留谁。**
+因此这里应当先拆筒子坎张，也就是先切 `1p`。
 
-### 例 2：坎张互比时，看谁的两面变化更多
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">　　摸到<img src="../hai/pin4.gif" width="24" height="34">
 
-第二例则把比较推进一步。
+不过，若后来摸到 `4p`，这时就会改为拆 `3m5m` 这组弱坎张，所以一开始必须从 `1p` 切起，而不是先动别的部分。
 
-同样是坎张，不是哪边都一样差。关键要看：
+## 2. 两坎连
 
-1. 哪一边摸进后能变成两面
-2. 有几种牌能完成这种变化
+这也是第一章的复习内容。
 
-原例里，万子坎张无论摸 `2m` 还是 `6m` 都能变两面；筒子坎张则只有一种明显的好形变化。所以这里该拆筒子侧。
+两坎连，指的是像 `468m` 这样两个坎张相连的结构。
 
-这就是平和型拆牌很重要的思维：
+这种形只要摸到 `5m` 或 `7m`，都能做出顺子，所以它被认为是仅次于两面的好形。把这种形保留下来，做平和会容易很多。
 
-**不是只看“现在是不是坎张”，而是看“以后有多大概率变成两面”。**
+### 例 3
 
-## 第二部分：两坎连形是做平和的优质材料
+<span class="b">例 3</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34">　　摸到<img src="../hai/man9.gif" width="24" height="34">
 
-原页接着回到一个很重要的基础形：两坎连。
+这手的正解是切 `4p`，把筒子做成两坎连。
 
-像 `468m` 这种结构，虽然当下不是两面，但它比普通坎张更值钱，因为摸进两边都能直接完成顺子，是天然适合长成平和的材料。
+虽然切 `8p` 的受入枚数并不会立刻变差，但切 `4p` 更容易朝平和路线生长，因此在打点层面更有利。
 
-### 例 3：受入相近时，优先保留更容易长成平和的两坎连
+## 3. 拆对子
 
-第三例里，如果切 `4p`，筒子能形成两坎连；如果改切 `8p`，虽然眼前受入不差，但后续更难往平和方向延伸。
+如果雀头是役牌，就不能成立平和，这一点必须特别注意。
 
-因此这里切 `4p` 更优。理由不是“为了平和硬做牌”，而是：
+### 例 4
 
-1. 两边速度差不大
-2. 其中一边更自然地通向平和
-3. 那就应该让平和价值作为加分项介入
+<span class="b">例 4</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　　摸到<img src="../hai/man6.gif" width="24" height="34">
 
-## 第三部分：役牌雀头常常该主动拆掉
+即使是役牌对子，这里通常也应该把 `中` 拆掉。
 
-平和最容易被破坏的，不是顺子不够，而是**雀头选错了**。
+因为这手明显更适合朝断幺九、平和、门清高打点的方向走，而不是把 `中` 碰掉做一副一千点的便宜手。
 
-如果雀头是役牌，平和就不成立。所以很多局面里，即使役牌对子看起来舍不得，也应主动拆掉。
+这种“主动拆役牌对子去做平和”的场面很常见，应该熟悉。
 
-### 例 4：役牌对子不能成为做平和的锚点
+### 例 5
 
-第四例里，`中` 对子虽然值钱，但这手牌明显更适合往门清断幺九平和的高质量路线走，而不是抱着役牌去做一千点副露手。
+<span class="b">例 5</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34">　　摸到<img src="../hai/pin6.gif" width="24" height="34">
 
-这类题目的实战判断很重要：
+例 5 是一道很经典的题。
 
-1. 如果全手已经很像门清高质量手
-2. 且役牌对子会直接卡死平和
-3. 那么拆役牌对子是常规动作，不是大胆操作
+这里切 `7m` 和切 `2p` 并不等价。
 
-## 第四部分：对子怎么拆，也有高下
+如果切 `7m`，万子会留下 `233457m` 这样的结构，后面还能接受 `6m`，形成“两面 + 坎张”的复合好形。
 
-### 例 5：不是所有拆对子都一样，要看复合结构
+这种两面加坎张的结构在实战中很常见，不能看漏。
 
-第五例是原站里的经典题。
+### 例 6
 
-表面上看，拆 `7m` 对或拆 `2p` 对似乎都差不多。但如果拆 `7m`，万子部分会自然留下“**两面 + 坎张**”的复合形，后续摸 `6m` 时结构非常舒服。
+<span class="b">例 6</span><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/pin5.gif" width="24" height="34">
 
-这说明一件事：
+例 6 如果切 `6m`，就显得很不顺。
 
-1. 做平和时，不是简单见对子就拆
-2. 还要比较拆完以后，哪一边更容易保持两面与复合好形
+这里应该把 `9p` 当对子拆掉。
 
-### 例 6：拆对子时，优先保留改良面更广的一侧
+这样一来，若摸到 `7m`，就能进入平和一向听；摸到 `2s` 或 `4s`，也依然能往平和发展。
 
-第六例继续讲同一个道理。
+表面上看，似乎也可以拆 `3s` 对子，但那样的话，朝两面变化的机会只剩 `5m` 一种，明显不如拆 `9p`。
 
-这里如果切 `6m`，会浪费掉后续摸 `7m`、`2s`、`4s` 等继续向平和进化的机会；反之拆 `9p` 对子，整体牌形更灵活、也更容易向平和一向听靠近。
-
-实战里可以直接记：
-
-**当两个对子都可拆时，保留那一边改良面更多、两面潜力更大的。**
+还有一种想法是把 `3s` 浮出来不立即拆，但这种打法会让舍牌变弱，也更难在手里保留安全牌，因此并不推荐。
 
 ## 这一页的结论
 
-1. 平和的本质是尽量把手牌往两面和顺子结构上推
-2. 坏形比较时，要看谁更容易变成两面
-3. 两坎连这类复合形，是做平和的重要材料
-4. 役牌对子会直接卡死平和，很多时候应主动拆掉
-5. 拆对子也要比较后续改良质量，优先保留更容易形成复合好形的一侧
+1. 做平和的核心，是尽量让牌形往两面变化
+2. 边张、坎张的比较，不只看眼前形状，还要看未来能否变成两面
+3. 两坎连是做平和时很重要的优质材料
+4. 若役牌对子会卡死平和，很多时候就该主动拆掉
+5. 拆对子时也要比较拆完后的复合牌形和改良空间
 
 ---
 
