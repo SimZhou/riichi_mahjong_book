@@ -1,76 +1,76 @@
 # 宝牌应对（2）
 
-上一页讲的是“未来摸到宝牌时，要不要留受入”。这一页更进一步：**当宝牌已经在你手里时，怎样尽量把它们真正用到底。**
+这一页继续讨论另一件事：**手里已经有宝牌时，怎样把它尽量用到底。**
 
-这时判断的关键不再是“能不能摸到”，而是：
+## 例 1
 
-1. 听牌时宝牌会不会被白白打出去
-2. 哪种拆法更容易把宝牌留在最终完成形里
-3. 为了让宝牌用得上，可以接受多大程度的形状让步
+<span class="b">例 1</span><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/man7.gif" width="24" height="34">　　宝牌<img src="../hai/pin2.gif" width="24" height="34">
 
-## 第一原则：优先选择“听牌后仍能把宝牌留下”的切法
+例 1 的宝牌是 `2p`，因此这里应切 `3p`。
 
-### 例 1：同样能前进时，优先保住将来不会掉宝牌的那条路
+如果和切 `8s` 对比，差别就在于：将来若以双碰听牌进入完成形，宝牌能不能真的保留下来。
 
-第一例里，切 `3p` 和切别处看似都能推进，但差别在于：如果按错那条路走，之后双碰听牌时手里的宝牌 `2p` 反而会被自己打掉。
+☆切 `3p` 后：
 
-所以这里应切 `3p`，让未来听牌时宝牌仍能作为成牌的一部分保留下来。
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/pin7.gif" width="24" height="34">
 
-这题说明一个非常实用的原则：
+☆切 `8s` 后：
 
-**不只是要“有宝牌”，还要确保它在最终成牌时不会被迫飞掉。**
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/pin7.gif" width="24" height="34">
 
-## 第二原则：有时应为了“宝牌确定打点”牺牲一点役种幻想
+按原页下图所示，若走 `8s` 切那条路，宝牌 `2p` 最终会被自己挤出成牌。
 
-### 例 2：能把宝牌固定下来时，往往比守一杯口更值
+## 例 2
 
-第二例里，若继续抱着一杯口的形，表面上役种更漂亮；但如果改切 `5s`，则能把两张宝牌都稳定留在最终完成形中。这样一来，即使一杯口没了，最后的门清立直手往往仍然更值钱、更实用。
+<span class="b">例 2</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">　　摸到<img src="../hai/man1.gif" width="24" height="34">　　宝牌<img src="../hai/sou3.gif" width="24" height="34">
 
-这题很适合作为宝牌章的总原则之一：
+例 2 应切 `5s`，把两张宝牌都固定下来。
 
-1. 漂亮役种是附加项
-2. 已经拿在手里的宝牌是确定资源
-3. 当两者冲突而代价又不大时，应优先兑现确定资源
+虽然这样会失去一杯口，但如果之后摸到 `2p` 到 `5p` 之间的牌，`门清平和宝牌 2` 的 `6m-9m` 待，明显比只剩 `门清平和宝牌 1` 的 `4s-7s` 待更有价值。
 
-## 第三原则：坏形取舍时，也要看哪边更容易让宝牌参与完成
+换句话说，漂亮役种并不总比已握在手里的双宝牌更值钱。能把确定资源锁住，通常才是更强的选择。
 
-### 例 3：拆哪张浮牌，不只看受入，还看两边坏形完成后宝牌在不在
+## 例 3
 
-第三例是实战里非常高频的一种细题。
+<span class="b">例 3</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34">　　摸到<img src="../hai/sou5.gif" width="24" height="34">　　宝牌<img src="../hai/man3.gif" width="24" height="34">
 
-原页建议切 `7m`，理由不在眼前，而在未来：无论哪个坎张先完成，都更容易让宝牌 `3m` 留在牌里。如果切错，某些完成路线会把宝牌从最终成牌里挤掉。
+这类形在实战里很常见，应直接记住。
 
-这类题的难点在于：
+这里要切 `7m`，这样无论哪边坎张先完成，宝牌 `3m` 都还能被保留下来。
 
-1. 表面都是往前走
-2. 真正区别只有“完成后宝牌还在不在”
+这种题目的区别不在眼前一巡，而在完成后的成牌质量：哪种切法能让宝牌真的留到最后，那一手才是正着。
 
-所以它要求你对未来 1-2 步的完成图，有基本想象能力。
+## 例 4
 
-## 第四原则：正着打往往就是“让宝牌留到最后”的那一手
+<span class="b">例 4</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">　　摸到<img src="../hai/pin3.gif" width="24" height="34">　　宝牌<img src="../hai/sou7.gif" width="24" height="34">
 
-### 例 4：细微比较里，宝牌可兑现性会决定哪一手才是正着
+这种牌正需要你有能力选出细部上的正着。
 
-第四例非常适合训练细节感。
+切万子在受入上直接不成立，不必考虑。真正要比的是 `2s` 切还是 `9s` 切。
 
-万子切法在受入上已经不成立，真正的比较只剩 `2s` 切还是 `9s` 切。两者都能前进，但差别在于：
+☆切 `2s` 后：
 
-1. 某条路线一旦摸进 `3s`，宝牌会飞掉
-2. 另一条路线摸进 `8s` 时，却能立成双宝牌听牌
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">　　摸到<img src="../hai/sou3.gif" width="24" height="34">
 
-此外，后续若摸进 `8m` 听牌，其中一条还保留“宝牌双碰”和“坎 `8s`”的待牌选择空间。这种多一层选择权，本身也是宝牌价值的一部分。
+☆切 `9s` 后：
 
-所以这一页的最终总结可以压成一句：
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">　　摸到<img src="../hai/sou8.gif" width="24" height="34">
 
-**当几种切法都能走时，优先选那条能把宝牌留到成牌、甚至保留待牌选择权的路线。**
+上面那条路线会把宝牌挤掉，而下面这条则能立成双宝牌立直。
+
+另外，如果之后摸到 `8m` 听牌，切 `2s` 那条路线还能在“宝牌双碰”和“坎 `8s`”之间按场况选择待牌，这也是它额外的价值。
+
+### 理论小结
+
+<span class="green">要尽量选择能把手里宝牌用到底的打牌。</span>
 
 ## 这一页的结论
 
 1. 手里已经有宝牌时，要优先考虑它能否留到最终完成形里
-2. 同样能前进的几种拆法里，优先选“听牌后不会把宝牌打掉”的那一条
-3. 确定能兑现的宝牌打点，往往比想象中的附加役更值钱
+2. 同样能前进的几种切法里，应优先选听牌后仍能保住宝牌的那一条
+3. 确定可兑现的宝牌打点，往往比想象中的附加役更值钱
 4. 细小的坏形取舍，也要比较哪边更容易让宝牌参与最终成牌
-5. 有时真正的正着打，就是那个最能把手里宝牌用到底的选择
+5. 真正的正着打，往往就是最能把手里宝牌用到底的那一手
 
 ---
 
