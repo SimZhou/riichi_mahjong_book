@@ -1,128 +1,111 @@
 # 对子手（2）
 
-这一页把对子手的另一半补齐：**什么时候该继续兼顾七对子，什么时候该彻底回到面子手，以及七对子听牌后该怎么挑单骑。**
+这一页补完七对子的做法与常规理论。
 
-它和上一页其实是一整套逻辑：
+## 1. 七对子与面子手的分岔点
 
-1. 先看七对子和普通面子手谁更现实
-2. 若两边都还有机会，不必急着死锁一边
-3. 真走到七对子听牌后，重点不再是“几张”，而是“这张牌到底好不好出”
+原则上，如果七对子和面子手的向听数相同，那么面子手的受入更广，也更容易真正进入听牌。
 
-## 第一部分：七对子和面子手，谁更该成为主线
+因此，当同一手牌里：
 
-### 原则 1：面子手向听更低时，就别再惦记七对子
+1. 七对子是两向听
+2. 面子手已经是一向听
 
-原页一开始就把一个常见误区掐掉了：
+这种时候就应直接专心做面子手，不再分心给七对子。
 
-如果同一手牌里：
+### 例 1
 
-1. 面子手已经一向听
-2. 七对子还在两向听
+<span class="b">例 1</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/man9.gif" width="24" height="34">　　宝牌<img src="../hai/man4.gif" width="24" height="34">
 
-那就该直接专心走面子手。
+例 1 当然完全不用看七对子，直接按面子手处理，切 `8m` 即可。
 
-原因很简单。向听数相同时，面子手通常就已经比七对子更宽、更快；如果面子手还比七对子更近一步，就更没必要再把资源分给七对子。
+### 例 2
 
-### 例 1：面子手明显更近时，七对子直接出局
+<span class="b">例 2</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/pin2.gif" width="24" height="34">　　宝牌<img src="../hai/man4.gif" width="24" height="34">
 
-第一例就是标准场景。
+但像例 2 这样，如果七对子是一向听，而面子手是两向听，又该怎么办？
 
-虽然手里对子不少，但普通做牌已经很顺，这时候如果还想着“也许能七对子”，就只是在给自己增加不必要的犹豫。答案应当直接回到面子手效率本身。
+传统思路往往要求你尽早选边：
 
-## 第二原则：若两边接近，可以暂时两头都留
+- 面子手思路：切 `2p`
+- 七对子思路：切 `3m`
 
-真正麻烦的是：
+但现在更主流的想法，是在条件允许时，先保留两边可能。
 
-1. 七对子是一向听
-2. 面子手是两向听
+这手里兼顾两边的好牌，就是切 `7m`。
 
-或者两边虽然向听不同，但都还说得过去。这种牌如果一上来就强行选边，往往会把另一条仍然有价值的路线过早放掉。
+虽然主线依旧是断幺九、宝牌 2 的面子手，但如果之后摸到 `2m`、`3m`、`5m` 这类关键牌，七对子听牌也仍然值得保留。
 
-### 例 2：留一张“谁都不冲突”的牌，维持双路线
+也许有人会觉得这种打法显得“不够果断”，但这里我同意原页的判断：切 `7m` 才是更完整的处理。
 
-第二例就是这种情况。
+### 例 3
 
-原页提到，过去常见的想法是尽早“定做七对子”或“定做面子手”；但现在更主流的思路，是先打一张不伤两边的牌，让之后的摸牌来决定最终收束方向。
+<span class="b">例 3</span><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">　　摸到<img src="../hai/sou9.gif" width="24" height="34">　　宝牌<img src="../hai/sou1.gif" width="24" height="34">
 
-这类牌的核心不是优柔寡断，而是：
+例 3 如果只看面子手，当然会把摸到的 `9s` 直接摸切。
 
-**在信息还不充分时，不要替未来提前做损失。**
+但这手面子手路线并不舒服，因此更合理的处理，是切 `1p`，让七对子和面子手两边都保留。
 
-### 例 3：苦形面子手时，更该给七对子留后门
+### 理论小结
 
-第三例进一步强调：如果普通面子手路线本来就不舒服，那七对子的备选价值会变高。
+<span class="green">面子手很苦时，应保留七对子之眼。</span>
 
-也就是说，是否保留七对子，不只看对子数，还要看当前面子手质量：
+### 例 4
 
-1. 面子手很顺，就少留七对子
-2. 面子手很苦，就多给七对子一点生存空间
+<span class="b">例 4</span><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/man8.gif" width="24" height="34">　　宝牌<img src="../hai/man4.gif" width="24" height="34">
 
-原页把这条总结成一句很有用的话：
+例 4 呢？
 
-**苦手的面子手，要保留七对子之眼。**
+如果想兼顾两边，当然可以切 `4p`。
 
-## 第三原则：面子手太顺时，就别再舍不得七对子可能
+但这手的面子手质量本来就很好，而且即使保留七对子可能，最后大概率还是会自然收束成面子手。因此这里最好的处理，是直接切 `3m`，把宝牌面子先确定下来，彻底专注于面子手主线。
 
-### 例 4：有些牌就算还能兼顾七对子，也该直接专心面子手
+## 2. 七对子的待牌
 
-不是所有“都能兼顾”的牌都该贪心保留。
+### 例 5
 
-第四例说明：如果手牌本身已经非常像高质量面子手，而且还能把宝牌面子、断幺九、平和之类一起做实，那继续为了七对子留空间，反而会伤害主线效率。
+<span class="b">例 5</span><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　摸到<img src="../hai/man5.gif" width="24" height="34">
 
-所以第三条硬规则是：
+常说立直应该尽量早挂，但例 5 这种牌，立刻立直就很值得怀疑。
 
-1. 若面子手明显更像主线
-2. 且打点、速度、形状都已经很好
+因为无论等哪张，看上去都不算容易和。
 
-那就别再机械保留七对子分支，直接让位给更强主线。
+就算手里有红 `5p`，硬立一个 `5p` 单骑也不是好手。单骑本来就只有 3 枚，可如果这 3 枚又都不容易被打出来，那这种待牌质量就很差。
 
-## 第二部分：七对子听牌后，单骑该怎么选
+那七对子单骑，究竟应该优先等什么？
 
-走到七对子听牌，很多人只会盯着“还剩几张”。这远远不够。七对子单骑最大的价值，正是你可以主动选择**更容易被打出来的牌**。
+| 种类 | 说明 |
+| --- | --- |
+| 字牌 | 基本上优先等容易打出的字牌。尤其是场上已经见过 1 张的字牌，往往是极好的单骑，既能荣和，也还保留自摸空间。 |
+| 一九牌 | 同样比较容易被打出，因此很有效。二八牌也不差。 |
+| 筋挂 | 这是专门用来追求荣和的单骑技巧。比如同样是筋挂，切 `4` 后等 `7`，通常不如切 `4` 后等 `1` 更容易出。 |
+| 壁挂 | 例如场上 `3p` 已经四张全见，此时去等 `1p` 或 `2p`。别人会把它当成无机会而打出来，往往比普通筋挂更有效，同时也保留自摸可能。 |
+| 宝牌 | 如果默听就有 `6400`，立直后自摸还能上跳满，那么为了大牌，宝牌单骑也可以主动去等。 |
 
-### 原则 4：单骑待不只看张数，还要看“出不出得来”
+单骑待的真正强点，是你可以故意选一张更容易被别人打出来的牌来等。
 
-原页把优先级讲得很清楚。七对子单骑常见优先目标包括：
+场上已经见过 1 张的客风字牌，往往就是非常理想的七对子单骑。
 
-1. 场上已见一张的字牌
-2. 一九牌、二八牌
-3. 各种筋挂、壁挂出来的容易出牌
-4. 某些高打点场合下的宝牌单骑
+### 例 6
 
-这说明七对子单骑和普通两面完全不是一个逻辑。普通两面重在总枚数，而七对子单骑更像一种“**主动挑诱饵**”的听牌。
+<span class="b">例 6</span><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　摸到<img src="../hai/man5.gif" width="24" height="34">
 
-### 例 5：看起来都难和时，不要急着即立
+如果 `7p` 还是生牌，而 `西` 在场上已经见过 1 张，那么这里就该立 `西` 单骑。
 
-第五例就是这种典型局面。
+虽然从剩张看，一个是 3 枚，一个是 2 枚，但在“容易荣和”的程度上，差距会非常大。
 
-无论等 `5p` 还是别的中张单骑，看上去都不理想。原页认为这里没必要急着即立，哪怕其中有红牌因素，也不该因为“反正能立直了”就硬顶一个明显难出的牌。
+### 理论小结
 
-这类牌你真正该问的是：
-
-1. 这张会不会被别人自然打出来
-2. 它是不是只能靠自摸
-3. 我能不能多等一巡，换成更容易荣和的牌
-
-### 例 6：场上已见的字牌，可能比生张中张强得多
-
-第六例把这点讲得更彻底。
-
-如果 `7p` 还是生牌，而 `西` 已经现一张，那么即使 `7p` 单骑表面张数更多，实际和牌率也未必比 `西` 高。对于七对子这种以荣和为重要价值的手牌，**“容易出”本身就是质量。**
-
-这也是七对子单骑判断里最值得形成习惯的一点：
-
-1. 先看这张牌在别人眼里像不像安全牌、闲牌
-2. 再看剩张数量
-3. 不要机械地只按 `3 张 > 2 张` 决定
+<span class="green">七对子单骑，应主动挑更容易被打出来的牌来等。</span>
 
 ## 这一页的结论
 
-1. 面子手向听更低时，通常应直接放弃七对子分支
-2. 七对子和面子手接近时，可以先保留双路线，让后续摸牌决定主线
-3. 如果面子手本身很苦，七对子备选价值会上升
-4. 如果面子手本身又快又强，就不必机械保留七对子可能
+1. 当面子手向听明显更低时，应直接专注面子手
+2. 当七对子和面子手都还有现实性时，可以先保留双路线
+3. 如果面子手很苦，七对子的备选价值就会上升
+4. 如果面子手又快又强，就不必机械保留七对子可能
 5. 七对子单骑不只看剩张，更要看“这张牌容不容易被打出来”
-6. 字牌、一九牌、二八牌、筋挂和壁挂，常是优质单骑候选
+6. 字牌、一九牌、二八牌、筋挂、壁挂、宝牌，都是常见的单骑候选
 
 ---
 
