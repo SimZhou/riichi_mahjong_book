@@ -1,99 +1,127 @@
 # 向听回退
 
-这一页收第二章最后一个问题：**什么时候应该主动把向听数打回去。**
-
 先说结论：
 
-**单纯为了速度，主动回退向听的情况其实并不多。**
+**通过把向听数主动打回去，最终反而更快和牌的情况，其实并不算多。**
 
 大多数向听回退，都是为了：
 
-1. 提高打点
-2. 改善听牌质量
-3. 避开几乎没有和牌机会的死听牌
-4. 为副露手役腾出更合理的路线
+1. 争取断幺九、混一色这类手役
+2. 借助之后可以吃碰的条件，结果上反而更快
+3. 或者因为当前待牌几乎已经没法和，只能退回去重组
 
-所以它本质上不是“绕远路反而更快”的常规技巧，而是：
+所以原则上可以把它理解成：
 
-**为了更高质量的最终和牌，接受暂时后退。**
+**向听回退，首先是提升打点和听牌质量的技术。**
 
-## 第一类：听牌不取
+## 1. 听牌不取
 
-最常见的回退，不是从一向听退到两向听，而是已经能听牌时，主动不取听。
+最常见的向听回退，不是从一向听退到两向听，而是已经能听牌时，主动选择不取听。
 
-### 例 1：黏连听牌但役种全散时，应直接不取
+## 例 1
 
-原页第一个例子就是典型黏连形。
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"> 摸 <img src="../hai/sou4.gif" width="24" height="34"> 宝牌 <img src="../hai/pin3.gif" width="24" height="34">
 
-虽然已经能听牌，但如果这一步听进去会同时打散断幺九和平和，那这样的愚形听牌价值就不高。这里应切 `1s`，先不取听，至少把断幺九保住，再争取更像样的立直。
+前面已经说过，黏连形虽然受入很宽，但很容易听成愚形。
 
-这类题目的判断顺序是：
+像这一题，如果顺手把听牌取掉，会同时把断幺九和平和都拆掉。这种听牌质量就很差了。
 
-1. 这一步听牌是否又窄又丑
-2. 听进去后，手役是否明显缩水
-3. 退一步后，是否还能很快复活到更好的听牌
+因此这里应切 `1s`，主动不取听。至少要把断幺九保住，再去争取一个更像样、能立直的听牌。
 
-若三个问题都偏向“是”，不取听通常更好。
+这一题的顺序是：
 
-### 例 2：待牌几乎死掉时，哪怕有役牌碰听也可以不取
+1. 当前听牌又窄又丑吗
+2. 听进去以后，手役是不是明显缩水
+3. 退一步以后，能否很快重新复活成更好的听牌
+
+如果三个问题的答案都偏向“是”，那就该不取听。
+
+## 例 2
 
 <img src="../images/h013.gif" width="500" height="500" />
 
-第二例更直接。
+碰双东就能听牌。
 
-碰双东就能听牌，但待牌 `2s` 已经在场上现三枚，这种听牌实际价值非常有限。与其勉强抢一个几乎没人会打出的窄张，不如先退一步，把牌型转成 `1p / 4p / 7p` 或 `3s / 4s` 之类更有生机的等待。
+但问题在于，待牌 `2s` 已经在场上现了 `3` 张。这样的听牌几乎没什么和牌价值。
 
-这里体现的是：
+所以这里应切 `1s`，先不取听。
 
-1. 听牌本身不是目标
-2. 能真正和出的听牌才有价值
+把牌型往：
 
-## 第二类：从一向听退回两向听
+1. `1p / 4p / 7p`
+2. `3s / 4s`
 
-这类回退比“不取听”更少见，但在某些高质量手役手里非常值得。
+这类更有生机的待牌带过去，显然更容易真正和出。
 
-### 例 3：为了断幺九平和，回退两向听是强手
+这题说明得很直接：
 
-第三例的问题点是边张 `3p`。如果硬保当前路线，听牌质量和打点都不理想。改切 `1p`，虽然回到两向听，但换来的是更完整的断幺九平和路线，而且索子两组面子完成后，还能保留双碰受入。
+**听牌本身不是目标，能和出的听牌才有价值。**
 
-这类题里，回退成立往往要满足两个条件：
+## 2. 退回两向听
 
-1. 回退后不是随便变好一点，而是整手结构明显升级
-2. 这份升级能稳定兑现成更高和牌率或更高打点
+有些时候，连一向听都值得主动退回去。最常见的就是为了断幺九、平和这类高质量路线。
 
-### 例 4：当前一向听如果窄到过分，就没必要死守
+## 例 3
 
-第四例是极端版。
+<img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"> 摸 <img src="../hai/man6.gif" width="24" height="34">
 
-当前一向听的听牌受入几乎只有 `3m` 一种，而且听进去还是超差的边张。这时候“我已经一向听了”几乎没意义，直接切 `1m` 回到两向听反而合理。
+这里的瓶颈是边张 `3p`。
 
-实战上可以把它记成一句话：
+如果切 `1p`，虽然要退回两向听，但这是好手。因为若保留现在的一向听，未来听牌质量和打点都不理想；退一步以后，整副牌就能朝断幺九平和路线前进。
 
-**若当前一向听既极窄又极差，就不要被向听数绑架。**
+原页还补了一种对比思路：你也可以打 `8m`，保留摸 `3p` 以后立刻立直的路线；但如果索子那边先做出两组面子，仍然是保留双碰受入的一边更有价值。
 
-### 例 5：好形高打点路线，值得主动倒车
+即使放弃了摸 `3p` 立即立直的诱惑，这手牌仍很可能很快做成断幺九平和立直。
 
-第五例则是更漂亮的标准题。
+## 例 4
 
-虽然手牌已经一向听，但如果主动拆掉 `7p9p`，就能同时瞄准断幺九、平和、三色，而且整体形状非常好。这类手牌的收益不是“也许多一番”，而是整副牌从普通听牌升级成高质量立直路线。
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"> 摸 <img src="../hai/man7.gif" width="24" height="34">
 
-这种时候，向听回退就不是消极行为，而是主动投资。
+这是“受入少得离谱”的典型。
 
-## 第三类：序盘为了染手或副露手役回退
+当前一向听的听牌受入只有 `3m` 一种，而且就算摸到了，也只是超差的边张听牌。
 
-页末讲的是更常见的序盘思路。
+这种情况虽然表面上是一向听，但几乎没有什么实战意义。这里完全可以放心切 `1m`，回到两向听重组。
 
-### 例 6：早巡混一色，哪怕回退到三向听也可以接受
+这题可以直接记成一句话：
 
-如果手里已经明显偏向某一色，而且配有役牌或对子素材，那么哪怕此时块数不够，先把异色拆掉、往混一色推进，也可能优于机械追求最短向听。
+**如果当前一向听极窄，而且听进去还是极差的形，就不要被向听数绑架。**
 
-这是典型的副露前提回退：
+## 例 5
 
-1. 单看闭门速度，似乎更慢
-2. 但考虑后续可以吃碰，实际完成速度未必吃亏
-3. 而且打点上升明显
+<img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"> 摸 <img src="../hai/sou5.gif" width="24" height="34">
 
-这也是原页开头强调的本质：很多回退不是为了“闭门最速”，而是为了在副露条件下换来更高完成率和更高打点。
+虽然已经是一向听，但只要看到这副牌的整体形，就该立刻意识到：
+
+**这手牌值得为了断幺九、平和、三色主动倒车。**
+
+因此这里应毫不犹豫地拆掉 `7p 9p`。
+
+这不是那种“也许多一番”的小升级，而是把一副普通的一向听，直接升级成高质量立直路线。
+
+## 序盘的向听回退
+
+最常见的序盘向听回退，就是混一色。
+
+## 例 6
+
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"> 摸 <img src="../hai/pin6.gif" width="24" height="34">
+
+哪怕现在搭子不够，切 `3m 5m` 仍是更好的选择。
+
+这甚至是从两向听退回三向听，但依然合理。原因就在于：
+
+1. 虽然单看闭门最近速度，好像是更慢
+2. 但这手之后可以副露
+3. 再把混一色和役牌的打点算进去，整体上并不亏
+
+原页最后收束得很清楚：
+
+当然，追求最短向听是牌理的基本；但综合和牌率与打点，并不是每次“向听数推进”都等于最优。
+
+真正重要的是：
+
+**在速度和高度之间，找到合适的平衡。**
 
 ## 这一页的结论
 
@@ -101,7 +129,7 @@
 2. 最常见的回退是听牌不取
 3. 若当前听牌或一向听极窄、极差、役种全散，就不必死守向听数
 4. 若回退能稳定换来断幺九、平和、三色、混一色等高价值路线，就值得执行
-5. 序盘的染手、鸣牌手役回退，要把“后续可副露”一起纳入判断
+5. 序盘的染手、鸣牌手役回退，要把“后续可以副露”一起纳入判断
 
 ---
 
