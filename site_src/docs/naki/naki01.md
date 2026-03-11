@@ -1,107 +1,91 @@
 # 鸣牌的优缺点
 
-鸣牌最本质的交换只有一句话：
+鸣牌是最容易拉开水平差距的环节之一。
 
-**用打点与守备，去换速度。**
+该鸣的牌不鸣，该门清做成的牌却乱鸣，这两种情况都非常常见。
 
-但真正打牌时，这个交换远没有这么粗糙。因为副露带来的，不只是“快一点”，还包括：
+所以在讨论“该不该鸣”之前，必须先把鸣牌的优缺点重新确认清楚。
 
-1. 更早听牌、更早和牌
-2. 能把门前不易完成的役做出来
-3. 能直接修掉某些极差的关键块
-4. 也会让你的手牌信息暴露、手役路线缩窄、撤退空间变少
+## 优点 1：听牌会更快
 
-所以在开始判断“该不该鸣”之前，先把这些优缺点吃透是必要的。
+鸣牌之后，听牌一定会变快，和牌也会更快。
 
-## 第一部分：鸣牌最大的好处，当然是加速
+而先和的意义不只是自己得分，还意味着顺手把别人的机会手一起掐掉。这一点非常大。
 
-### 优点 1：听牌和和牌都会变快
+## 优点 2：能做成门清很难完成的手
 
-这是最直观的一点。鸣牌会直接减少自己手里需要自摸完成的部分，因此：
+像混一色、全带幺九这类手役，门清时往往做得很痛苦；但一旦允许副露，就不再那么难。
 
-1. 听牌更早
-2. 和牌也更早
-3. 一旦你先和，等于顺手把别人可能成型的大牌一起打断
+染手本来就该主要靠鸣牌完成，并不是麻将漫画里那种动不动门清混一色乱飞的世界。
 
-这也是为什么副露在现代规则里越来越重要。它不是小技巧，而是直接改变一局竞争节奏的手段。
+## 优点 3：能解决边张等关键弱点
 
-### 优点 2：能把门清很难做成的役变成现实路线
+<p><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　宝牌<img src="../hai/man7.gif" width="24" height="34"></p>
 
-原页特别提到混一色、全带幺九这类手役。
+比如这手，若场上已经看见两枚 `3m`，而上家又打出了最后一张 `3m`，这时就应毫不犹豫地吃。
 
-这些牌如果硬靠门清去做，往往又慢又吃摸牌；但一旦允许副露，整副牌的完成率会立刻上升很多。所以很多染手、役牌手，本来就应该默认带着鸣牌视角来做，而不是死守门清。
+像这种局面还执着门清，和牌机会会变得非常薄。若你没有意识到“场上两枚 `3m` 已经见切”，就可能白白放过唯一能把手修好的那张牌。
 
-### 优点 3：能直接修掉边张、坎张等关键弱点
+## 优点 4：能新造面子，或直接改变待牌
 
-有些手牌的最大问题不是块数不够，而是某一个关键块实在太差。原页举的例子就是：明知道 `3m` 已经见两枚，这时上家再打出最后一张，你若还执着门清，往往就是主动放弃和牌机会。
+<p><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　<img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/ysou5.gif" width="32" height="24"><img src="../hai/sou5.gif" width="24" height="34">　宝牌<img src="../hai/pei.gif" width="24" height="34"></p>
 
-这类局面里，副露的意义不是单纯快，而是：
+这手已经是满贯听牌，但待牌是 `3s` 和宝牌 `北` 的双碰，质量非常差。若此时下家打出 `2s`，就该立刻吃。
 
-**它能把原本几乎做不成的手，直接修到能做。**
+<p><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　<img src="../hai/ysou2.gif" width="32" height="24"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34">　<img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/ysou5.gif" width="32" height="24"><img src="../hai/sou5.gif" width="24" height="34"></p>
 
-### 优点 4：还能改变待牌和面子结构
+这样一来，待牌质量会好很多。这类“用鸣牌把僵硬待牌改良掉”的技术，必须掌握。
 
-原页后面那组索子例子尤其重要。
+## 其他优点
 
-有些时候，你副露并不是为了立即听牌，而是为了：
+鸣牌还能：
 
-1. 把本来很差的双碰待改成两面、多面张
-2. 把僵硬结构重新拆开
-3. 让整副牌的最终成型质量变高
+1. 消掉对手一发
+2. 让别人少摸一张
+3. 打乱别人的自摸节奏
 
-这说明鸣牌并不只是“拿别人一张牌加速”，也是一种主动重构牌形的技术。
+## 缺点 1：手会变便宜
 
-## 第二部分：鸣牌最大的代价，是打点和门清收益会下去
+这是最直接、也是最大的缺点。
 
-### 缺点 1：很多好役会被你自己鸣没
+三色、混一色副露后会降番，一杯口、平和则会直接消失；同时你也放弃了立直、一发、里宝牌这些门清收益。副露带来的打点损失非常明显。
 
-这点也是最容易感受到的。
+<p><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"></p>
 
-一旦副露：
+这是个极端例子，但正常人都不会在这种牌上去鸣。
 
-1. 平和、一杯口直接消失
-2. 三色、混一色等役即使还在，也往往会降番
-3. 立直、一发、里宝牌全部失去
+麻将不是靠反复小便宜和牌就能赢的。门清手就算眼下只是无役，一旦立直，仍然始终保有满贯可能。很多时候必须压住“想先鸣一下”的冲动，继续门清推进。
 
-所以副露的真正成本并不是“少一点分”，而是你把一整套门清带来的上限收益都主动放掉了。
+## 缺点 2：更容易被看穿
 
-这也是为什么很多本来就很漂亮的门清手，不该为了便宜一番去乱鸣。
+这一点对初学者先不用想太多。
 
-### 缺点 2：手牌信息更容易暴露
+## 缺点 3：守备会变弱
 
-原页对这个点写得不多，但确实成立。你一旦副露，别人会更快知道：
+如果你已经鸣了三副露，手里往往只剩四张闭门牌。此时别人立直了怎么办？很多时候根本没法回避。
 
-1. 你在做什么役
-2. 你大概缺哪一块
-3. 哪些牌对你危险
+门清手还可以拆顺子、留安牌、改走折返；副露手则常常只能硬着头皮全押。
 
-不过这一条对初学者不是第一优先，所以不必过度放大。真正要先警惕的，还是后面那条：守备会大幅变差。
+麻将里，自己和得了的局本来就少于和不了的局。既然如此，更要考虑“别人立直时我怎么活下来”。副露会直接削弱这一点。
 
-### 缺点 3：撤退空间急剧减少
+## 缺点 4：手牌被固定，手役可能性会被限制
 
-这是副露真正可怕的地方。
+<p><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　宝牌<img src="../hai/sou8.gif" width="24" height="34"></p>
 
-三副露以后，手里往往只剩几张闭门牌。一旦别人立直，你很多时候已经没有像样的回旋余地。门清牌至少还能折返、还能拆顺子、还能留安全牌；副露手则更容易被迫全押。
+比如这手，就算 `中` 打出来，我也不会碰。
 
-因此副露的另一个隐藏代价是：
+因为一旦碰了，整手就只剩 `1000` 点副露手；而如果把 `中` 两张拆掉，这手完全可以朝门清断幺九平和推进，还保留一杯口、三色以及使用宝牌的可能。
 
-**你是在提前承诺“这局我很可能要硬打到底”。**
+就算第二张 `中` 再打出来，我也还是不鸣。
 
-### 缺点 4：副露会把手牌路线锁死
+## 这一页的总括
 
-原页最后那个例子很能说明问题。
+简单概括的话：
 
-有些手牌表面上有役牌，似乎一碰就有役；但如果一碰，整副牌就只剩一千点副露手，再也做不回门清断幺九、平和、三色、宝牌复合这类更高质量的路线。
+<p><span class="red b">鸣牌的优点：速度提升</span></p>
+<p><span class="blue b">鸣牌的缺点：打点下降、防守下降</span></p>
 
-也就是说，鸣牌不只是当前损失一些分，而是会**提前关闭大量未来分支。**
-
-## 这一页的结论
-
-1. 鸣牌最大的收益是速度提升
-2. 它还能帮助你完成门清难做的役、修掉关键坏块、重构待牌形状
-3. 鸣牌最大的成本是打点下降和门清收益消失
-4. 更隐蔽但同样重要的成本，是守备变差和手牌路线被锁死
-5. 所以副露从来不是“能鸣就鸣”，而是要看这份速度是否值回你失去的东西
+带着这份优缺点认识，再去判断“该鸣还是不该鸣”，才有基础。
 
 ---
 
