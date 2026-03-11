@@ -1,112 +1,121 @@
 # 宝牌与手役选择
 
-这一页讨论的是第四章里最常见、也最难一刀切的问题：
+经常会遇到这种局面：想保宝牌，就得放弃一部分手役；想追手役，又可能得把宝牌切掉。
 
-**当宝牌和手役发生冲突时，应该站哪边。**
+这时该怎么决定打牌？
 
-结论不是“永远保宝牌”，也不是“永远追手役”，而是回到两个最稳定的比较标准：
+## 听牌时的选择
 
-1. 受入和和牌率
-2. 实际打点差到底有多大
+听牌时，原则上优先选择待牌更多的一边。
 
-## 第一部分：听牌时，默认先选更容易和出的那边
+### 例 1
 
-### 例 1：手役翻倍，不代表值得把等待砍到一半
+<span class="b">例 1</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34">　　宝牌<img src="../hai/sou4.gif" width="24" height="34">
 
-第一例里，若保留三色，打点会更高；但等牌只剩 `3` 张左右。改成多面张后，待牌直接来到 `7` 张。原页判断得很干脆：
+这手应立直切 `2s`。
 
-1. 打点虽然变低
-2. 但并没有低到不够看
-3. 等待枚数却扩大到两倍以上
+因为宝牌指示牌 `3s` 已经用掉 1 张，所以坎 `3s` 实际只剩 3 张可和。
 
-这类局面里，当然应优先多面张。
+而若切 `2s`，就能取 `6p / 9p / 4s` 这一边共 `7` 张待，张数已经超过前者一倍以上。
 
-因此听牌时的第一原则非常硬：
+虽然另一边还带三色，但分数并没有高到翻倍，因此显然还是三面待更强。
 
-**如果手役只让分数小幅上涨，却把待牌腰斩，就该选待牌更宽的一边。**
+### 例 2
 
-### 例 2：宝牌切掉也可能更强，只要手广优势足够大
+<span class="b">例 2</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">　　宝牌<img src="../hai/pin4.gif" width="24" height="34">
 
-第二例正好反过来。
+这次则是切宝牌的平和路线更有利。
 
-切掉宝牌后，虽然只剩平和立直方向，但会得到 `8` 张待；若抱着宝牌和更高打点，只有 `4` 张待。原页认为前者更优，因为：
+对比是：
 
-1. 平和立直也并不寒酸
-2. 一发、里宝牌本就有把手抬回满贯的机会
-3. 对手进入全面速度战时，张数优势比纸面打点更关键
+- `3900` 的 `8` 张待
+- `5200` 到 `8000` 的 `4` 张待
 
-## 什么时候该为了手役放弃一些等待
+虽然保宝牌后打点更高，但平和立直路线本身也不低，一发或里宝牌就可能回到满贯；而且当全桌都在抢先听时，和牌枚数更多这一点非常关键。
 
-原页也给出了一条清楚的反向条件：
+### 例 3
 
-**如果得点差已经不是“小涨一点”，而是几乎翻倍，那手役就开始有资格反压等待。**
+<span class="b">例 3</span><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34">　碰<img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/ysou2.gif" width="32" height="24"><img src="../hai/sou2.gif" width="24" height="34">　碰<img src="../hai/ytyun.gif" width="32" height="24"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　　宝牌<img src="../hai/pin3.gif" width="24" height="34">
 
-### 例 3：打点差到一倍以上时，手役可以反超
+但如果分差已经到了“几乎翻倍”的程度，手役就开始反压等待。
 
-第三例里，若按广牌处理只是 `2000` 点；若受成对对和，则来到 `5200` 点，已经超过翻倍。这时原页就转而支持保手役。
+例 3 就是这样：
 
-也就是说：
+- 广牌路线只有 `2000`
+- 保手役路线能到 `5200`
 
-1. 小幅打点差，默认让位给更宽等待
-2. 大幅打点差，手役开始真正有竞争力
+这种时候，若不是只想便宜流局，那就应切 `3p`，受成对对和。
 
-这个阈值不是绝对数值，但“是否接近翻倍”是很实用的直觉分界线。
+## 一向听时的选择
 
-## 第二部分：一向听时，确定番往往比不确定高番更值钱
+### 例 4
 
-### 例 4：确定 1 番，通常优于不确定 2 番
+<span class="b">例 4</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34">　　宝牌<img src="../hai/man6.gif" width="24" height="34">
 
-第四例里，三色看起来很美，但它并不稳定，要高目、高目一路走对才会兑现；而宝牌搭子则是确定的价值。
+这是面子超载下的搭子选择题。
 
-原页在这里给出的总结很重要：
+就算去追 `234` 三色，也必须一路高目、高目地顺着来，最后很多时候仍然只是立直而已。而宝牌搭子则是确定的一番资源。
 
-**不确定的两番，通常不如确定的一番。**
+所以这里不该去拆带宝牌的搭子。
 
-这也是为什么很多一向听局面里，切掉带宝牌的搭子去追三色，往往会显得很亏。你牺牲的是已经握在手里的确定资源，去追一个还没发生的理想结局。
+像切 `8p` 或 `9p` 这种让整手变慢的打法，更是直接不成立。
 
-### 例 5：大机会手，也别为手役把确定宝牌拆掉
+### 理论小结
 
-第五例是典型的“看上去很像三色大机会”。
+<span class="green">不确定的 2 番，通常不如确定的 1 番。</span>
 
-但原页仍然建议切 `6p`，因为这样能稳稳保住宝牌 2，并让整副手朝最实际的完成路线走。它传达的不是“三色不重要”，而是：
+### 例 5
 
-1. 当宝牌已经够多
-2. 又能自然形成不错的门清手
-3. 就没必要为了追求更漂亮的复合役，再去拆确定资源
+<span class="b">例 5</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">　　宝牌<img src="../hai/pin3.gif" width="24" height="34">
 
-### 例 6：也有该直接切宝牌去做役的时候
+宝牌 2，再加上 `456` 三色看得很清楚，确实像是大机会手。
 
-当然，这页并没有把宝牌绝对化。
+但真想把这手稳稳做出来，最佳处理仍然是切 `6p`。
 
-第六例里，宝牌 `8p` 虽然值钱，但这副牌本身已经明确朝断幺九平和三色的高质量门清路线走。此时那张宝牌反而像个异物，留下它会拖坏整体结构，因此应该直接切掉。
+虽然这样会对索子的连续形下手，看着有点别扭，但与其切宝牌去硬追三色，不如把确定的宝牌 2 留住，走更现实的完成路线。
 
-这就是最后的平衡点：
+### 例 6
 
-1. 宝牌是确定资源
-2. 但若它本身明显阻碍了更强、更自然的整手路线
-3. 那就该让位给整体牌形
+<span class="b">例 6</span><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34">　　宝牌<img src="../hai/pin8.gif" width="24" height="34">
 
-## 第三部分：序盘通常先保双可能
+这一题反过来，就是直接切宝牌。
 
-### 例 7：早巡别太快选边，先让宝牌与手役一起共存
+因为整手已经很清楚地朝断幺九、平和、`345` 三色的高质量路线发展。此时宝牌 `8p` 反而像个异物，继续抱着它会拖坏整副牌的整体结构。
 
-原页最后一题很有代表性。
+所以宝牌并不绝对正确。若它本身明显妨碍了更自然、更强的整手路线，就应让位。
 
-序盘时，手里同时有混一色潜力和浮着的宝牌。此时无论太早切宝牌，还是太早把字牌全丢了断绝混一色，都是把自己提前锁死。更合理的打法，是先处理真正边缘的那两张，让宝牌路线和染手路线暂时并存，等后续摸牌再决定主线。
+### 理论小结
 
-这题把整页主题收得很清楚：
+<span class="green">宝牌和手役谁更好，不能一概而论。<br />多数情况下，优先选择受入更广、和牌更容易的一边，失误会更少。</span>
 
-1. 中后盘要更果断选边
-2. 但序盘信息不足时，通常应优先保留更多高价值分支
+## 序盘时的选择
+
+序盘里，保留宝牌与手役的双可能，通常比过早选边更重要。
+
+### 例 7
+
+<span class="b">例 7</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　　宝牌<img src="../hai/sou5.gif" width="24" height="34">
+
+东 1 局第 2 巡，南家起手。
+
+这手里既有万子的混一色可能，宝牌又是浮着的。此时无论太早把宝牌切掉，还是直接把 `东`、`中` 先丢出去，都不算好打。
+
+因为字牌一旦重起来，就可能刚好补出混一色所需的搭子；太早把它们连续丢掉，损失会非常大。
+
+同样，直接切 `5s` 也太早了。若宝牌重上，打点并不比混一色差；而如果之后摸到 `4s`、`6s`，那反而应考虑放弃混一色路线。
+
+所以这里更妥当的处理，是先打 `5p`、`7p` 这两张真正边缘的牌，让宝牌路线与染手路线暂时共存。
+
+“二兔追一兔不得”这种话，并不总适用于麻将。尤其在序盘，更应尽量保留多种高价值可能，而不是过早把自己锁死。
 
 ## 这一页的结论
 
-1. 听牌时，默认先选更容易和出的那边
+1. 听牌时，原则上先选待牌更多的一边
 2. 小幅打点差，通常不该压过明显更宽的等待
-3. 如果得点差接近或超过翻倍，手役才开始可能反压等待
-4. 一向听阶段，确定 1 番往往优于不确定 2 番
-5. 若宝牌本身阻碍了更强、更自然的整手路线，也可以主动切掉
-6. 序盘通常应先保留宝牌与手役的双重可能，不急着过早选边
+3. 若打点差接近或超过翻倍，手役才开始真正反压等待
+4. 一向听时，确定的一番通常优于不确定的两番
+5. 若宝牌本身明显阻碍更自然、更强的整手路线，也可以直接切掉
+6. 序盘通常应保留宝牌与手役两种可能，不急着过早选边
 
 ---
 
