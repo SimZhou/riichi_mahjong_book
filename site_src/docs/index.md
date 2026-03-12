@@ -28,6 +28,8 @@
 7. [防守](./mamori/index.md)
 8. [局势判断](./joukyou/index.md)
 9. [押引](./osihiki/index.md)
+10. [旧站首页归档](./blog/index.md)
+11. [全站目录](./sitemap/index.md)
 
 ## 阅读建议
 

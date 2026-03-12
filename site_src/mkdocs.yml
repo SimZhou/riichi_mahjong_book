@@ -18,6 +18,9 @@ extra_css:
 
 nav:
   - 首页: index.md
+  - 附录:
+    - 旧站首页归档: blog/index.md
+    - 全站目录: sitemap/index.md
   - 麻将基础:
     - 栏目导读: kihon/index.md
     - 麻将是什么: kihon/kihon01.md
