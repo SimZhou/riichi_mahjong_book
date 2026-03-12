@@ -1,103 +1,99 @@
 # 面子与搭子
 
-上一页讲的是“离听牌还有几步”。这一页开始看构成这些步骤的基本零件。
+## 刻子与顺子
 
-最重要的两个词：
+麻将的和牌形里需要四组面子。  
+而面子只有两种：刻子和顺子。
 
-1. `面子`
-2. `搭子`
+【顺子】<img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34">　<img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34">　……　连续的三张牌
 
-会不会拆这两个东西，直接决定你能不能把牌效打顺。
+【刻子】<img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34">　<img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34">　……　相同的三张牌
 
-## 面子有两种
+基本上，刻子比顺子更难做。  
+原因很简单：同一种牌总共只有四张，而刻子要凑出其中三张，本来就不容易。
 
-麻将的普通和牌形里，需要四组面子。
+不过在副露时，吃只能从上家那里吃，但碰可以从任何一家那里碰。  
+所以一旦进入鸣牌路线，刻子会稍微变得容易一些。  
+当然，即便如此，它也还是没有顺子那么容易做。
 
-面子只分两类：
+如果完全不靠鸣牌，而是自己摸成三张相同的刻子，这种刻子叫做暗刻。  
+暗刻既然更难成型，所以才会有三暗刻、四暗刻这样的役。  
+但正因为难，这些役也都不算常见。
 
-1. 顺子：连续三张数牌  
-   <img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" />　<img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" />　……连续三张数牌
-2. 刻子：三张相同的牌  
-   <img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" />　<img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" />　……三张相同的牌
+所以，麻将里的面子，归根到底还是应该把顺子当作基本来理解。
 
-从自力做牌的角度看，顺子明显比刻子更容易做成。原因很简单：同一种牌总共只有四张，要凑出三张相同，难度本来就高。
+### 总结与定式
 
-当然，副露时碰可以从任何一家拿牌，吃只能从上家拿牌，所以一旦进入鸣牌路线，刻子会比门清时稍微容易一点。但即便如此，顺子仍然是更常见、更稳定的面子来源。
+<p class="green">麻将里的面子分为刻子和顺子两种。<br />
+刻子远比顺子难做，<br />
+所以做牌时应以顺子为基本来思考。</p>
 
-不靠鸣牌、完全靠自摸凑成的刻子，叫`暗刻`。正因为它比顺子更难自然成型，所以三暗刻、四暗刻这样的役也才会特别难做。
+## 搭子是什么
 
-这也是为什么基础做牌时要默认：
+再摸进一张就能变成顺子的两张组合，叫做搭子。  
+搭子有下面三种。
 
-**先按顺子手去理解手牌，再去考虑刻子和鸣牌补强。**
+<table border="1" cellpadding="5" bgcolor="#ffffff" style="margin-left:10px;">
+  <tr>
+    <td width="48" bgcolor="#00a29a"><div align="center" class="white">形</div></td>
+    <td width="130" bgcolor="#00a29a"><div align="center" class="white">名称</div></td>
+    <td width="62" bgcolor="#00a29a" class="white">有效牌</td>
+    <td width="104" bgcolor="#00a29a" class="white">有效牌张数</td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td><img src="../hai/man1.gif"><img src="../hai/man2.gif"></td>
+    <td>边张</td>
+    <td><img src="../hai/man3.gif"></td>
+    <td>4 张</td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td><img src="../hai/pin6.gif"><img src="../hai/pin8.gif"></td>
+    <td>嵌张</td>
+    <td><img src="../hai/pin7.gif"></td>
+    <td>4 张</td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td><img src="../hai/sou3.gif"><img src="../hai/sou4.gif"></td>
+    <td>两面</td>
+    <td><img src="../hai/sou2.gif"><img src="../hai/sou5.gif"></td>
+    <td>8 张</td>
+  </tr>
+</table>
 
-## 什么是搭子
+从这张表一眼就能看出，**两面的受入是边张和嵌张的两倍，是最优秀的形。**
 
-只差一张就能变成顺子的两张组合，叫`搭子`。常见有三种：
+“尽量做成两面”，这是做牌最基础、最重要的原则之一。
 
-| 形状 | 名称 | 有效牌 | 枚数 |
-| --- | --- | --- | --- |
-| <img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /> | 边张 | <img src="../hai/man3.gif" width="24" height="34" /> | 4 |
-| <img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /> | 嵌张 | <img src="../hai/pin7.gif" width="24" height="34" /> | 4 |
-| <img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /> | 两面 | <img src="../hai/sou2.gif" width="24" height="34" />、<img src="../hai/sou5.gif" width="24" height="34" /> | 8 |
+## 边张与嵌张的比较
 
-这张表直接说明了核心结论：
+那么，看起来都只有 4 张受入的边张和嵌张，谁更差呢？  
+真正的差距，要看它们向两面变化的能力。
 
-**两面搭子受入是边张、嵌张的两倍。**
+边张 <img src="../hai/pin1.gif"><img src="../hai/pin2.gif"> 如果想变成两面，必须先摸到 <img src="../hai/pin4.gif">，再继续摸到 <img src="../hai/pin5.gif"> 才行。
 
-所以只要局面没有额外限制，做牌时就应该优先保留两面。
+<p><img src="../images/005.gif" width="330" height="67"></p>
 
-## 为什么两面最好
+<span class="blue">在麻将里，需要两步才变好的改良，基本已经很不可靠。</span>  
+也就是说，边张几乎不能指望它再变成两面。
 
-两面的优势不只是“和牌时更容易等到”，而是从进张阶段开始就更稳定。
+而嵌张 <img src="../hai/pin1.gif"><img src="../hai/pin3.gif">，只要摸到 <img src="../hai/pin4.gif">，立刻就能转成两面。
 
-1. 受入更多
-2. 更容易保持牌型弹性
-3. 听牌后通常也更容易形成好型
+<p><img src="../images/006.gif" width="217" height="67"></p>
 
-可以把它理解成麻将里最基本的优先级：
+一步改良，实战里是完全可以期待的。
 
-**两面是标准件，嵌张和边张是妥协方案。**
+更进一步，像 <img src="../hai/pin3.gif"><img src="../hai/pin5.gif"> 这种嵌张，只要摸到 <img src="../hai/pin2.gif"><img src="../hai/pin6.gif"> 任意一张，都能变成两面。  
+从两面变化的角度看，嵌张明显优于边张。
 
-## 边张和嵌张谁更差
+另外，从手役兼容性来看，边张待牌绝不可能做成断幺九。  
+所以把边张视为坏形，是完全合理的。
 
-乍看之下，边张和嵌张都只有 4 枚受入，好像差不多。真正差别在于后续变化空间。
+### 总结与定式
 
-### 边张变化很慢
-
-例如边张 <img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" />，如果想把它改善成两面，得先摸到 <img src="../hai/pin4.gif" width="24" height="34" />，再进一步调整成 <img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /> 之类的结构。
-
-<img src="../images/005.gif" width="330" height="67" />
-
-这种两步变化在实战里非常不可靠，所以边张通常就是差形。
-
-### 嵌张更容易转好
-
-例如嵌张 <img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" />，只要摸到 <img src="../hai/pin4.gif" width="24" height="34" />，就能立刻变成两面。
-
-<img src="../images/006.gif" width="217" height="67" />
-
-如果是 <img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /> 这种中嵌张，摸到 <img src="../hai/pin2.gif" width="24" height="34" /> 或 <img src="../hai/pin6.gif" width="24" height="34" /> 都能转成两面，改善空间更大。
-
-所以在两者都不是最终答案时，嵌张通常比边张更值得保留。
-
-## 边张还有一个额外缺点
-
-边张待张一定会涉及 `1` 或 `9`，因此绝对不可能构成断幺九。
-
-这意味着：
-
-1. 边张本身进张差
-2. 手役兼容性也更差
-
-所以把它视为“坏形”是合理的。
-
-## 这一页的结论
-
-1. 普通和牌形中的面子分为顺子和刻子
-2. 门清做牌时，应以顺子手为基本思路
-3. 搭子主要分为边张、嵌张、两面
-4. 基本优先级是：`两面 > 嵌张 > 边张`
-5. 做牌时，优先保留更容易转成好型、受入更多的结构
+<p class="green">搭子分为边张、嵌张、两面三种。<br /><br />
+<strong>两面　＞＞　嵌张　＞　边张</strong><br /><br />
+它们的价值并不相同。<br />
+尽量把手牌做成两面，是麻将最基础的做牌原则。</p>
 
 ---
 
