@@ -47,7 +47,7 @@
 
 它最多只是勉强保留了一点 `345` 三色的可能。
 
-若摸进 <img src="../hai/sou6.gif">，又会形成对 <img src="../hai/sou1.gif"><img src="../hai/sou4.gif"><img src="../hai/sou7.gif"> 的二度受け，因此依旧不如万子。
+若摸进 <img src="../hai/sou6.gif">，又会形成对 <img src="../hai/sou1.gif"><img src="../hai/sou4.gif"><img src="../hai/sou7.gif"> 的受入重叠，因此依旧不如万子。
 
 ---
 
