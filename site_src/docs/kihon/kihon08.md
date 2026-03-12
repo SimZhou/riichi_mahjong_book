@@ -1,94 +1,66 @@
 # 基本形与复合形
 
-到这一页为止，麻将手牌里最基本的零件已经齐了：
+到这里为止，麻将里的基本形已经全部出齐了。
 
-1. 面子
-2. 搭子
-3. 对子
-4. 孤张
+- 面子（刻子、顺子、杠子）
+- 搭子（两面、嵌张、边张）
+- 对子
+- 孤立牌
 
-接下来要把这些零件真正用起来。关键点只有一句：
+**麻将手牌，全都可以拆分成这 4 类。**
 
-**手牌既可以拆成基本形，也会因为组合方式不同产生复合形。**
+先来看具体例子。
 
-## 手牌都能拆成四类部件
+---
 
-任何一手牌，理论上都能从这四类部件来理解：
+【例 1】<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">
 
-1. 面子：已经完成的一组
-2. 搭子：再来一张就能成顺子的两张
-3. 对子：两张相同的牌
-4. 孤张：暂时没和其他牌形成有效联系的单张
+如果拿到这样的起手牌，
 
-例 1：<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/pei.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" />
+<img src="../images/008.gif" width="338" height="70">
 
-原页把这手拆成下面这样：
+就能像图里这样，把它拆成基本形部件。
 
-<img src="../images/008.gif" width="338" height="70" />
+像这样按部件来看手牌，是非常重要的。
+为了避免低级失误，<strong class="blue">初学者阶段最好认真理牌后再打</strong>，会更稳妥。
 
-这种“按部件看手牌”的方式非常重要。它能让你更快判断：
+---
 
-1. 现在哪些部分已经够用了
-2. 哪些部件还在拖后腿
-3. 下一张牌摸进来后，整体会怎么变化
+【例 2】<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34">
 
-基础阶段认真理牌，本质上就是在训练这个能力。
+那么，例 2 又该怎么看？
+这手里的万子、筒子、索子，全都属于**复合形**。
 
-为了减少看漏和拆错，初学阶段宁可把手牌理得更整齐一些，再去打牌。先把“我现在手里到底有哪些部件”看准，比急着追求打快更重要。
+如果还要继续往基本形里硬拆，就会出现问题。
+比如万子部分，既可以理解成：
 
-## 不是所有牌都适合硬拆成基本形
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34">（搭子） + <img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34">（对子） + <img src="../hai/man5.gif" width="24" height="34">
 
-例 2：<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" />
+也可以理解成：
 
-这手的万、筒、索部分都不是单纯的“一个搭子加一个对子”那么简单，它们其实都属于复合形。
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34">（面子） + <img src="../hai/man1.gif" width="24" height="34"> + <img src="../hai/man4.gif" width="24" height="34">
 
-例如万子部分，你可以理解成：
+这两种解释并不是谁对谁错。
+我更强烈建议的是：**复合形就按复合形来看。**
 
-1. <img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /> 是一个搭子，<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /> 是一个对子，<img src="../hai/man5.gif" width="24" height="34" /> 是孤张
-2. 也可以理解成 <img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /> 是顺子，剩下 <img src="../hai/man1.gif" width="24" height="34" /> 和另一张 <img src="../hai/man4.gif" width="24" height="34" /> 是两张孤张
+<img src="../images/009.gif" width="326" height="79">
 
-这两种理解都不能说错，但如果你硬要选一种固定下来，就会漏掉另一种变化空间。
+麻将牌只要组合在一起，就会产生复杂的功能。
+想不漏看这些功能，最好的办法就是把各种复合形的性质单独作为知识记住。
 
-## 复合形要作为复合形来理解
+复合形的模式无穷无尽，不可能全部列完。
+不过，随着你持续打牌，对牌形会越来越敏感，
+就算遇到少见形，也会慢慢能自己应对。
 
-原页的核心主张很明确：
+接下来，就要开始介绍最基本的复合形。
 
-**复合形不要急着拆成基本形，要先把它当成“一个有多种功能的整体”。**
+### 定式与总结
 
-原页配图如下：
-
-<img src="../images/009.gif" width="326" height="79" />
-
-原因是麻将牌一旦连在一起，会出现基本形没有的新性质：
-
-1. 同一组牌可能同时兼顾面子、雀头、搭子三种用途
-2. 你现在拆成哪一种，决定了后续能不能保留更好的变化
-3. 太早“定型”，往往就是把受入和好形空间自己关掉
-
-所以后面讲复合形时，不是为了把概念讲复杂，而是为了避免你用过于粗糙的拆法误判手牌价值。
-
-当然，复合形的具体模式不可能靠一页两页就全部记完。实际打得越多，你对这些形的感觉才会越强；但前提是你先接受一个事实：
-
-**复合形必须作为复合形来学，而不是硬压回基本形。**
-
-## 为什么这件事重要
-
-如果你只会看基本形，容易出现两类错误：
-
-1. 明明是强复合形，却被你过早拆散
-2. 明明某种拆法损失更大，却因为“看起来规整”而误以为更好
-
-实战里很多牌效失误，不是不会数受入，而是压根没先看清这块牌在结构上是什么。
-
-后面这一章要做的，就是逐步把这些常见复合形拆开讲，让你以后即使碰到更少见的形，也能靠同样的思路判断。
-
-## 这一页的结论
-
-1. 手牌可以先按面子、搭子、对子、孤张四类去理解
-2. 这是理牌和牌效判断的基础
-3. 但遇到复合形时，不能机械硬拆成基本形
-4. 复合形往往拥有比基本形更复杂、更强的变化能力
-5. 后续学习的重点，就是逐步熟悉这些常见复合形
+<div class="green" markdown="1">
+手牌由“面子”“搭子”“对子”“孤立牌”这 4 类组合而成。  
+当两种以上要素叠在一起形成复合形时，会出现基本形没有的性质。  
+逐个理解这些复合形的性质，非常重要。
+</div>
 
 ---
 
