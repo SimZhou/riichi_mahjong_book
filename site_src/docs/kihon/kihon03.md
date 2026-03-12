@@ -1,143 +1,139 @@
 # 听牌与向听
 
-要把麻将打明白，先得弄清楚两个最常见的词：
-
-1. `听牌`
-2. `向听`
-
-它们描述的都是你离和牌还有多远。看不清这一点，后面的牌效率就没法判断。
+这里开始学习麻将做牌里最重要的基本概念。  
+比起先想做什么手役，更重要的是先学会用“牌形”来看手牌。
 
 ## 麻将的和牌形
 
-标准和牌形主要有三类：
+麻将这项游戏，说到底就是以完成和牌形为目标。  
+和牌形大体可以分成 3 种：
 
-1. 四组面子加一组雀头
-2. 七对子
-3. 国士无双
+（1）完成四面子一雀头  
+（2）完成七对子  
+（3）完成国士无双
 
-真正打牌时，绝大多数情况都在处理第一类，也就是“四面子一雀头”。
+其中，（2）和（3）都属于特殊和牌形。  
+最基本、最常见的，还是（1）的四面子形。
 
-面子又分成两种：
+而面子又分成两种：刻子和顺子。
 
-1. 顺子：连续三张数牌组成的一组  
-   <img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" />　<img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" />　……连续三张数牌
-2. 刻子：三张相同的牌组成的一组  
-   <img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" />　<img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" />　……三张相同的牌
+【顺子】<img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34">　<img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34">　……　连续的三张数牌
 
-把这件事说透，后面很多概念就顺了：麻将不是“随便凑一副看起来差不多的牌”，而是一步一步把手牌推进到固定的和牌结构。
+【刻子】<img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34">　<img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34">　……　相同的三张牌
 
-## 和牌形有哪些样子
+因此，从牌张构成来理解，麻将的和牌形如下。
 
-四面子一雀头看起来固定，但内部组合并不一样：
+**1．四面子一雀头**
 
-### 1. 四面子一雀头
+1-a　四组顺子  
+<img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34">
 
-1. 1-a 四组顺子  
-   <img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" />
-2. 1-b 三组顺子加一组刻子  
-   <img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" />
-3. 1-c 两组顺子加两组刻子  
-   <img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" />
-4. 1-d 一组顺子加三组刻子  
-   <img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" />
-5. 1-e 四组刻子  
-   <img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" /><img src="../hai/ura.gif" width="24" height="34" />
+1-b　三组顺子一组刻子  
+<img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34">
 
-特殊和牌形也要知道：
+1-c　二组顺子二组刻子  
+<img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34">
 
-### 2. 七对子
+1-d　一组顺子三组刻子  
+<img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34">
 
-<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" />
+1-e　四组刻子  
+<img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34">
 
-### 3. 国士无双
+**2．七对子**
 
-<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/sha.gif" width="24" height="34" /><img src="../hai/pei.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" />
+<img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34">
 
-这些和牌形的成形难度并不一样。
+**3．国士无双**
 
-其中最难做成的当然是国士无双，而它的回报也最大，对应的是役满这个最高打点级别。
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">
 
-另外，严格来说面子里还包括四张同牌组成的杠子；这里只先不把它和刻子分开讲，后面再单独处理。
+这些和牌形的成形难度并不一样。  
+最难做成的当然是国士无双，而与之对应，它也拥有役满这个最高级别的打点回报。
 
-七对子和国士无双都属于特殊和牌形。学习牌效率时，默认仍然先用普通手的“四面子一雀头”思路来理解。
+另外，严格来说，面子里还包括四张相同牌组成的杠子。  
+不过这里先不把它和刻子分开处理。
 
-## 什么叫听牌
+## 听牌是什么
 
-只差最后一张牌就能和牌，叫做`听牌`。
+只差 1 张牌就能完成和牌形，叫做听牌。  
+只要手里有役，就可以和牌。
 
-例 1：<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" />
+【例 1】<img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/man9.gif"><img src="../hai/man9.gif"><img src="../hai/man9.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/sou2.gif"><img src="../hai/sou2.gif"><img src="../hai/haku.gif"><img src="../hai/haku.gif"><img src="../hai/haku.gif"></p>
 
-这手只要再来 <img src="../hai/man1.gif" width="24" height="34" /> 或 <img src="../hai/man4.gif" width="24" height="34" /> 就和牌。
+这手牌只要来 <img src="../hai/man1.gif"> 或 <img src="../hai/man4.gif"> 就能和牌。
 
-听牌是实战里的关键节点：
+麻将里，如果没有听牌，就不可能拿到和牌分数。  
+（例外基本只剩别人的错和罚分。）
 
-1. 没听牌就不可能和牌
-2. 门清听牌后才能立直
-3. 越早进入听牌，通常越容易抢到先手
+而且在门清状态下，只要听牌，就能立直。  
+所以，尽可能快地把手牌推进到听牌，是非常重要的。
 
-## 什么叫向听
+## 向听数
 
-离听牌还差几步，用`向听数`表示。
+【例 2】<img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/man9.gif"><img src="../hai/man9.gif"><img src="../hai/man9.gif"><img src="../hai/pin5.gif"><img src="../hai/pin7.gif"><img src="../hai/sou2.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/haku.gif"><img src="../hai/haku.gif"><img src="../hai/haku.gif"></p>
 
-例 2：<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" />
+这手距离听牌还差一步。  
+只要摸到 <img src="../hai/man1.gif"><img src="../hai/man4.gif"><img src="../hai/pin6.gif"> 就能听牌。
 
-这手只要摸到 <img src="../hai/man1.gif" width="24" height="34" />、<img src="../hai/man4.gif" width="24" height="34" /> 或 <img src="../hai/pin6.gif" width="24" height="34" /> 就能进入听牌，所以它是`一向听`。
+像这样，只要再摸进 1 张有效牌就能进入听牌的状态，叫做  
+**一向听**
 
-也就是说：
+而这些能让手牌进入听牌的牌（这里是 <img src="../hai/man1.gif"><img src="../hai/man4.gif"><img src="../hai/pin6.gif">），原页把它叫作  
+**听牌机会**
 
-1. `0 向听` = 已经听牌
-2. `1 向听` = 再进一步就听牌
-3. `2 向听` = 还要两步
+听牌机会越多，手牌就越容易进入听牌。  
+也就可以认为这是一手更优秀的一向听。
 
-后面依次类推。
+---
 
-能把手牌当前是几向听看清，是麻将里最基础的判断能力。
+【例 3】<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">
 
-## 同样是一向听，质量也差很多
+例 3 的受入非常多，是 `13` 种 `42` 枚的一向听。  
+而例 2 只有 `3` 种 `12` 枚，差了接近 4 倍。
 
-例 3：<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" />
+也就是说，同样是一向听，不同牌形之间，进入听牌的容易程度会有非常大的差别。
 
-这一手也是一向听，但受入非常多，原页给出的结论是 `13 种 42 枚`。和上面的例 2 相比，进入听牌的速度差距非常大。
+从现在起，就要开始养成这种意识：  
+一副手牌距离听牌，最少还要几步，这个最短步数就叫作 **向听数**。
 
-所以实战里不能只说“我是一向听”，还得继续问：
+向听数为 `1` 的手牌，叫做一向听。  
+向听数为 `2` 的手牌，叫做二向听。  
+再往后依次还有三向听、四向听……
 
-1. 这手一向听的受入有多少
-2. 是不是容易进入听牌
-3. 进入听牌后会是什么牌型
+---
 
-## 最远会差到多少
+顺便说一个小知识：  
+麻将里，距离听牌最远的情况是六向听。
 
-例 4：<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/sha.gif" width="24" height="34" /><img src="../hai/pei.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" />
+【例 4】<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/haku.gif"></p>
 
-这种杂乱起手，最短也要六步才能到七对子听牌，因此是`六向听`。这也是常见手牌里距离听牌最远的级别。
+例 4 就是一手六向听的例子。  
+就算按最快的七对子路线走，也还得再前进六步才能到听牌。
 
-这个知识点本身不是实战重点，但能帮助你建立一个整体感觉：向听数越大，离成牌越远，做牌空间也越大。
+向听数是判断自己距离和牌还有多远的重要指标。  
+必须把“自己现在到底是几向听”训练到接近直觉反应。  
+至少，一向听和二向听必须明确区分开来打。
 
-## 打牌时要优先降低向听
+## 降低向听数
 
-例 5：<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /> 自摸<img src="../hai/pin5.gif" width="24" height="34" />
+如果自己的手牌是二向听，就要想着推进到一向听；  
+如果是一向听，就要想着推进到听牌；  
+如果已经听牌，就要想着和牌。  
+带着这种顺序意识去打牌，非常重要。
 
-如果只因为 <img src="../hai/man1.gif" width="24" height="34" /> 在边张、看起来孤立，就先把它切掉，手牌仍然停留在两向听。
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　　自摸<img src="../hai/pin5.gif" width="24" height="34"></p>
 
-正确方向是先找能把手牌推进到一向听的切法，也就是切 <img src="../hai/man6.gif" width="24" height="34" /> 或 <img src="../hai/pin3.gif" width="24" height="34" />。
+例如这手牌，如果只是因为 <img src="../hai/man1.gif" width="24" height="34"> 在边张、看起来又是浮牌，就把它切掉，那么手牌仍然停留在二向听。
 
-<img src="../images/004.gif" />
+为了推进到一向听，应该切 <img src="../hai/man6.gif" width="24" height="34"> 或 <img src="../hai/pin3.gif" width="24" height="34">。
 
-麻将正常做牌就是这样一步一步推进：
+<img src="../images/004.gif">
 
-1. 两向听推进到一向听
-2. 一向听推进到听牌
-3. 听牌再去争取和牌
-
-有些局面会为了打点、防守或手役而暂时不降向听，但那是后续的进阶判断。基础阶段必须先把“优先推进向听”这个主线养成。
-
-## 这一页的结论
-
-1. 麻将的主流和牌结构是四面子一雀头
-2. 听牌就是只差最后一张
-3. 向听数表示离听牌还有几步
-4. 同样是一向听，受入多寡会让质量差很多
-5. 基础做牌时，优先让手牌往更低向听推进
+麻将就是像图里这样，一步一步地把手牌推进到和牌。  
+中间绝不可能跳过某一层直接完成。  
+当然，某些局面下也会出现“暂时不降向听反而更好”的情况；  
+但在基本层面上，打牌还是应该优先考虑如何降低向听数。
 
 ---
 
