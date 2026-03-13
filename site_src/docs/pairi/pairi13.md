@@ -1,155 +1,100 @@
 # 一向听牌理（1）
 
-一向听阶段的牌理，是整套做牌技术里最重要的部分之一。
+我认为，一向听时的牌理，是整套做牌技术里最重要的部分。  
+原因很简单，因为它会大幅影响和牌率。
 
-原因并不复杂：离和牌只差一步的时候，打错一张的代价会非常大。对那些本来就很难和出来的烂手，稍微低效一点未必会立刻出事；但到了已经逼近听牌的时候，判断失误往往会直接伤到和牌率。
-
-这一页先看最基础的一类：**充分形与不充分形的一向听，该如何分开判断。**
+对那种“怎么打都很难和”的烂手，就算效率稍微差一点，也未必立刻出事；  
+但已经逼近和牌时再犯错，往往就是致命伤。
 
 ## 1. 基本思路
 
-原页流程图对应的核心判断顺序如下：
+打牌选择可以按照下面这个流程来进行：
 
 <img src="../images/011.gif" width="487" height="576" />
 
-这个流程图要从上往下看，菱形部分代表分支。真正难的地方在于特殊情形，也就是：
+这个流程图要从上往下看，菱形代表分支。  
+最难的地方在于特殊情况，也就是：
 
-**即便打出“受入最大”的那一张，这个一向听本身仍然不够充分。**
-
-处理顺序可以整理成：
-
-1. 先看最大受入的一向听，是否已经能算“充分形”
-2. 如果已经充分，就比较听牌后的待牌质量
-3. 若连待牌质量也差不多，再让手役或打点价值介入
-4. 如果最大受入本身都还不够，就先看好形变化
-5. 某些局面甚至允许主动退回两向听
+“即使打出受入最大的那一张，这个一向听本身也还称不上充分形。”
 
 ## 2. 基本模式
 
-“充分形”的标准并没有绝对答案，但原页给了一个很实战的基准：
+“充分形”的标准并不好绝对划线。  
+就我个人而言，**受入枚数达到 16 枚以上**，就可以算是充分形。
 
-**受入达到 `16` 张以上，可以视为充分形。**
-
-很多人会觉得这个门槛太高，但其实不然。即使受入有 `16` 张，从一向听推进到听牌，平均仍常常要花掉 `7` 到 `8` 巡。考虑到一局总共也就 `18` 巡左右，`16` 张其实只是勉强合格的分界线。
-
-所以这里的判断顺序是：
-
-1. `16` 张以上，先视作充分形
-2. 先别急着追求“更漂亮的局部形状”
-3. 只有在受入差不多时，才进一步比待牌
+也许有人会觉得这个标准太高，  
+但即使受入有 16 枚，从一向听推进到听牌，平均还是要花掉 7 到 8 巡。  
+考虑到一局总共也就 18 巡左右，这其实已经只是勉强及格的线。
 
 ---
 
-**例 1**
+**例 1**  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" />
 
-<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">
+打 <img src="../hai/pin6.gif" width="24" height="34" /> 之后的一向听，受入有 16 枚。  
+这就可以认为已经达到合格线了。
 
-打 `6p` 后是一向听，受入有 `16` 张。这已经可以认为达到合格线。
+当然，如果索子部分先补进来，最后会变成愚形听牌；  
+但即便如此，也还不至于为了预防这个结果，就去拆万子，白白少掉 4 枚受入。
 
-当然，如果索子那边先补进来，最后会变成愚形听牌；但即便如此，也还不值得为了预防这个分支，去把万子那边拆掉，白白少掉 `4` 张受入。
-
-这一题要记住的不是“局部不能有愚形”，而是：
-
-1. 只要最大受入已经够宽，就先认可这个一向听
-2. 不要因为想象中的局部坏结果，主动放弃整体速度
-
-当“最大受入”的打法不止一种，或者只差 `1` 到 `2` 张时，再进一步比较听牌后的待牌质量。
+如果“最大受入”的打牌不止一种，  
+或者它们之间只差 1 到 2 枚，那么下一步就该比较听牌之后的待牌质量。
 
 ---
 
-**例 2**
+**例 2**  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" />
 
-<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">
+打 <img src="../hai/man5.gif" width="24" height="34" /> 和打 <img src="../hai/sou6.gif" width="24" height="34" />，  
+都是 16 枚受入的一向听，所以这时就要比较待牌。
 
-打 `5m` 和打 `6s`，都是 `16` 张受入的一向听，所以单看速度没有差别。这时就要比较将来谁更容易做成好等待。
-
-答案是打 `6s` 更好，因为它更容易形成两面听。
-
-这类题目的顺序要固定：
-
-1. 先比一向听受入
-2. 受入相同，再比待牌质量
-3. 更容易走成两面听的方案优先
+更容易形成两面待的，是打 <img src="../hai/sou6.gif" width="24" height="34" /> 这一边。
 
 ---
 
-**例 3**
+**例 3**  
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" />
 
-<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">
+这是充分形，  
+而且无论取一向听的牌数还是最后的待牌质量，都没有明显差别。
 
-这一题也属于充分形，而且无论从能取到一向听的牌数，还是最终听牌的待牌质量来看，都没有明显差别。
+既然如此，就让手役价值来决定。  
+这里应该保留 <img src="../hai/sou8.gif" width="24" height="34" />，继续瞄准 `678` 三色。
 
-既然牌理部分打平，就轮到手役价值进场。这里应保留 `8s`，继续瞄准 `678` 三色。
-
-这个顺序不能颠倒。不是一开始就为了三色而强留，而是：
-
-1. 先确认受入不亏
-2. 再确认待牌不亏
-3. 前两项都打平时，才让三色这种手役价值参与比较
-
-做到这里，都还算是比较基本的模式。
+到这里为止，都还属于不太难的范围。
 
 ## 3. 不充分形
 
-当最大受入只有 `12` 张左右时，就不能把“反正还是一向听”当成理由了。
+**例 4**  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" />
 
-这种牌首先要看的，是好形变化能力。也就是：
+受入只有 12 枚，这种就该认为是不充分形。  
+因此首先要考虑的，是向好形变化。
 
-1. 谁更容易把坏形改成两面
-2. 谁更容易把后续路线做宽
-3. 谁没有把未来发展锁死
-
----
-
-**例 4**
-
-<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34">
-
-这一题的一向听受入只有 `12` 张，应视为不充分形。
-
-所以这里首先要想的不是“能不能维持一向听”，而是“谁更容易往后做成好形”。
-
-浮着的 `2m`，和已经形成连续形的筒子部分，在制造两面听的能力上完全不是一个级别。连续形的价值，在这种不充分形里会显著提高。
-
-因此这里应切 `2m`。
-
-原页这一题要强调的是：
-
-1. 受入不够宽时，要优先看好形变化
-2. 弱浮牌若改良能力差，应先处理
-3. 连续形在这种局面里明显更有价值
+浮着的 <img src="../hai/man2.gif" width="24" height="34" /> 和筒子的连续形相比，  
+制造两面待的能力完全不是一个等级。  
+所以例 4 应该是一手 <img src="../hai/man2.gif" width="24" height="34" /> 切。
 
 ---
 
-**例 5**
+**例 5**  
+<img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" />
 
-<img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">
+例 5 除了取一向听之外，  
+还存在一种选择:
 
-这一题除了取一向听以外，还有另一种选择：
+<span class="blue"><strong>“退回两向听”</strong></span>
 
-**退回两向听。**
+因为这里应尽量避免那种“自己已经用掉 1 张”的 <img src="../hai/pin3.gif" width="24" height="34" /> 待。
 
-原因在于，如果取那条一向听路线，最后很可能会落到自己已经用掉一张的 `3p` 待。这种待牌质量过低时，单纯“更近一步”并不一定真能换来更高胜率。
+<span class="red"><strong>断幺、平和这些手役所带来的打点价值，  
+以及立直之后的和牌率，也就是防止失点的能力，  
+都会让“取一向听”不一定比“退回两向听”更有利。</strong></span>
 
-原页特别强调的难点就在这里：
+这正是麻将困难的地方。
 
-1. 平和、断幺九这类手役带来的打点与完成率
-2. 立直时的和牌率与防失点能力
-3. 这些综合因素，可能让“取一向听”未必优于“退回两向听”
-
-这就是麻将一向听判断最难的地方。更近，不代表一定更好。
-
-这一题原页给出的意见是：**打 `2p`。**
-
-后面的几页，也都会继续沿用这里的这套思路，彻底讨论一向听牌理。
-
-## 这一页的结论
-
-1. 一向听阶段，先判断最大受入是否已经达到充分形，`16` 张可作为实战上的及格线
-2. 若已经充分，再比较最终听牌的待牌质量
-3. 若受入和待牌都差不多，才让手役价值介入
-4. 若受入不足，要优先看好形变化能力
-5. 某些低质量一向听，不如主动退回两向听重组
+我个人认为，这里打 <img src="../hai/pin2.gif" width="24" height="34" /> 更好。  
+接下来的几页，也都会继续沿着这种思路，对一向听牌理做更彻底的检讨。
 
 ---
 
