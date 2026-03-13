@@ -2,22 +2,15 @@
 
 这一页讨论无头形的一向听。
 
-先给结论：
+先说结论，这一类形：  
+<span class="red"><strong>把它做成雀头不确定、保留“搭子 + 搭子”的形，通常会最宽。</strong></span>  
+尤其是有暗刻的时候，以及搭子能构成复合形的时候，  
+基本都应该这样处理。
 
-**无头形时，把结构保留成“雀头不确定，搭子 + 搭子”通常最宽。**
+---
 
-尤其是：
-
-1. 手里有暗刻时
-2. 外侧两块能做成复合搭子时
-
-这两类局面，原则上都应这样处理。
-
-## 有暗刻的无头形
-
-## 例 1
-
-<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 摸 <img src="../hai/man8.gif" width="24" height="34">
+**例 1**  
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 摸 <img src="../hai/man8.gif" width="24" height="34" />
 
 | 打法 | 听牌机会 | 受入枚数 |
 | --- | --- | --- |
@@ -26,13 +19,14 @@
 | 切 `3s` | `4p 7p 5s 8s` | `16` 张 |
 | 切 `6s` | `4p 7p 1s 4s 7s` | `17` 张 |
 
-这一题列出了所有能取到一向听的打法，以及它们的听牌机会。
+这题把所有能取到一向听的打牌，以及各自的听牌机会都列出来了。  
+应该很容易看出，切 <img src="../hai/sou1.gif" width="24" height="34" /> 有压倒性的优势。  
+而且一旦听牌，最终还保证是两面，几乎没有讨论余地。
 
-很容易看出，切 `1s` 有压倒性优势。不仅听牌机会最多，而且一旦听牌，等待质量也能保证是两面，几乎没有讨论空间。
+---
 
-## 例 2
-
-<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 摸 <img src="../hai/man8.gif" width="24" height="34">
+**例 2**  
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 摸 <img src="../hai/man8.gif" width="24" height="34" />
 
 | 打法 | 听牌机会 | 受入枚数 |
 | --- | --- | --- |
@@ -41,25 +35,29 @@
 | 切 `3s` | `6p 5s 8s` | `12` 张 |
 | 切 `5p` | `7p 1s 4s 5s 8s` | `17` 张 |
 
-如果两组搭子里有一组是愚形，这时“直接拆掉那组坏形搭子”就会成为很有力的选择。
+如果两组搭子里有一组是愚形，  
+那么“把那组愚形搭子拆掉”也会变成一个很有力的选项。  
+保留两组搭子当然仍然更宽，但这条路线如果是索子那边进张，最后全部都会变成坎 <img src="../hai/pin6.gif" width="24" height="34" /> 待。
 
-保留“搭子 + 搭子”当然还是更宽，切 `1s` 的听牌机会明显最多；但如果走这条路线，只要是索子那边进张，最终全部都会听成坎 `6p`。
+相对地，如果切 <img src="../hai/pin5.gif" width="24" height="34" />，虽然听牌会慢一点，  
+但最终一定是好形听牌。
 
-相对地，切 `5p` 的路线虽然听牌速度会慢一些，但最终能稳定听成好形，而且后续变化里也更容易长成更好和的结构。
+而且拆愚形搭子的打法，在后续变化里也更容易转成更好和的形。
 
-原页还给了一个补充变化：
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 摸 <img src="../hai/man7.gif" width="24" height="34" />
 
-<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 摸 <img src="../hai/man7.gif" width="24" height="34">
+如果变化成这一形，就能做到 `7` 种 `25` 张的一向听，  
+连听牌机会本身都超过“搭子 + 搭子”的路线了。  
+当然，并不是每次都能刚好这样长成。  
+如果要急着听牌，还是要记住切 <img src="../hai/sou1.gif" width="24" height="34" /> 的速度优势。  
+实战里能悠着来、主动放慢听牌的场面，并没有那么多。
 
-这一形能做到 `7` 种 `25` 张的一向听，连听牌机会都反超了原本的“搭子 + 搭子”路线。
+---
 
-当然，不能指望每次都刚好这样变化出来。若局面上需要尽快听牌，还是应记住切 `1s` 的速度优势。实战里真正有余裕主动拖慢听牌去换质量的场面，并不多。
+**例 3**  
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> 摸 <img src="../hai/man8.gif" width="24" height="34" />
 
-## 例 3
-
-<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"> 摸 <img src="../hai/man8.gif" width="24" height="34">
-
-这是“两组都带愚形”的无头一向听。
+最后来看“两组都剩愚形”的无头一向听。
 
 | 打法 | 听牌机会 | 受入枚数 |
 | --- | --- | --- |
@@ -68,35 +66,38 @@
 | 切 `3s` | `6p 7s` | `8` 张 |
 | 切 `8s` | `6p 1s 4s 9s` | `13` 张 |
 
-这种时候，就该接受现实，不要再强行执着“最后一定要听成好形”。因为这手本来就不容易好看。
+这时就该放弃“我一定要好形听牌”这种想法。  
+立直当然是好形最好，但这副牌本来就很难做到。  
+所以最大听牌机会的切 <img src="../hai/sou1.gif" width="24" height="34" /> 才是最优选择。  
+先以听牌为目标，等真的听了以后，再去决定是立直强攻，还是默听观察、摸到危险牌就收手。
 
-所以这里要先争取最大听牌机会，切 `1s` 最好。先把听牌做到，再在听牌以后决定是立直强攻，还是默听看危险牌时准备退守。
+以上都是“有暗刻”的模式。  
+检讨到这里，可以直接下一个结论：
 
-做到这里，可以下一个很硬的结论：
+<span class="blue"><strong>有暗刻的无头形，外面还剩两组搭子时，固定雀头绝对不是正确选择。</strong></span>
 
-**只要是“有暗刻的无头形，且外面还剩两组搭子”，固定雀头几乎一定是错误选择。**
+---
 
-原页甚至直接说：这是“绝对不该做”的一类打法。
+比如下面这一形：
 
-## 固定雀头的反例
+<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" />
 
-下面这个例子是专门拿来说明“为什么固定雀头会吃大亏”的：
-
-<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">
-
-比如这一题，如果切 `2s` 来固定雀头，就是坏手。和切 `3m` 去保留无头结构相比，受入差距是“天差地远”。
+如果切 <img src="../hai/sou2.gif" width="24" height="34" /> 来固定雀头，也是坏手。  
+和切 <img src="../hai/man3.gif" width="24" height="34" /> 相比，受入枚数差得不是一点半点。
 
 ### 理论小结
 
-**把牌做成雀头不确定形，通常会比固定雀头拥有更多听牌机会。**
+<span class="green">比起固定雀头，做成雀头不确定形时，听牌机会会更多。</span>
 
-## 没有暗刻的无头形
+---
 
-如果手里没有暗刻，无头形会多一个顾虑：走“搭子 + 搭子”的路线时，有些进张会让你最后听成单骑。
+如果手里没有暗刻，就会多出一个顾虑：  
+保留两组搭子时，有可能最后会听成单骑。
 
-## 例 4
+---
 
-<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 摸 <img src="../hai/man9.gif" width="24" height="34">
+**例 4**  
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 摸 <img src="../hai/man9.gif" width="24" height="34" />
 
 | 打法 | 听牌机会 | 受入枚数 |
 | --- | --- | --- |
@@ -104,30 +105,32 @@
 | 切 `3s` | `4p 7p 5s 8s` | `16` 张 |
 | 切 `6s` | `4p 7p 1s 4s 7s` | `17` 张 |
 
-单看听牌机会，切 `1s` 依旧压倒性领先。
-
-但这题之所以会有争议，是因为在这 `28` 张里，摸到 `4p 7p 5s 8s` 时都会听成单骑。真正能保证两面听牌的，只有：
-
-`5p 6p 6s 7s`
-
-这 `12` 张纵向进张。
+从听牌机会来看，切 <img src="../hai/sou1.gif" width="24" height="34" /> 依然压倒性更强。  
+但如果摸进 <img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" />，最后都会变成单骑待。  
+也就是说，在这 `28` 张里，真正能以两面听牌的，只有  
+<img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 这 `12` 张纵向进张。
 
 相对地，如果固定雀头：
 
-1. 就能保证最后一定是两面听牌
-2. 还能顺带保证平和，打点也更稳定
+1. 两面听牌就能保证
+2. 平和也能保证，打点上同样有好处
 
-原页还补充比较了切 `6s` 这一路。若最终听成 `1s / 4s` 待，这个待张会比 `5s / 8s` 少 `2` 枚，所以即使受入只少 `1` 张，也有人会觉得切 `3s` 更值。
+至于切 <img src="../hai/sou6.gif" width="24" height="34" /> 这一路，如果最后听成 <img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" />，  
+待牌会比 <img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> 少 `2` 张。  
+因此也有人会觉得，即使受入只少 `1` 张，切 <img src="../hai/sou3.gif" width="24" height="34" /> 更值。
 
-因此这里 `1s` 还是 `3s`，确实会有流派差异。原作者个人偏向 `1s`，因为哪怕暂时听成单骑，也还可以再等变化。
+所以这里到底切 <img src="../hai/sou1.gif" width="24" height="34" /> 还是切 <img src="../hai/sou3.gif" width="24" height="34" />，多少会有些意见分歧。  
+我个人还是觉得切 <img src="../hai/sou1.gif" width="24" height="34" /> 更有利，  
+因为就算暂时变成单骑，也可以继续等待变化。
 
-所以这类“平和形无头一向听，要不要固定雀头”，直到现在也没有完全统一的答案，按个人习惯选择也可以。
+这种平和形里要不要固定雀头，到现在都还没有统一结论，  
+按个人喜好来选也没问题。  
+不过，如果搭子是复合两面形，现在更强势的看法还是：**雀头不确定形更优。**
 
-不过原页马上补了一句：**如果搭子本身是复合两面形，强烈倾向仍是无头更优。**
+---
 
-## 例 5
-
-<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 摸 <img src="../hai/pin7.gif" width="24" height="34">
+**例 5**  
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 摸 <img src="../hai/pin7.gif" width="24" height="34" />
 
 | 打法 | 听牌机会 | 受入枚数 |
 | --- | --- | --- |
@@ -135,17 +138,19 @@
 | 切 `3s` | `3m 6m 5s 8s` | `15` 张 |
 | 切 `5m` | `1m 4m 1s 4s 5s 8s` | `20` 张 |
 
-到了这题，听牌机会的差距已经完全拉开。
+听牌机会的差距已经拉得更开了。  
+而且就算进的是 <img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" />，  
+也仍然可以通过切 <img src="../hai/man5.gif" width="24" height="34" /> 去取平和听牌。  
+也就是说，`33` 张里有 `26` 张都能形成好形听牌。  
+所以例 5 明显是切 <img src="../hai/sou1.gif" width="24" height="34" />。
 
-更重要的是，就算摸进 `5s / 8s`，也仍可以通过切 `5m` 拿平和听牌。也就是说，在 `33` 张听牌机会里，有 `26` 张都能直接做成好形听牌。
+---
 
-所以例 5 毫无疑问应切 `1s`。
+**例 6**  
+<img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /> 摸 <img src="../hai/sou7.gif" width="24" height="34" />
 
-## 例 6
-
-<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"> 摸 <img src="../hai/sou7.gif" width="24" height="34">
-
-如果两组搭子里有一组是愚形，这时“拆掉坏形搭子”就又会变成强手：
+如果两组搭子里有一组是愚形，  
+这时“拆掉愚形搭子”仍然是很有力的一手。
 
 | 打法 | 听牌机会 | 受入枚数 |
 | --- | --- | --- |
@@ -153,43 +158,32 @@
 | 切 `3p` | `4m 7m 7p` | `12` 张 |
 | 切 `8p` | `4m 7m 1p 4p 9p` | `17` 张 |
 
-单看听牌机会，依旧是切 `1p` 留“搭子 + 搭子”最好。
+在听牌机会方面，当然还是切 <img src="../hai/pin1.gif" width="24" height="34" />、保留两组搭子更强；  
+但切 <img src="../hai/pin8.gif" width="24" height="34" /> 有三个优点：
 
-但切 `8p` 有三个明显优点：
+1. 最终待牌会更好
+2. 平和概率会上升
+3. 更容易再变化成好形
 
-1. 最终等待会更好
-2. 平和的概率会上升
-3. 后续更容易再变化成好形
-
-尤其这题索子部分本身连在一起，更值得争取好形变化。原页还给了一个变化：
+尤其例 6 的索子是连在一起的，所以更应该去看好形变化。
 
 ☆ 变化  
-<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 摸 <img src="../hai/sou5.gif" width="24" height="34">
+<img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 摸 <img src="../hai/sou5.gif" width="24" height="34" />
 
-这一题最后强调的是：你得看清楚自己有没有“允许听牌慢一点”的余裕。到了终盘，能不能拿到听牌料可能比是否和出更重要；那时听牌机会多的一边就会重新变得更有价值。
+关键在于，要能判断“现在有没有余裕去让听牌变慢”。  
+如果已经到了终盘，比起和出，拿到听牌料往往更重要；  
+那时听牌机会更多的一边就会更有利。
 
-所以最好的做法是：
+把每一种打牌的优缺点都看清，  
+再根据局况去打出最合适的一手，才是最好。
 
-1. 理解每种切牌的优点和缺点
-2. 再结合局况决定该取速度还是质量
+---
 
-## 例 7
+**例 7**  
+<img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /> 摸 <img src="../hai/sou7.gif" width="24" height="34" />
 
-<img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"> 摸 <img src="../hai/sou7.gif" width="24" height="34">
-
-最后再看“两组都剩愚形”时的无头形。
-
-这种时候，还是应该老老实实争取最快听牌，所以应切 `1p`。
-
-## 这一页的结论
-
-1. 无头形的一向听，默认应保留成“雀头不确定，搭子 + 搭子”
-2. 有暗刻时，这个原则尤其强，固定雀头几乎必错
-3. 若其中一组搭子是明显愚形，拆坏形搭子会成为有力选项
-4. 没有暗刻时，要额外考虑是否会频繁落到单骑听牌
-5. 平和型无头形里，是否固定雀头有时存在流派差异
-6. 若搭子是复合两面，无头路线通常再次明显占优
-7. 最终仍要看局况：有时该抢听牌机会，有时该换更好的最终形
+最后来看“两组都剩愚形”的情况。  
+这种时候，还是应该老老实实取速度，打 <img src="../hai/pin1.gif" width="24" height="34" />。
 
 ---
 
