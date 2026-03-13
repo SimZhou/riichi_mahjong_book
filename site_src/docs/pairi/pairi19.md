@@ -1,18 +1,19 @@
 # 听牌时牌理
 
-大多数时候，听牌后其实没有太多可选项；但只要出现“同样能听牌，却能选不同待牌”的局面，基本原则仍然是：
-
-**选择最容易真正和出的待牌。**
+听牌时，很多场合其实并没有什么可选项；  
+但如果待牌可以选择，基本原则就是取**最容易和牌的那种待牌**。
 
 ## 1. 待牌枚数
 
-待牌枚数越多，通常就越容易和牌。先比枚数，这是听牌选择里最基础的一层。
+待牌枚数越多，通常就越容易和牌。  
+因此优先去取枚数更多的待牌，是理所当然的。
 
-## 例 1
+---
 
-<img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"> 摸 <img src="../hai/sou7.gif" width="24" height="34"> 碰 <img src="../hai/yhaku.gif" width="32" height="24"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34">
+**例 1**  
+<img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> 摸 <img src="../hai/sou7.gif" width="24" height="34" /> 碰 <img src="../hai/yhaku.gif" width="32" height="24" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" />
 
-这一题一共有 `4` 种听牌方式：
+例 1 一共有 4 种待牌选择。
 
 | 打法 | 和牌牌种 | 枚数 |
 | --- | --- | --- |
@@ -21,117 +22,103 @@
 | 切 `4s` | `3s 5s` | `4` 张 |
 | 切 `5s` | `2s 3s 6s` | `10` 张 |
 
-把所有候选待牌都列出来以后，就能很直接地看出：切 `5s` 最优。
+只要全部列出来，就能看出这里是切 <img src="../hai/sou5m.gif" width="19" height="26" /> 的一手。
 
-但很多人一看到这种题，会本能地去取双碰待，或者因为不习惯三面张而犹豫。原页专门提醒：这并不是什么稀有三面张，如果平时把常见多面张练熟，这类题就应该能做到几乎不假思索。
+不过，不熟悉多面张的人，很容易就顺手去取双碰。  
+这并不是什么罕见三面张。  
+只要把牌形记熟，这种选择就应该能做到不假思索。
 
-## 例 2
+---
 
-<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"> 摸 <img src="../hai/man1.gif" width="24" height="34">
+**例 2**  
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /> 摸 <img src="../hai/man1.gif" width="24" height="34" />
 
-原页专门拿这一题提醒：
-
-**待牌种类多，不等于待牌枚数就一定多。**
+顺便提醒一句：  
+待牌种类再多，如果总枚数少，也没意义。  
+例 2 就是不该取三面张的例子。
 
 | 打法 | 和牌牌种 | 枚数 |
 | --- | --- | --- |
 | 切 `9m` | `2p 3p 4p` | `5` 张 |
 | 切 `3p` | `6m 9m` | `6` 张 |
 
-表面上看，切 `9m` 后是三面张，似乎很漂亮；但实际剩张只有 `5` 张，连延单待都不如。
+虽然看起来是三面张，但实际枚数很少，连延单都不如。  
+而且一旦那样取，原本已经做好的高概率一杯口也会被拆散。
 
-而切 `3p` 虽然只是双碰待，却有 `6` 张，还不会把本来已经成型的一杯口高概率拆坏。
+所以例 2 应该以 <img src="../hai/man6m.gif" width="19" height="26" /><img src="../hai/man9m.gif" width="19" height="26" /> 待立直。
 
-所以例 2 应以 `6m / 9m` 的双碰待立直。
+## 2. 变化比较
 
-## 2. 改良比较
+如果待牌枚数没有差别，就要去比较变成更好待牌的可能性。
 
-如果待牌枚数相同，下一层就要比：谁更容易进一步转成更强的待牌。
+---
 
-## 例 3
+**例 3**  
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /> 碰 <img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/ysou8.gif" width="32" height="24" /><img src="../hai/sou8.gif" width="24" height="34" />
 
-<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"> 碰 <img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/ysou8.gif" width="32" height="24"><img src="../hai/sou8.gif" width="24" height="34">
+坎张和双碰到底取哪边，是很常见的选择。  
+两边现在都是 `4` 张待，所以不能靠感觉，  
+一定要去比较“好形变化”的张数。
 
-这是很常见的“坎张还是双碰”选择。
+而例 3 是食断手。  
+就算形式上变成两面，但如果会片和，那也不该算有效改良。  
+像 <img src="../hai/man8m.gif" width="19" height="26" />、<img src="../hai/pin8m.gif" width="19" height="26" /> 就不能算有效牌。
 
-当前待牌都是 `4` 张，所以不能靠直觉，必须继续比较改良。
+真正有效的手变是：
 
-但这里是食断手，因此即便表面上能改良，也不能把会变成**片和**的变化算进去。原页特别点名：像 `8m`、`8p` 这样的变化，虽然形式上会变成两面，但实际上并不算有效改良。
+双碰时：<img src="../hai/man4m.gif" width="19" height="26" /><img src="../hai/pin6m.gif" width="19" height="26" />  
+坎张时：只有 <img src="../hai/man4m.gif" width="19" height="26" />
 
-这样筛掉以后：
+因此这里最优解是取双碰。
 
-1. 取双碰时，有效改良是 `4m`、`6p`
-2. 取坎张时，有效改良只有 `4m`
+---
 
-因此这里应保留双碰待。
+**例 4**  
+<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/sha.gif" width="24" height="34" /><img src="../hai/sha.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /> 摸 <img src="../hai/nan.gif" width="24" height="34" /> 吃 <img src="../hai/yman1.gif" width="32" height="24" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" />
 
-这一题的关键不在“改良牌有几张”，而在：
+这看上去只是完全没差别的两组两嵌选择，  
+但基本原则仍然是去取坎 <img src="../hai/man6m.gif" width="19" height="26" /> 那边。
 
-**改良以后，是否仍然算有效可和的听牌。**
+因为两边的有效牌分别是 <img src="../hai/man2m.gif" width="19" height="26" /> 和 <img src="../hai/man8m.gif" width="19" height="26" />，  
+而 <img src="../hai/man8m.gif" width="19" height="26" /> 是可以从上家鸣进来的。
 
-## 例 4
+<img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/sha.gif" width="24" height="34" /><img src="../hai/sha.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /> 吃 <img src="../hai/yman1.gif" width="32" height="24" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" />
 
-<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"> 摸 <img src="../hai/nan.gif" width="24" height="34"> 吃 <img src="../hai/yman1.gif" width="32" height="24"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34">
+→ <img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/sha.gif" width="24" height="34" /><img src="../hai/sha.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /> 吃 <img src="../hai/yman8.gif" width="32" height="24" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /> 吃 <img src="../hai/yman1.gif" width="32" height="24" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" />
 
-这题看起来只是平平无奇的两组两嵌比较，但原页强调的是一个更进阶的判断：
+把“手变的容易程度”连同鸣牌一并计算，是比较进阶的判断方式。
 
-**副露手要把“能不能吃到这张改良牌”也算进去。**
+---
 
-这里原则上要取坎 `6m` 这一边。因为两边理论上的改良牌分别是：
+还有一种更简单的判断，就是看场况。
 
-1. `2m`
-2. `8m`
+如果两组两嵌里是 <img src="../hai/pin3m.gif" width="19" height="26" /><img src="../hai/pin5m.gif" width="19" height="26" /><img src="../hai/pin7m.gif" width="19" height="26" /> 这种情况，  
+假设 <img src="../hai/pin1m.gif" width="19" height="26" /> 已经在场上切了 `3` 张，  
+那么就算摸到 <img src="../hai/pin2m.gif" width="19" height="26" />，变成 <img src="../hai/pin1m.gif" width="19" height="26" /><img src="../hai/pin4m.gif" width="19" height="26" /> 待，价值也很低。
 
-但 `8m` 是可以从上家直接吃进来的，所以它在实战里的改良速度更快。
+像这种时候，就要有意识地吸收牌河信息，去切 <img src="../hai/pin3m.gif" width="19" height="26" /> 之类的牌。
 
-原页还给出了后续形：
+单骑待和坎张、边张的比较尤其要小心。  
+这一类局面，往往就算当前少 1 张，也应该去取单骑。
 
-<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"> 吃 <img src="../hai/yman1.gif" width="32" height="24"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34">
+---
 
-→ <img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"> 吃 <img src="../hai/yman8.gif" width="32" height="24"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"> 吃 <img src="../hai/yman1.gif" width="32" height="24"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34">
+**例 5**  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /> 摸 <img src="../hai/sou6.gif" width="24" height="34" />
 
-这就是把“鸣牌参与改良”也计入判断的一种高级做法。
+边张是 `4` 张，单骑是 `3` 张。  
+但不能因此就草率地用边张立直。
 
-## 场况判断
+这手更应该做的是：  
+以单骑默听，等待手变，再争取两面以上的好形立直。  
+尤其当手里有中张暗刻、或者顺子相连的时候，手变枚数会非常多。
 
-原页后面还补了一个更简单但很实用的判断层：场况。
+例 5 中，摸到：
 
-例如两组两嵌里，若存在 `3p / 5p / 7p` 这样的候选，假设 `1p` 已经在场上切掉 `3` 张，那么即使你把牌改良成 `1p / 4p` 待，这个所谓的“好形”实际价值也会大打折扣。
+<img src="../hai/pin1m.gif" width="19" height="26" /><img src="../hai/pin2m.gif" width="19" height="26" /><img src="../hai/pin4m.gif" width="19" height="26" /><img src="../hai/pin5m.gif" width="19" height="26" /><img src="../hai/pin7m.gif" width="19" height="26" /><img src="../hai/pin8m.gif" width="19" height="26" /><img src="../hai/sou1m.gif" width="19" height="26" /><img src="../hai/sou4m.gif" width="19" height="26" /><img src="../hai/sou7m.gif" width="19" height="26" />
 
-也就是说，听牌选择已经不只是静态牌理，还要吸收牌河信息。
-
-## 单骑待和坎张、边张的比较要特别小心
-
-单骑待与坎张、边张的比较，是听牌选择里最容易误判的一类。因为有时虽然单骑少 `1` 张，但它后续的改良价值远大于那 `1` 张差距。
-
-## 例 5
-
-<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"> 摸 <img src="../hai/sou6.gif" width="24" height="34">
-
-边张有 `4` 张，单骑只有 `3` 张。
-
-但这不意味着就该机械地用边张立直。原页强调，这里更应该：
-
-1. 先把单骑留成默听
-2. 等待下一巡手变
-3. 争取以两面以上的好形立直
-
-尤其手里已经有中张暗刻、连续顺子时，手变枚数会非常多。
-
-以这一题为例，摸到：
-
-`1p 2p 4p 5p 7p 8p 1s 4s 7s`
-
-都能转成好形立直。也就是说，这种单骑虽然眼前少 `1` 张，但保留改良等待的价值很大，完全值得先压一巡。
-
-## 这一页的结论
-
-1. 听牌选择的第一原则仍是待牌枚数
-2. 多面张不天然更强，必须落实到具体剩张
-3. 待牌枚数相同时，要比较有效改良
-4. 改良不只看“能不能变”，还要看“变了之后是不是仍有效”
-5. 副露手要把“能不能鸣到改良牌”一起算进去
-6. 单骑待有时虽然眼前略窄，但因为改良极多，反而强于坎张或边张的即立直
+都能打出好形立直。  
+所以这里完全可以认为，保留立直的价值很高。
 
 ---
 
