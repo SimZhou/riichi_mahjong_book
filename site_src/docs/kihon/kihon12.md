@@ -1,123 +1,85 @@
-# 麻将的听牌（2）
+# 麻将的待牌（2）
 
-上一页讲的是基础待型和常见三面张。这一页开始看更复杂的`变则多面张`。
-
-先把结论说在前面：
-
-**多面听看起来千奇百怪，但本质上几乎都在做同一件事: 把“三张相同的牌”解释成“暗刻”，还是解释成“雀头加一张”。**
-
-只要抓住这一点，复杂听牌就不会完全失控。
+如果掌握了变则多面张的知识，不仅在混一色、清一色听牌时能用得上，也能让进攻手段更丰富，在很多场合都会更有利。
 
 ## 变则二面待
 
-变则二面待里，真正值得记住的形并不多。原页重点保留的是这一类：
+| 形 | 待牌 | 待牌枚数 |
+| --- | --- | --- |
+| <img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /> | <img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /> | 7 枚 |
 
-<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" />
-
-待牌：
-
-<img src="../hai/man8.gif" width="24" height="34" />、<img src="../hai/man9.gif" width="24" height="34" />
-
-总共 `7 枚`。
-
-这类待型出现频率不高，知道有这种构造即可，不需要在基础阶段花太多记忆力。
-
-原页这里也说得很明确：真正值得记住的变则二面待，差不多就这一类；其他虽然也存在，但出现率太低，不值得初学阶段花太多时间死记。
+变则二面待里，重要的大致也就是这一种。  
+虽然另外也还有别的形，但出现频率极低，没必要专门去记。
 
 ## 变则三面待
 
-实战中更有价值的是变则三面待。原页列了多组常见例子，它们强弱差异很大：
+| 形 | 待牌 | 待牌枚数 |
+| --- | --- | --- |
+| <img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /> | <img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /> | 5 枚 |
+| <img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /> | <img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /> | 5 枚 |
+| <img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /> | <img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /> | 6 枚 |
+| <img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /> | <img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /> | 7 枚 |
+| <img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /> | <img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /> | 9 枚 |
+| <img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /> | <img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> | 9 枚 |
+| <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /> | <img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /> | 10 枚 |
+| <img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> | <img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /> | 11 枚 |
 
-1. 有的虽然叫三面待，但总共只有 `5` 枚或 `6` 枚，未必真比一杯口固定更强
-2. 有的可以到 `9`、`10`、`11` 枚，实战价值就很高
+实战里经常能见到的变则三面待，大概也就是这些。
 
-这里真正该掌握的不是把每一组死背下来，而是理解判断思路。
+最上面两个很难说是好待，很多时候把一杯口固定下来反而更有利。
 
-不过原页的经验线本身也很重要：前面几组那种只有 `5` 枚、`6` 枚的“伪三面待”，很多时候并不能算好待；与其贪一个名字上的三面张，不如老老实实固定成一杯口或更稳定的好型。
+这是我在某个论坛里看到的一道题，这里显然应该毫不犹豫地切宝牌。
 
-## 判断思路 1：别只看“几面”，要看总枚数
+（例 1）<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 自摸<img src="../hai/sou2.gif" width="24" height="34" /> 宝牌<img src="../hai/man5.gif" width="24" height="34" />
 
-三面待听起来总比两面待厉害，但不成立。
+索子部分除了摸到 <img src="../hai/sou9.gif" width="24" height="34" /> 以外，摸进什么都会听牌。
 
-例如原页前两组变则三面待：
+而且除了摸到 <img src="../hai/sou2.gif" width="24" height="34" /> 之外，待牌都很好；如果摸进 <img src="../hai/sou6.gif" width="24" height="34" /> 或 <img src="../hai/sou7.gif" width="24" height="34" />，就是断平两杯口宝牌宝牌的大牌。
 
-1. 待牌种类有 3 种
-2. 可剩余枚数却只有 `5`
+除了切宝牌以外本来不该有别的答案，但结果却是切 <img src="../hai/sou6.gif" width="24" height="34" /> 的人更多（切 <img src="../hai/sou7.gif" width="24" height="34" /> 也一样）。这实在有点难以置信。
 
-这种待型在很多情况下，还不如把牌型固定成一杯口或更整齐的好型路线。
+---
 
-这也是原页为什么直接给出那手题的判断：该切宝牌就切宝牌，没必要为了守住表面上的形，放弃明显更强的进攻路线。
+下面再举几个在实战里，懂得变则受入就会更有利的例子。
 
-所以多面听判断第一条：
+（例 2）<img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /> 自摸<img src="../hai/tyun.gif" width="24" height="34" /> 吃<img src="../hai/ypin8.gif" width="32" height="24" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" />
 
-**先看总枚数，不要被“几面张”这个名字骗了。**
+原本已经以 <img src="../hai/pin4.gif" width="24" height="34" /> 到 <img src="../hai/pin7.gif" width="24" height="34" /> 的待牌听牌了，  
+这时中又变成了暗刻。
 
-## 判断思路 2：有些变则受入会直接扩大进攻选择
+也有人会为了摸和三暗刻而改成双碰待，  
+但这里还是切 <img src="../hai/pin6.gif" width="24" height="34" />，做成 <img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> 待才是正确答案。
 
-原页举了几个很实战的例子。
+如果随手切掉 <img src="../hai/pin3.gif" width="24" height="34" />，待牌并不会增加。
 
-例如某些已经听牌的牌，在摸进一张后：
+---
 
-1. 如果顺手切错，只是维持原来待牌
-2. 如果看懂变则受入，就能把待牌从两面扩成三面
+（例 3）<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" />自摸<img src="../hai/man1.gif" width="24" height="34" />吃<img src="../hai/yman8.gif" width="32" height="24" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" />碰<img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/yhaku.gif" width="32" height="24" />
 
-这类差别，在副露手和混一色、清一色里尤其关键，因为你的听牌空间本来就比门清普通手更受限。
+这手很容易一不留神就把摸到的牌切出去，但同样是三面张，  
+切 <img src="../hai/man7.gif" width="24" height="34" /> 之后形成的 <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /> 待更好。  
+因为跳符后会变成 5200 点。
 
-所以学这些复杂待型，不是为了炫技，而是为了在关键时刻不漏更宽的听牌。
+## 四面以上的待牌
 
-原页这里专门举了两手实战题：
+这里只列一些例子。  
+类似的形还有很多，自己试着去找也很有意思。
 
-1. 一手是暗刻长出来后，很多人会直觉切错，结果待牌并没有变宽
-2. 另一手是同样三面待，但不同切法会直接影响最终打点
+| 形 | 待牌 | 待牌枚数 |
+| --- | --- | --- |
+| <img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /> | <img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /> | 9 枚 |
+| <img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /> | <img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /> | 9 枚 |
+| <img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /> | <img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> | 14 枚 |
+| <img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /> | <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /> | 14 枚 |
+| <img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /> | <img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /> | 13 枚 |
+| <img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> | <img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> | 17 枚 |
+| <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /> | <img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /> | 19 枚 |
 
-这两题的意思都一样：
+不管多面张变得多复杂，基础都还是：
 
-**变则受入不是知识点摆设，而是真的会改变实战答案。**
+**“把 3 张相同的牌看成暗刻，还是看成雀头加 1 张”**。
 
-## 判断思路 3：有时更高打点比更宽待型更重要
-
-原页第三个实战例子很典型：
-
-同样是三面待，切法不同会影响符数，最后直接影响打点。
-
-也就是说，多面听判断不只是：
-
-1. 哪个更宽
-2. 哪个更容易和
-
-还要加上：
-
-3. 哪个和了后分更高
-
-所以真正的实战结论应该是：
-
-**在“足够宽”的前提下，优先选择得点更高的解释。**
-
-原页第三题就是这个意思：同样是三面待，切 `7m` 的那种解释因为有更高打点，所以比单纯看起来更顺眼的切法更优。
-
-## 四面以上的待型
-
-原页最后列了很多四面以上的例子，从 `4` 面待到 `6` 面待都有。
-
-基础阶段不需要把这些牌姿全背下来，但要记住它们的共同来源：
-
-1. 牌里有重复的三张牌
-2. 这组三张牌可以在“暗刻”和“雀头 + 一张”之间切换
-3. 一切换，整组牌的待牌就会扩大
-
-这就是为什么原页最后那句最重要：
-
-**多面张的基本，就是判断“三张相同的牌，到底当暗刻看，还是当雀头加一张看”。**
-
-这句话几乎可以视为整整两页“听牌形”内容的总纲。只要这一条抓住了，之后碰到混一色、清一色、甚至更复杂的多面待，都会容易整理得多。
-
-## 这一页的结论
-
-1. 变则多面待最重要的不是死背牌谱，而是掌握解释方法
-2. 先看总枚数，再看待牌种类，不要被“几面待”这个名字迷惑
-3. 复杂待型在混一色、清一色、副露手里尤其有价值
-4. 宽待型和高打点有冲突时，要一起权衡
-5. 大多数多面听的核心都在于：把三张相同牌解释成暗刻，还是雀头加一张
+几乎所有多面待，都可以用这个思路来处理。
 
 ---
 
@@ -125,7 +87,7 @@
 
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
-  <a class="page-nav__link page-nav__link--prev" href="kihon11.html">上一节：麻将的听牌（1）</a>
+  <a class="page-nav__link page-nav__link--prev" href="kihon11.html">上一节：麻将的待牌（1）</a>
   <a class="page-nav__link page-nav__link--next" href="../pairi/index.html">下一章：牌理与牌效率</a>
 </div>
 <!-- PAGE NAV END -->
