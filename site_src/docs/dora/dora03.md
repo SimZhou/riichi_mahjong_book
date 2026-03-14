@@ -1,86 +1,88 @@
 # 宝牌 2 张以上
 
-当自己手里有 2 张以上宝牌时，就是很明确的机会手。
-
-这时最重要的目标，不是再去贪更多花样，而是尽快朝和牌的最短距离前进。
+自己手里有 2 张以上宝牌时，就是机会手。  
+应该朝着和牌的最短距离前进。
 
 ## 不要贪
 
-### 例 1
+<span class="b">例 1</span>
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34">　碰<img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/yman8.gif" width="32" height="24">　　碰<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24"><img src="../hai/tyun.gif" width="24" height="34">　宝牌<img src="../hai/man1.gif" width="24" height="34">
 
-<span class="b">例 1</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34">　碰<img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/yman8.gif" width="32" height="24">　　碰<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24"><img src="../hai/tyun.gif" width="24" height="34">　　宝牌<img src="../hai/man1.gif" width="24" height="34">
+例 1 如果切 <img src="../hai/pin3.gif" width="24" height="34"> ，就能做到对对和、白、中、宝牌 2，确定跳满。
 
-例 1 若切 `3p`，就能做成“对对和 + 白 + 中 + 宝牌 2”，跳满确定。
+但这就太贪了。  
+就算切 <img src="../hai/pin4.gif" width="24" height="34"> 也已经是满贯，待牌枚数却会翻倍。
 
-但这其实贪过头了。切 `4p` 虽然只剩满贯，可待牌枚数却翻倍。
+把满贯的两面待做成跳满的双碰或坎张，是亏的。
 
-把满贯两面，硬做成跳满双碰或坎张，通常是亏的。牌已经够贵时，就不该为了再多一点分，把等张故意做坏。
+---
 
-### 例 2
+<span class="b">例 2</span>
+<img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　　宝牌<img src="../hai/pei.gif" width="24" height="34">
 
-<span class="b">例 2</span><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　　宝牌<img src="../hai/pei.gif" width="24" height="34">
-
-这是一手门混一色、宝牌 3，已经跳满确定的牌。
-
-如果这时摸到 `7s`：
+这是一手门清混一色、宝牌 3，已经确定跳满的牌。  
+如果这时摸到 <img src="../hai/sou7.gif" width="24" height="34"> ，
 
 ☆<img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　　摸到<img src="../hai/sou7.gif" width="24" height="34">
 
-与其切 `9s` 去做倍满（门混一气通贯宝牌 3），不如切 `1s`，取 `2s / 5s / 8s / 9s` 的宽待。
+与其切 <img src="../hai/sou9.gif" width="24" height="34"> 去做倍满（门清混一气通贯宝牌 3），
 
-大手真正缺的不是再多一点分，而是把它兑现成和牌的机会。
+不如切 <img src="../hai/sou1.gif" width="24" height="34"> ，受成 <img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"> 待。越是大牌，越该追求更容易和。
 
-同理，如果从例 2 的起手阶段有人打出 `9s`，也应直接碰掉再切 `1s`：
+另外，从例 2 这手如果别人打出 <img src="../hai/sou9.gif" width="24" height="34"> ，就直接碰掉再切 <img src="../hai/sou1.gif" width="24" height="34"> 。
 
-☆<img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　　碰<img src="../hai/ysou9.gif" width="32" height="24"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">
+☆<img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　 　　碰<img src="../hai/ysou9.gif" width="32" height="24"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">
 
-虽然门混一色从跳满掉回满贯，但待牌变成了 `3s / 6s / 7s`。只要是宝牌暗刻这类高打点手，值钱已经足够时，往往就该用更宽的待牌换取更高和牌率。
+虽然好不容易的门清混一色降成了满贯，
 
-## 例 3
+但这样就变成 <img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 待。宝牌暗刻这种牌，就算降一点价，也要待牌更宽。
 
-<span class="b">例 3</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　宝牌<img src="../hai/hatu.gif" width="24" height="34">
+---
 
-若宝牌不是 `发`，那切 `4m` 顺手看 `234` 三色，也不是不能考虑。
+<span class="b">例 3</span>
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　宝牌<img src="../hai/hatu.gif" width="24" height="34">
 
-但既然现在是宝牌暗刻，那么就应直接切 `2s`，笔直奔听牌去。
+如果宝牌不是 <img src="../hai/hatu.gif" width="24" height="34"> ，切 <img src="../hai/man4.gif" width="24" height="34"> 去看 234 三色也不算差，
 
-如果上家打出合适的牌，就应直接吃碰取听。鸣了仍是满贯，就没有理由慢吞吞地再等。 
+但既然是宝牌暗刻，那就切 <img src="../hai/sou2.gif" width="24" height="34"> ，笔直去听牌。
+
+如果上家打出能鸣的牌，就直接吃听吧。  
+鸣完还是满贯，就没有放过的理由。
 
 ☆<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　吃<img src="../hai/ypin6.gif" width="32" height="24"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34">
 
-## 以鸣牌为前提的做牌
+## 以鸣牌为前提做牌
 
-如果手里已经有宝牌 2、宝牌 3，那就要带着“鸣了也照样很值”的前提去做手。
+如果手里是宝牌 2、宝牌 3，那就算鸣牌也还是高打点，  
+带着一种<span class="red">“本来就该鸣”</span>的心态去打很重要。
 
-### 例 4
+<span class="b">例 4</span>
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"> 　　摸到<img src="../hai/man6.gif" width="24" height="34"> 　　宝牌 <img src="../hai/pin8.gif" width="24" height="34">
 
-<span class="b">例 4</span><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　　摸到<img src="../hai/man6.gif" width="24" height="34">　　宝牌<img src="../hai/pin8.gif" width="24" height="34">
+假设南场拿到这样的配牌。
 
-假设南场起手拿到这样一副牌。
+该切的牌只有 <img src="../hai/pin9.gif" width="24" height="34"> 。
 
-这里该切的牌只有 `9p`。
+把宝牌两张固定下来，去做断幺九宝牌 2，或者重合役牌后的 3900。  
+这是一手役牌这张“特急券”价值很大的牌。
 
-这样可以先把宝牌两张固定下来，目标自然就是断幺九宝牌 2，或者后续叠到役牌形成 `3900` 以上的副露手。这里的役牌对子就像“特急券”，价值非常高。
+---
 
-### 例 5
+<span class="b">例 5</span>
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"> 　　摸到<img src="../hai/sou2.gif" width="24" height="34"> 　　宝牌 <img src="../hai/sou8.gif" width="24" height="34">
 
-<span class="b">例 5</span><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/sou2.gif" width="24" height="34">　　宝牌<img src="../hai/sou8.gif" width="24" height="34">
+有 2 张宝牌，就该把 <img src="../hai/pin1.gif" width="24" height="34"> 这组对子拆掉，朝食断走。
 
-宝牌 2 的时候，就该把 `1p` 对子拆掉，直接朝食断走。
+与其切 <img src="../hai/man7.gif" width="24" height="34"> 或 <img src="../hai/pin6.gif" width="24" height="34"> ，门清慢吞吞地打，
 
-与其切 `7m`、`6p` 这种牌慢悠悠门清推进，不如转成可以随时鸣牌的断幺九路线。宝牌两张在手时，“能鸣的断幺九”往往就是更快、更现实的高分路线。
+不如能鸣的断幺九更快！！
 
 ### 理论小结
 
-<span class="green">当手里有 2 张以上宝牌时，应把速度和和牌率放在第一位。<br />要按“随时准备鸣牌”的前提来做手。</span>
-
-## 这一页的结论
-
-1. 手牌有 2 张以上宝牌时，应优先追求最短和牌距离
-2. 已经够贵的手，不必再为了更高分主动把等待做坏
-3. 宝牌暗刻或多张宝牌在手时，不确定役种的优先级会下降
-4. 多宝牌手应更主动把“能鸣”视作变现优势
-5. 起手就有多张宝牌时，应按副露高打点手的思路来做牌
+<span class="green">
+手里有 2 张以上宝牌时，要重视速度和和牌率。<br />
+应当按“以鸣牌为前提”去做手。
+</span>
 
 ---
 
