@@ -1,91 +1,146 @@
-# 鸣牌的优缺点
+# 鸣牌的优点与缺点
 
-鸣牌是最容易拉开水平差距的环节之一。
+最能明显拉开高下差距的，就是“鸣牌”。
 
-该鸣的牌不鸣，该门清做成的牌却乱鸣，这两种情况都非常常见。
+经常能看到这样的情况：
 
-所以在讨论“该不该鸣”之前，必须先把鸣牌的优缺点重新确认清楚。
+该鸣的手不去鸣，
 
-## 优点 1：听牌会更快
+该门清做成的手却又早早鸣掉。
 
-鸣牌之后，听牌一定会变快，和牌也会更快。
+要重新把鸣牌学好，第一步就是先确认它的优点和缺点。
 
-而先和的意义不只是自己得分，还意味着顺手把别人的机会手一起掐掉。这一点非常大。
+<span class="red b">◆优点 1．听牌会更快</span>
 
-## 优点 2：能做成门清很难完成的手
+只要鸣牌，听牌就一定会更快，和牌也会更快。
 
-像混一色、全带幺九这类手役，门清时往往做得很痛苦；但一旦允许副露，就不再那么难。
+而先和的意义非常大，
 
-染手本来就该主要靠鸣牌完成，并不是麻将漫画里那种动不动门清混一色乱飞的世界。
+因为你能更早和牌，就能顺便掐掉他家的机会手。
 
-## 优点 3：能解决边张等关键弱点
+<span class="red b">◆优点 2．能做成门清很难收尾的手</span>
 
-<p><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　宝牌<img src="../hai/man7.gif" width="24" height="34"></p>
+像混一色、全带幺九这类手役，门清做起来会很辛苦，
 
-比如这手，若场上已经看见两枚 `3m`，而上家又打出了最后一张 `3m`，这时就应毫不犹豫地吃。
+但一旦鸣出去，就没那么难了。
 
-像这种局面还执着门清，和牌机会会变得非常薄。若你没有意识到“场上两枚 `3m` 已经见切”，就可能白白放过唯一能把手修好的那张牌。
+染手本来基本就是靠鸣牌去做的，
 
-## 优点 4：能新造面子，或直接改变待牌
+并不是麻将漫画里那种门清混一色一副接一副往外飞的世界。
 
-<p><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　<img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/ysou5.gif" width="32" height="24"><img src="../hai/sou5.gif" width="24" height="34">　宝牌<img src="../hai/pei.gif" width="24" height="34"></p>
+<span class="red b">◆优点 3．可以消除边张等急所弱点</span>
 
-这手已经是满贯听牌，但待牌是 `3s` 和宝牌 `北` 的双碰，质量非常差。若此时下家打出 `2s`，就该立刻吃。
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"> 宝牌<img src="../hai/man7.gif" width="24" height="34">
 
-<p><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　<img src="../hai/ysou2.gif" width="32" height="24"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34">　<img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/ysou5.gif" width="32" height="24"><img src="../hai/sou5.gif" width="24" height="34"></p>
+比如这手，假设场上已经看到了两张三万。
 
-这样一来，待牌质量会好很多。这类“用鸣牌把僵硬待牌改良掉”的技术，必须掌握。
+这时上家又打出三万，就应该毫不犹豫地吃。
 
-## 其他优点
+像这种局面还执着门清，和牌的可能性会变得非常薄。
 
-鸣牌还能：
+如果没有意识到“场上已经切出两张三万”这一点，
 
-1. 消掉对手一发
-2. 让别人少摸一张
-3. 打乱别人的自摸节奏
+就会把三万放过去，白白错失和牌机会。
 
-## 缺点 1：手会变便宜
+<span class="red b">◆优点 4．可以重新做出面子，或者改变待牌</span>
 
-这是最直接、也是最大的缺点。
+<img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　 <img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/ysou5.gif" width="32" height="24"><img src="../hai/sou5.gif" width="24" height="34"> 　宝牌<img src="../hai/pei.gif" width="24" height="34">
 
-三色、混一色副露后会降番，一杯口、平和则会直接消失；同时你也放弃了立直、一发、里宝牌这些门清收益。副露带来的打点损失非常明显。
+这手已经是满贯听牌了，但待牌却是三索和宝牌的双碰，差到不能再差。
 
-<p><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"></p>
+这种时候，如果下家打出二索，就应该立刻吃。
 
-这是个极端例子，但正常人都不会在这种牌上去鸣。
+<img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　<img src="../hai/ysou2.gif" width="32" height="24"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34">　<img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/ysou5.gif" width="32" height="24"><img src="../hai/sou5.gif" width="24" height="34">
 
-麻将不是靠反复小便宜和牌就能赢的。门清手就算眼下只是无役，一旦立直，仍然始终保有满贯可能。很多时候必须压住“想先鸣一下”的冲动，继续门清推进。
+可以看得出来，待牌一下子就变好了很多。
 
-## 缺点 2：更容易被看穿
+这种技巧，绝对要学会。
 
-这一点对初学者先不用想太多。
+<span class="red b">◆其他优点</span>
 
-## 缺点 3：守备会变弱
+还能消掉一发，
 
-如果你已经鸣了三副露，手里往往只剩四张闭门牌。此时别人立直了怎么办？很多时候根本没法回避。
+也能跳过、打乱别家的自摸顺序。
 
-门清手还可以拆顺子、留安牌、改走折返；副露手则常常只能硬着头皮全押。
+<span class="blue b">◆缺点 1．手会变便宜</span>
 
-麻将里，自己和得了的局本来就少于和不了的局。既然如此，更要考虑“别人立直时我怎么活下来”。副露会直接削弱这一点。
+三色和混一色一旦鸣出去，番数就会降低；
 
-## 缺点 4：手牌被固定，手役可能性会被限制
+一杯口和平和则会直接消失。
 
-<p><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　宝牌<img src="../hai/sou8.gif" width="24" height="34"></p>
+而且当然也不能立直了。
 
-比如这手，就算 `中` 打出来，我也不会碰。
+鸣牌本身，也等于放弃了一发和里宝牌，
 
-因为一旦碰了，整手就只剩 `1000` 点副露手；而如果把 `中` 两张拆掉，这手完全可以朝门清断幺九平和推进，还保留一杯口、三色以及使用宝牌的可能。
+所以一旦鸣出去，打点往往会明显下降。
 
-就算第二张 `中` 再打出来，我也还是不鸣。
+这就是鸣牌最大的缺点。
 
-## 这一页的总括
+　<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">
 
-简单概括的话：
+这是个极端例子，但应该没人会在这种手上去鸣吧（笑）
 
-<p><span class="red b">鸣牌的优点：速度提升</span></p>
-<p><span class="blue b">鸣牌的缺点：打点下降、防守下降</span></p>
+当然，最终局和了就头名的情况除外。
 
-带着这份优缺点认识，再去判断“该鸣还是不该鸣”，才有基础。
+麻将不是只靠不断和便宜手就能赢的。
+
+如果门清做成，至少还有立直。
+
+就算只是无役手，只要立直，也永远保有满贯的可能性。
+
+把那种“想鸣一下”的心情压住，
+
+尽量多尝试门清推进吧。
+
+<span class="blue b">◆缺点 2．更容易被看穿手牌</span>
+
+这一点，初学者先不用去想。可以跳过。
+
+<span class="blue b">◆缺点 3．防守会变弱</span>
+
+如果已经鸣了三副露，手里只剩 4 张牌，
+
+这时别人立直了怎么办？
+
+根本没有多少招架的办法。
+
+如果是门清手，至少还可以迂回。
+
+当然，若你本来就是每次都全押的人，也许无所谓就是了（笑）
+
+可麻将里，本来就是和不了的局比和得了的局更多。
+
+既然如此，站到守备一侧的情况当然也更多。
+
+所以，我觉得在打牌时，理所当然就该把“别人立直时怎么办”一起考虑进去。
+
+<span class="blue b">◆缺点 4．手牌会被固定，手役的可能性也会被限制</span>
+
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"> 宝牌<img src="../hai/sou8.gif" width="24" height="34">
+
+比如这手，如果有人打出中，要不要碰？
+
+我不会鸣。
+
+因为这手一旦鸣中，就只剩 1000 点。
+
+这手应该把两张中打掉，去做门断平。
+
+还保留一杯口和三色的可能，也可能把宝牌用进去。
+
+就算第二张中再打出来，我也一样不会鸣。
+
+上面写得比较细，简单概括的话：
+
+<span class="red b">鸣牌的优点 ・・・・ 速度上升↑</span>
+
+<span class="blue b">鸣牌的缺点 ・・・・ 打点下降↓、守备下降↓</span>
+
+这样理解就可以了。
+
+接下来就带着这些优点与缺点，
+
+继续去思考“该鸣还是不该鸣”。
 
 ---
 
