@@ -1,11 +1,11 @@
-# 弃和步骤（1）
+# 完全弃和的步骤（1）
 
-彻底弃和有明确的步骤。  
+完全弃和有明确的步骤。  
 只要严格按步骤退，放铳就会明显减少。
 
 ---
 
-## 彻底弃和的基本想法
+## 完全弃和的基本想法
 
 **从安全度更高的牌开始打。**
 
@@ -69,6 +69,6 @@
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="mamori05.html">上一节：壁牌</a>
-  <a class="page-nav__link page-nav__link--next" href="mamori07.html">下一节：弃和步骤（2）</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori07.html">下一节：完全弃和的步骤（2）</a>
 </div>
 <!-- PAGE NAV END -->
