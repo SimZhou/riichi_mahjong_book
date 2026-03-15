@@ -87,6 +87,8 @@
 
 再看 ![5m](../hai/man5.gif)。
 
+![5m](../hai/man5.gif) 是由 ![2m](../hai/man2.gif) 和 ![8m](../hai/man8.gif) 这两张牌一起导出的筋。
+
 ![5m](../hai/man5.gif) 这张牌，本来可能点到两种两面：
 
 - ![3m](../hai/man3.gif)![4m](../hai/man4.gif)
