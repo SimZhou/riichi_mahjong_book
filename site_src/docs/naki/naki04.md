@@ -2,79 +2,100 @@
 
 ## 碰材的优劣
 
-如果手里同时有几组对子都能用来碰，通常应该把更容易碰到的那组留下来。
+如果手里有不止一组对子都可以拿来碰，
 
-字牌最容易碰到，而利用度较低的幺九牌也常常更容易被人打出来。
+那就应该把更容易碰到的对子留下来。
 
-### 例 1
+字牌最容易碰到，
 
-![2m](../hai/man2.gif)![4m](../hai/man4.gif)![4m](../hai/man4.gif)![2s](../hai/sou2.gif)![2s](../hai/sou2.gif)![3s](../hai/sou3.gif)![3s](../hai/sou3.gif)![3s](../hai/sou3.gif)![9s](../hai/sou9.gif)![9s](../hai/sou9.gif)　　自摸![2m](../hai/man2.gif)　　![白](../hai/haku.gif)![白](../hai/haku.gif)![白](../hai/yhaku.gif)
+而利用价值较低的端牌，也往往更容易被打出来。
 
-例如这手，如果场上已见枚数没有显著差别，那么正确答案是切 ![4m](../hai/man4.gif)。
+**例 1**
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">　　自摸<img src="../hai/man2.gif" width="24" height="34">　　<img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/yhaku.gif" width="32" height="24">
 
-因为幺九牌 ![9s](../hai/sou9.gif)，以及由于 ![3s](../hai/sou3.gif) 成壁而变得难用的 ![2s](../hai/sou2.gif)，都属于更值得期待从场上碰到的牌。
+比如例 1 这种情况，只要场上已见张数没有明显差别，
 
-如果是比较 ![2m](../hai/man2.gif) 和 ![4m](../hai/man4.gif)，那么更靠边的 ![2m](../hai/man2.gif) 也会略微更容易碰到一些。
+正确答案就是切 <img src="../hai/man4.gif" width="24" height="34">。
+
+幺九牌 <img src="../hai/sou9.gif" width="24" height="34">，
+
+以及因为 <img src="../hai/sou3.gif" width="24" height="34"> 成壁而变得难用的 <img src="../hai/sou2.gif" width="24" height="34">，
+
+都属于更值得期待从场上碰到的牌。
+
+如果是比较 <img src="../hai/man2.gif" width="24" height="34"> 和 <img src="../hai/man4.gif" width="24" height="34">，
+
+那位置更靠边的 <img src="../hai/man2.gif" width="24" height="34"> 也会稍微更容易碰到一些。
 
 ## 考虑吃的晒牌方式
 
-有些手牌对同一张来牌存在不止一种吃法，而不同的鸣法，后续会出现明显差异。
+有些手牌对同一张来牌，会有几种不同的吃法。
 
-下面举几个典型例子。
+这里列几个鸣法不同就会产生差异的例子。
 
-### 例 2
+**例 2**
+<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　打出<img src="../hai/pin7.gif" width="24" height="34">　　宝牌<img src="../hai/pin8.gif" width="24" height="34">
 
-![5m](../hai/man5.gif)![6m](../hai/man6.gif)![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![6p](../hai/pin6.gif)![7p](../hai/pin7.gif)![8p](../hai/pin8.gif)![2s](../hai/sou2.gif)![2s](../hai/sou2.gif)![4s](../hai/sou4.gif)![4s](../hai/sou4.gif)![6s](../hai/sou6.gif)![8s](../hai/sou8.gif)　　打出![7p](../hai/pin7.gif)　　宝牌![8p](../hai/pin8.gif)
+设想例 2 的手牌里，上家打出了 <img src="../hai/pin7.gif" width="24" height="34">，而你准备鸣。
 
-设想上家打出了 ![7p](../hai/pin7.gif)，这时选择鸣牌。
+这里应该用坎张吃。
 
-这题应该用坎张吃。
+★两面吃  
+<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">　　吃<img src="../hai/ypin7.gif" width="32" height="24"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34">
 
-两面吃：![5m](../hai/man5.gif)![6m](../hai/man6.gif)![6p](../hai/pin6.gif)![7p](../hai/pin7.gif)![8p](../hai/pin8.gif)![2s](../hai/sou2.gif)![2s](../hai/sou2.gif)![4s](../hai/sou4.gif)![4s](../hai/sou4.gif)![6s](../hai/sou6.gif)　　吃![7p](../hai/ypin7.gif)![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)
+★坎张吃  
+<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">　　吃<img src="../hai/ypin7.gif" width="32" height="24"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34">
 
-坎张吃：![5m](../hai/man5.gif)![6m](../hai/man6.gif)![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![7p](../hai/pin7.gif)![2s](../hai/sou2.gif)![2s](../hai/sou2.gif)![4s](../hai/sou4.gif)![4s](../hai/sou4.gif)![6s](../hai/sou6.gif)　　吃![7p](../hai/ypin7.gif)![6p](../hai/pin6.gif)![8p](../hai/pin8.gif)
+如果像上面那样用两面吃，和牌时就固定只有 2000 点。
 
-如果按上面的两面方式去鸣，和牌时就固定只有 `2000 点`。
+但下面这种牌形，摸进宝牌就能做到 3900，
 
-但如果按下面的坎张方式去鸣，那么摸进宝牌就能做到 `3900`，而摸进 ![4p](../hai/pin4.gif) 时还会生出 `456` 的可能性。
+摸进 <img src="../hai/pin4.gif" width="24" height="34"> 时还会生出 456 的可能。
 
-### 例 3
+---
 
-![3s](../hai/sou3.gif)![4s](../hai/sou4.gif)![4s](../hai/sou4.gif)![5s](../hai/sou5.gif)![6s](../hai/sou6.gif)![6s](../hai/sou6.gif)![7s](../hai/sou7.gif)![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![西](../hai/sha.gif)　　碰![东](../hai/yton.gif)![东](../hai/ton.gif)![东](../hai/ton.gif)　　宝牌![1p](../hai/pin1.gif)
+**例 3**
+<img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34">　　碰<img src="../hai/yton.gif" width="32" height="24"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34">　　宝牌<img src="../hai/pin1.gif" width="24" height="34">
 
-有时，鸣牌方式甚至会直接改变最后的待牌。
+有时，鸣法不同，连最后的待牌都会被改变。
 
-例如这题如果上家打出 ![5s](../hai/sou5.gif)，你可能会想：
+比如例 3 里，如果打出的是 <img src="../hai/sou5.gif" width="24" height="34">，
 
-是用 ![5s](../hai/ysou5.gif)![3s](../hai/sou3.gif)![4s](../hai/sou4.gif) 这样鸣成 ![5s](../hai/sou5.gif)![8s](../hai/sou8.gif) 待，
+你可能会犹豫：是用 <img src="../hai/ysou5.gif" width="32" height="24"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"> 去鸣成 <img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"> 待，
 
-还是用 ![5s](../hai/ysou5.gif)![6s](../hai/sou6.gif)![7s](../hai/sou7.gif) 这样鸣成 ![2s](../hai/sou2.gif)![5s](../hai/sou5.gif) 待。
+还是用 <img src="../hai/ysou5.gif" width="32" height="24"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 去鸣成 <img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"> 待。
 
 但其实这两种都不对。
 
-这里正确的做法，是用坎张方式去吃，这样能做成三面张。
+这手如果用坎张吃，就会变成三面张。
 
-![3s](../hai/sou3.gif)![4s](../hai/sou4.gif)![5s](../hai/sou5.gif)![6s](../hai/sou6.gif)![7s](../hai/sou7.gif)![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)　　吃![5s](../hai/ysou5.gif)![4s](../hai/sou4.gif)![6s](../hai/sou6.gif)　　碰![东](../hai/yton.gif)![东](../hai/ton.gif)![东](../hai/ton.gif)　　宝牌![1p](../hai/pin1.gif)
+<img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34">　　吃<img src="../hai/ysou5.gif" width="32" height="24"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">　　碰<img src="../hai/yton.gif" width="32" height="24"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34">　　宝牌<img src="../hai/pin1.gif" width="24" height="34">
 
-### 例 4
+---
 
-![3m](../hai/man3.gif)![4m](../hai/man4.gif)![5m](../hai/man5.gif)![5m](../hai/man5.gif)![6m](../hai/man6.gif)![6m](../hai/man6.gif)![6m](../hai/man6.gif)![7m](../hai/man7.gif)![8m](../hai/man8.gif)![中](../hai/tyun.gif)　　碰![发](../hai/yhatu.gif)![发](../hai/hatu.gif)![发](../hai/hatu.gif)
+**例 4**
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　　碰<img src="../hai/yhatu.gif" width="32" height="24"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">
 
-尤其在染手里，经常会出现同一张牌既能两面吃，也能坎张、边张吃的情况。
+特别是染手，经常会出现一张牌既能两面吃，也能坎张吃、边张吃的情况。
 
-多数时候，坎张吃或边张吃更好；但也有些手牌，反而是两面吃才对。
+虽然多数时候，坎张吃或边张吃更好，
 
-例如这题如果打出的是 ![7m](../hai/man7.gif)，要是直接用 ![6m](../hai/man6.gif)![8m](../hai/man8.gif) 去坎张吃，那就会出大问题。
+但也有必须用两面吃的情况。
 
-这里如果不按两面方式去吃，![9m](../hai/man9.gif) 的待牌就会直接消失。
+例 4 里，如果打出的是 <img src="../hai/man7.gif" width="24" height="34">，
 
-正确牌形是：
+要是用 <img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"> 去坎张吃，那就大失败了。
 
-![3m](../hai/man3.gif)![4m](../hai/man4.gif)![5m](../hai/man5.gif)![6m](../hai/man6.gif)![6m](../hai/man6.gif)![7m](../hai/man7.gif)![8m](../hai/man8.gif)　　吃![7m](../hai/yman7.gif)![5m](../hai/man5.gif)![6m](../hai/man6.gif)　　碰![发](../hai/yhatu.gif)![发](../hai/hatu.gif)![发](../hai/hatu.gif)
+这里如果不用两面去吃，<img src="../hai/man9.gif" width="24" height="34"> 的待牌就会直接消失。
 
-这种牌形在实战里也许不算特别常见，但你在吃牌时，最好养成一个习惯：
+★  
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34">　　吃<img src="../hai/yman7.gif" width="32" height="24"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34">　　碰<img src="../hai/yhatu.gif" width="32" height="24"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">
 
-**先确认“不同的鸣法，会不会让剩下来的牌形产生差异”。**
+这种形也许不算特别常见，
+
+但在吃牌时，最好养成一个习惯：
+
+**确认一下“鸣法不同，会不会让剩下来的牌形出现差异”。**
 
 ---
 
