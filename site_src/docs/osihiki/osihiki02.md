@@ -1,193 +1,171 @@
 # 判断依据
 
-# 判断依据
+到底该押还是该退。
 
-到底该押还是该退，判断材料有哪些？
-
-这一页原页把材料按顺序列了出来。
+下面把能作为判断材料的东西，一项项列出来。
 
 ## 自己手牌的和牌难易
 
-当然，几乎没有和牌希望的手，去押通常都不划算。
+当然，几乎没有和牌希望的手牌，去押并不划算。
 
-## 例 1
+**例 1**  
+立直　<img src="../hai/man9.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/ysou5.gif" width="32" height="24">
 
-立直：
+手牌<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　自摸<img src="../hai/man6.gif" width="24" height="34">
 
-`9m 发 东 2s 7m 8p 8p 5s`
+本来还在做国士无双，结果被人立直了。（例 1）
 
-自己手牌：
+这手再去押，光凭感觉也知道亏得很大。
 
-`1m 1p 2p 7p 9p 1s 1s 9s 东 北 白 白 发`  自摸 `6m`
+因为听牌和和牌的概率都低得离谱。
 
-这一手本来还在做国士无双，结果中途被立直。
+---
 
-这副牌去押，光凭感觉也知道很亏。
+**例 2**  
+立直<img src="../hai/man9.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/ysou5.gif" width="32" height="24">
 
-因为：
+手牌<img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5red.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34">　　自摸<img src="../hai/man6.gif" width="24" height="34">
 
-1. 离听牌还太远
-2. 就算硬押，真的能成牌的概率也极低
+例 2 当然就是直接拼，切 <img src="../hai/pin5m.gif" width="19" height="26" class="hai"> 立直才是正解。
 
-## 例 2
+绝对不能因为害怕暗刻筋，就去切 <img src="../hai/pin6m.gif" width="19" height="26" class="hai"> 立直。
 
-立直：
+没有任何要素能断定对手一定是 <img src="../hai/pin2m.gif" width="19" height="26"><img src="../hai/pin5m.gif" width="19" height="26"> 待，
 
-`9m 发 东 2s 7m 8p 8p 5s`
+那样做只会把自己手牌的和牌率大幅降低，属于最糟糕的选择。
 
-自己手牌：
+**看起来能和出来的手，就押。**
 
-`7m 8m 2p 2p 2p 3p 4p 5p 5pr 6p 1s 2s 3s`  自摸 `6m`
-
-这题就完全相反。
-
-这里当然是强势胜负，切 `5p` 立直才对。
-
-绝不能因为担心暗刻筋之类模糊风险，就改切 `6p` 去立直。
-
-没有任何足够明确的理由能断定对手一定是 `2p 5p` 待，而那样做只会把自己的和牌率大幅压低。
-
-**能和出来的手，就该押。**
-
-这是押引最基础的一条。
+这是押引最基本的基本。
 
 ## 打点
 
-自己的和牌点数越高，当然越值得去拼。
+自己手牌的和了点数越高，当然就越值得去拼。
 
-## 例 3
+**例 3**  
+立直<img src="../hai/man9.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/ysou5.gif" width="32" height="24">
 
-立直：
+手牌<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34">　　碰<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24"><img src="../hai/tyun.gif" width="24" height="34">　　自摸<img src="../hai/sou4.gif" width="24" height="34">
 
-`9m 发 东 2s 7m 8p 8p 5s`
+比如这个局面，如果宝牌是 <img src="../hai/pin6m.gif" width="19" height="26" class="hai">，稳妥起见还是弃和比较好。
 
-自己手牌：
+拿 1000 点的手去正面撞立直，怎么看都是下风。
 
-`2m 4m 9m 9m 2p 3p 4p 3s 3s 5s`  碰 `中`  自摸 `4s`
+但如果宝牌是 <img src="../hai/tyunm.gif" width="19" height="26" class="hai">，
 
-如果这时宝牌是 `6p`，那么稳妥选择通常是退。
+那当然就该去拼。
 
-用 `1000` 点手去和立直正面碰撞，怎么看都不划算。
+一直押到接近流局，都不用犹豫。
 
-但若宝牌是 `中`，那这手就完全该押，而且直到流局临近都可以坚定继续。
+前面这两项，都是在看你拼这一手能拿到多少回报。
 
-前两项材料，说白了都在看同一件事：
-
-**押下去到底能拿回多少收益。**
+当然，同时也必须知道自己这么拼会承担多大风险。
 
 ## 牌的危险度
 
-接着要估计：现在准备打出的这张牌，到底有多危险。
+先估计一下：如果没有这家立直，你本来准备打出的那张牌，到底有多危险。
 
-这里不要求非常高级的读牌，先做最基本的危险度分层就行。
+当然，危险度低就该拼；
 
-## 例 4
+危险度高就该考虑弃和。
 
-立直：
+**例 4**  
+立直<img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/ypin7.gif" width="32" height="24"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">
 
-`1p 西 南 中 5s 8m 7p 4m 北`
+手牌<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">　　自摸<img src="../hai/man3.gif" width="24" height="34">
 
-自己手牌：
+说是危险度，也不需要你去做多高阶的读牌。
 
-`1m 1m 2m 6m 7m 8m 1p 2p 3p 1s 3s 5s 6s`  自摸 `3m`
+例 4 里，只要先大致估一下 <img src="../hai/man1m.gif" width="19" height="26" class="hai"> 有多危险就行了。
 
-这一题里，只需要先粗估 `1m` 的危险度。
+因为 <img src="../hai/man4m.gif" width="19" height="26" class="hai"> 已经通过了，所以只会打中双碰或单骑。
 
-因为 `4m` 已经过，所以 `1m` 至少不会打进两面，只剩双碰、单骑这类可能。
+风险不高，这种牌完全可以打。
 
-风险不高，这种牌就可以继续打。
+之后要不要继续押，还要再看，
 
-后面要不要继续押，可以之后再判断；但至少现在还不是该立刻决定撤退的时候。
+但至少现在还绝不是决定弃和的时候。
 
 ## 对手的推定打点
 
-当然，对高打点立直最好别硬冲。
+当然，打点看起来很高的立直，最好别去撞。
 
-但仅靠舍牌去精确读立直打点，其实很难。除了明显的染手立直外，现实里很少能读得太准。
+但光靠舍牌来推测牌值，其实难度很高。
 
-真正最重要的，是先看：
+除非是很明显的染手立直，否则并不现实。
 
-1. 对手是亲还是子
-2. 有没有明显高打点征兆
+真正重要的是：**对手是亲还是子。**
 
-例如暗杠立直，就很容易判断成高打点威胁。
+1.5 倍得点的亲家，终究还是更有威胁。
 
-## 例 5
+另外，暗杠之后的立直，也很容易判断为高打点。
 
-`[暗牌多枚]`  暗杠 `5m 5mr`
+**例 5**  
+<img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34">　　<img src="../hai/ura.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5red.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34">
 
-像这种立直，仍有人会毫无顾忌地硬押。
+有些人面对这种立直也会毫无戒心地去押。
 
-但只要想到这里有两种里宝牌，放铳时的大失点风险就非常高。除非自己手也很强，否则不应随便正面碰撞。
+但只要想到里宝牌就有两种，一旦放铳的失点会非常大，
 
-不过整体来说，推定打点真正更好用的对象其实是副露手。
+除非自己手牌相当够格，否则就该回避正面交锋。
 
-因为副露手更容易从：
+不过，说到底，立直的打点大多数时候根本读不准。
 
-1. 手役
-2. 宝牌张数
-3. 副露路线
+就算场上已经看得到宝牌，也还是很容易因为赤牌和里宝牌变成高打点，
 
-看出大概价值。
+所以读点的可信度并不高。
 
-### 理论小结
+真正更适合拿来判断打点的，其实是副露手。
 
-1. 副露手更适合把“推定打点”明确纳入押引材料
-2. 面对立直，除暗杠等特殊情况外，更应先重视亲子差异，而不是幻想精读具体打点
+因为从手役和宝牌使用张数去看，对方大概值多少分，并没有那么难。
+
+### 理论总结
+
+<span class="green">副露手的打点更容易看出来，所以可以把推定打点作为押引材料。  
+面对立直时，由于不确定因素太多，除了有杠等特殊情况外，更应重视对方是亲还是子。</span>
 
 ## 弃和的成功概率
 
-这一项非常重要，而且常被低估。
+这会是决定押引的非常重要的因素。
 
-若现物一张都没有、能通过的牌也很少，那么很多时候只能继续正面打。
+如果一张现物都没有，看起来能通过的牌也很少，
 
-但一旦安全牌开始形成，情况就会变。
+这种时候，笔直拼下去往往才是标准手段。
 
-## 例 6
+但只要手里开始形成几张安全牌，情况就不同了。
 
-立直：
+**例 6**  
+立直　<img src="../hai/nan.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/ypin3.gif" width="32" height="24"><img src="../hai/pin1.gif" width="24" height="34">
 
-`南 东 9s 3m 西 白 1m 7m 6s 3p 1p`
+手牌<img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34">　　碰<img src="../hai/ytyun.gif" width="32" height="24"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　自摸<img src="../hai/sou7.gif" width="24" height="34">　　宝牌<img src="../hai/sou8.gif" width="24" height="34">
 
-自己手牌：
+比如这副手牌，就算拿 <img src="../hai/sou7m.gif" width="19" height="26" class="hai"> 去拼，也完全没问题。
 
-`2s 3s 4s 5s 5s 5p 6p 8p 8p 8p`  碰 `中`  自摸 `7s`  宝牌：`8s`
+毕竟一张安全牌都没有。
 
-这种形若直接拿 `7s` 去拼，完全没有问题。
+可如果一巡之后，<img src="../hai/pin8m.gif" width="19" height="26"> 通过了呢？
 
-因为你手里一张安全牌都没有，本来就没有退路。
+立直　<img src="../hai/nan.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/ypin3.gif" width="32" height="24"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34">
 
-但若过一巡以后，`8p` 通过了，情况就不一样了。
+手牌<img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34">　　碰<img src="../hai/ytyun.gif" width="32" height="24"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　自摸<img src="../hai/pin2.gif" width="24" height="34">　　宝牌<img src="../hai/sou8.gif" width="24" height="34">
 
-立直河里这时已经多了一张 `8p`，而你又摸进了：
+虽然不能说 <img src="../hai/pin2m.gif" width="19" height="26" class="hai"> 就比 <img src="../hai/sou7m.gif" width="19" height="26" class="hai"> 明显危险得多，
 
-自己手牌：
+但这里是不是就到了该转向弃和的节点？
 
-`2s 3s 4s 5s 5s 5p 6p 8p 8p 8p`  碰 `中`  自摸 `2p`  宝牌：`8s`
+这本来就是一手只有 1000 点、并不太想拼的便宜手。
 
-这时虽然不能说 `2p` 一定比 `7s` 危险很多，但局面已经来到应考虑撤退的转折点。
+现在又已经有了 3 张安全牌，能一直退到流局的把握变高了。
 
-因为：
+所以在这里撤退，才是更合理的押引感觉。
 
-1. 这本来就是一手不太想押的 `1000` 点左右便宜手
-2. 现在又已经有了数张安全牌
-3. 弃和成功率明显提高
+以上这 5 项，就是押引最基本的判断材料。
 
-于是这里转退，才是更合理的押引感。
+当然，进入南场以后，点棒状况也会变得重要，
 
-以上 `5` 类，就是押引最基本的判断材料。
+但那属于更进阶的押引应用，以后再谈。
 
-南场以后，点棒状况当然也很重要，但那属于更进阶的押引应用。
-
-现在最关键的是：先学会拿这几项材料去判断。
-
-## 这一页的结论
-
-1. 押引判断至少要同时看五类材料：自手和牌率、打点、当前危险度、对手推定打点、弃和成功率
-2. 自手越容易和、打点越高，越值得继续押
-3. 当前候选牌危险度越低，越适合作为继续押的节点
-4. 对副露手比对立直手更容易读打点，因此更适合把推定打点明确纳入判断
-5. 若现物逐渐形成、弃和成功率上升，同一手牌也可能从“该押”转成“该退”
+现在最关键的，是先学会根据这些材料来判断。
 
 ---
 
