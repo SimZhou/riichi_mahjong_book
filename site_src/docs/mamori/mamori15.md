@@ -1,68 +1,72 @@
 # 读立直（2）
 
 相较于危险牌，面对立直时的**安全牌**，其实往往能用更高精度读出来。  
-当然，这也和一个事实有关：麻将里本来“不会中的牌”就远远多于“会中的牌”。
+当然，这也和一个事实有关：麻将里本来“不会中的牌”就远远多于“会中的牌”；但就实战价值来说，安全牌阅读本身也确实更有用。
 
-但即使如此，真正被当成战术重点讨论的，却一直不多。  
-既然现在那种刻意迷彩的打牌方式已经少了很多，  
-就更应该认真练“找隐藏安全牌”的能力。
+可不知为什么，这类思路过去一直没有真正成为主流战术。  
+如今那种刻意迷彩的打牌方式已经被淘汰了很多，  
+也该认真练一练“找隐藏安全牌”的技术了。
 
----
+## 安全牌直前的跨筋
 
-## 安全牌前一张的跨筋
+稍微像样一点的打牌者，留安全牌的方式其实都会变得模式化。  
+接近听牌时，不会为了留安全牌去硬抱多余牌；  
+反过来，也不会为了留一张安全牌，把进听受入主动缩窄。
 
-打得稍微像样一点的人，留安全牌其实是有固定模式的。  
-到接近听牌的时候，不会平白额外抱无用安全牌；  
-反过来，也不会为了硬留一张安全牌，把进张主动大幅削掉。
+这件事本身就可以拿来读牌。
 
-这件事本身就能拿来读牌。
-
-<table>
+<div class="river-block" markdown="0">
+<table class="river-table">
   <tr>
     <td><strong>例1</strong></td>
     <td></td><td></td><td></td><td></td>
     <td align="center">↓</td>
     <td></td>
     <td align="center">↓</td>
-    <td></td><td></td><td></td><td></td>
+    <td></td><td></td>
+    <td></td><td></td>
   </tr>
   <tr>
     <td></td><td></td>
-    <td>![东](../hai/ton.gif)</td>
-    <td>![1m](../hai/man1.gif)</td>
-    <td>![南](../hai/nan.gif)</td>
-    <td>![8s](../hai/sou8.gif)</td>
-    <td>![2p](../hai/pin2.gif)</td>
-    <td>![7m](../hai/man7.gif)</td>
-    <td>![赤西](../hai/ysha.gif)</td>
+    <td><img alt="东" src="../hai/ton.gif" /></td>
+    <td><img alt="1m" src="../hai/man1.gif" /></td>
+    <td><img alt="南" src="../hai/nan.gif" /></td>
+    <td><img alt="8s" src="../hai/sou8.gif" /></td>
+    <td><img alt="2p" src="../hai/pin2.gif" /></td>
+    <td><img alt="7m" src="../hai/man7.gif" /></td>
+    <td><img alt="赤西" src="../hai/ysha.gif" /></td>
     <td></td><td></td><td></td>
   </tr>
 </table>
+</div>
 
 这是“手打安全牌立直”的例子。  
-这种立直虽然几乎没法把危险牌一点读出来，但要找安全度比较高的牌却不难。
+虽然几乎没法把危险牌一点读出来，但安全度更高的牌其实很容易找。
 
-像 ![8m](../hai/man8.gif) ![9m](../hai/man9.gif) 基本上几乎都能过，  
-而 ![1p](../hai/pin1.gif)、![9s](../hai/sou9.gif) 通过率也会明显高于普通无筋。
+![8m](../hai/man8.gif)![9m](../hai/man9.gif) 基本上几乎可以通过，  
+而 ![1p](../hai/pin1.gif) 和 ![9s](../hai/sou9.gif) 通过的概率也相当高。
 
-为什么？
-
-假设对手在立直前是一向听，例如：
+例如，假设对手在立直前是一向听，像下面这样：
 
 ![7m](../hai/man7.gif)![8m](../hai/man8.gif)![6p](../hai/pin6.gif)![7p](../hai/pin7.gif)![1s](../hai/sou1.gif)![2s](../hai/sou2.gif)![3s](../hai/sou3.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)![7s](../hai/sou7.gif)![8s](../hai/sou8.gif)![9s](../hai/sou9.gif)![西](../hai/sha.gif)　自摸 ![7m](../hai/man7.gif)
 
-像这种形，会有人为了留一张安全牌，主动去减少受入吗？  
-我不能说绝对没有，但肯定是极少数。
+像这种一向听，会有人为了留一张安全牌，主动去减少受入吗？  
+不能说绝对没有，但肯定是极少数。
 
-因此，如果是“手打安全牌立直”，通常可以理解为：  
-这手更像是固定了两组好形两面一向听去立直，  
-而原本可能留下的双碰受理，基本可以视为“没能保留下来”。
+所以，若是“手打安全牌立直”，通常可以读作：  
+这手更像是固定了两组两面的一向听，  
+而双碰受理则是“没能保留下来”。
 
-当然，如果场上 ![7m](../hai/man7.gif) 已经见了两张，这套读法的可信度就会明显下降。
+也就是说，手打安全牌立直时，可以理解为：  
+听牌前是固定两面两组的一向听，  
+双碰受理已经无法成立了。
+
+（不过，如果场上已经切出两张 ![7m](../hai/man7.gif)，这套读法的可信度就会明显下降。）
 
 ---
 
-<table>
+<div class="river-block" markdown="0">
+<table class="river-table">
   <tr>
     <td><strong>例2</strong></td>
     <td></td><td></td><td></td><td></td>
@@ -74,43 +78,44 @@
   </tr>
   <tr>
     <td></td><td></td>
-    <td>![东](../hai/ton.gif)</td>
-    <td>![1m](../hai/man1.gif)</td>
-    <td>![南](../hai/nan.gif)</td>
-    <td>![8s](../hai/sou8.gif)</td>
-    <td>![2p](../hai/pin2.gif)</td>
-    <td>![7m](../hai/man7.gif)</td>
-    <td>![赤西](../hai/ysha.gif)</td>
-    <td>![5m](../hai/man5.gif)</td>
+    <td><img alt="东" src="../hai/ton.gif" /></td>
+    <td><img alt="1m" src="../hai/man1.gif" /></td>
+    <td><img alt="南" src="../hai/nan.gif" /></td>
+    <td><img alt="8s" src="../hai/sou8.gif" /></td>
+    <td><img alt="2p" src="../hai/pin2.gif" /></td>
+    <td><img alt="7m" src="../hai/man7.gif" /></td>
+    <td><img alt="赤西" src="../hai/ysha.gif" /></td>
+    <td><img alt="5m" src="../hai/man5.gif" /></td>
     <td></td><td></td>
   </tr>
 </table>
+</div>
 
-如果立直以后，连 ![5m](../hai/man5.gif) 也顺利通过了，那 ![8m](../hai/man8.gif) 几乎就可以当成安全牌。
+如果立直后连 ![5m](../hai/man5.gif) 都通过了，那 ![8m](../hai/man8.gif) 几乎就可以视为安全牌了。
 
-通常来说，就算 ![5m](../hai/man5.gif) 过了，也还得提防双碰或坎张，不能大意。  
-但如果前提已经是“手打安全牌立直”，那情况就不一样了。
+通常即使 ![5m](../hai/man5.gif) 过了，也还是要防双碰或坎张，不能大意。  
+但如果前提已经是“手打安全牌立直”，那情况就不一样。
 
-因为：
+手里若还残着坎张，再继续缩窄受入，本来就很难想象；  
+更不用说，要从 ![7m](../hai/man7.gif)![8m](../hai/man8.gif)![8m](../hai/man8.gif) 这种形里先切 ![7m](../hai/man7.gif)，那几乎可以说是“相当奇怪的人”才会这么打。
 
-- 如果手里还残着坎张，再主动缩窄受入，其实很不合理
-- 更不用说要从 ![7m](../hai/man7.gif)![8m](../hai/man8.gif)![8m](../hai/man8.gif) 这种形里先切 ![7m](../hai/man7.gif) 了，那几乎可以说是“很奇怪的人”才会这么打
+同样地，![1m](../hai/man1.gif) 与 ![7m](../hai/man7.gif) 之间的中筋 ![4m](../hai/man4.gif)，  
+也因为坎张待几乎不成立，而比平时更安全。
 
-同样地，![1m](../hai/man1.gif) 和 ![7m](../hai/man7.gif) 之间的中筋 ![4m](../hai/man4.gif)，  
-在这种结构里也会比平时更安全，因为相关坎张基本不太成立。
-
-也就是说，“手打安全牌立直”本身就是一条价值非常高的信息。  
-只要善用，弃和精度会明显提高。
+像这样，宣言牌如果本身就是安全牌，会是一条极其重要的信息。  
+只要善用，弃和精度就能明显提高。
 
 ### 理论小结
 
-**如果是手打安全牌立直，就可以读作：立直前那张安全牌前后的相关筋，多半已不参与最终待牌。**
-
----
+<div class="green" markdown="1">
+手打安全牌立直时，可以读作：  
+**宣言牌直前那张牌，多半与最终待牌无关。**
+</div>
 
 ## 逆切的跨筋
 
-<table>
+<div class="river-block" markdown="0">
+<table class="river-table">
   <tr>
     <td><strong>例3</strong></td>
     <td></td><td></td><td></td><td></td>
@@ -120,51 +125,53 @@
   </tr>
   <tr>
     <td></td><td></td>
-    <td>![北](../hai/pei.gif)</td>
-    <td>![1p](../hai/pin1.gif)</td>
-    <td>![9m](../hai/man9.gif)</td>
-    <td>![2s](../hai/sou2.gif)</td>
-    <td>![8m](../hai/man8.gif)</td>
-    <td>![5s](../hai/sou5.gif)</td>
-    <td>![赤7s](../hai/ysou7.gif)</td>
+    <td><img alt="北" src="../hai/pei.gif" /></td>
+    <td><img alt="1p" src="../hai/pin1.gif" /></td>
+    <td><img alt="9m" src="../hai/man9.gif" /></td>
+    <td><img alt="2s" src="../hai/sou2.gif" /></td>
+    <td><img alt="8m" src="../hai/man8.gif" /></td>
+    <td><img alt="5s" src="../hai/sou5.gif" /></td>
+    <td><img alt="赤7s" src="../hai/ysou7.gif" /></td>
     <td></td>
   </tr>
 </table>
+</div>
 
-这看起来是个没什么特点的立直。  
-除了现物之外，还能找到更安全的牌吗？
+这是个看起来没什么特征的立直。  
+那么，除了现物之外，还能找出更安全的牌吗？
 
-关键就在于它是**坎张落**，而 ![3s](../hai/sou3.gif) 的安全度会明显偏高。
+关键在于：这是**坎张落**，而 ![3s](../hai/sou3.gif) 的安全度会明显偏高。
 
-因为危险度总是先从两面待开始看。
+危险度总是先从两面待开始看。
 
-如果手里本来是 ![4s](../hai/sou4.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)![7s](../hai/sou7.gif) 这种形，  
-那正常会先切 ![7s](../hai/sou7.gif)，保留双碰受理。  
-也就是说，切牌顺序理应是：
+如果手里本来是 ![4s](../hai/sou4.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)![7s](../hai/sou7.gif)，  
+那正常会先切 ![7s](../hai/sou7.gif)，把双碰受理留下。
+
+也就是说，切牌顺序应当是：
 
 ![7s](../hai/sou7.gif) → ![5s](../hai/sou5.gif)
 
-既然实际顺序不是这样，那么普通的两面 ![3s](../hai/sou3.gif) 到 ![6s](../hai/sou6.gif) 就基本可以否定。
+既然实际顺序不是这样，那么单纯的两面 ![3s](../hai/sou3.gif)￣![6s](../hai/sou6.gif) 就基本可以否定。
 
-再加上例题里 ![2s](../hai/sou2.gif) 已经切过，  
-那么双碰、坎张、单骑这些可能性也都会大幅降低。
+而且例题里又已经切过 ![2s](../hai/sou2.gif)，  
+所以双碰、坎张、单骑这些待牌，也都非常难以成立。
 
-真要中的话，比较像只剩这一类：
+真要中的话，几乎只剩这一类：
 
 ![4s](../hai/sou4.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)![6s](../hai/sou6.gif)![7s](../hai/sou7.gif)![7s](../hai/sou7.gif)![8s](../hai/sou8.gif)
 
-也就是从 ![5s](../hai/sou5.gif) → ![7s](../hai/sou7.gif) 的逆切里，  
-最后留下 ![3s](../hai/sou3.gif) 到 ![6s](../hai/sou6.gif) 到 ![9s](../hai/sou9.gif) 的三面张。
+也就是从 ![5s](../hai/sou5.gif) → ![7s](../hai/sou7.gif) 的逆切中，  
+最后留下 ![3s](../hai/sou3.gif)￣![6s](../hai/sou6.gif)￣![9s](../hai/sou9.gif) 的三面张。
 
-所以可以先记一句话：
+所以请记一句：
 
-**坎张落立直时，逆切出来的那条筋，除三面张等少数形外通常很难命中。**
-
-但这里一定要注意一个前提：**手打和摸切要分开看。**
+<span class="blue">“坎张落立直里，逆切出来的那条筋，除三面张外几乎不会中。”</span>  
+不过这里有一个必须注意的前提，那就是**摸切**。
 
 ---
 
-<table>
+<div class="river-block" markdown="0">
+<table class="river-table">
   <tr>
     <td><strong>例4</strong></td>
     <td></td><td></td><td></td><td></td>
@@ -176,43 +183,45 @@
   </tr>
   <tr>
     <td></td><td></td>
-    <td>![北](../hai/pei.gif)</td>
-    <td>![1p](../hai/pin1.gif)</td>
-    <td>![9m](../hai/man9.gif)</td>
-    <td>![2s](../hai/sou2.gif)</td>
-    <td>![8m](../hai/man8.gif)</td>
-    <td>![5s](../hai/sou5.gif)</td>
-    <td>![7s](../hai/sou7.gif)</td>
-    <td>![赤5m](../hai/yman5.gif)</td>
+    <td><img alt="北" src="../hai/pei.gif" /></td>
+    <td><img alt="1p" src="../hai/pin1.gif" /></td>
+    <td><img alt="9m" src="../hai/man9.gif" /></td>
+    <td><img alt="2s" src="../hai/sou2.gif" /></td>
+    <td><img alt="8m" src="../hai/man8.gif" /></td>
+    <td><img alt="5s" src="../hai/sou5.gif" /></td>
+    <td><img alt="7s" src="../hai/sou7.gif" /></td>
+    <td><img alt="赤5m" src="../hai/yman5.gif" /></td>
     <td></td><td></td>
   </tr>
 </table>
+</div>
 
-这时 ![3s](../hai/sou3.gif) 到 ![6s](../hai/sou6.gif) 就完全可能成立。  
+这种情况下，![3s](../hai/sou3.gif)![6s](../hai/sou6.gif) 待却完全可能成立。  
 因为 ![7s](../hai/sou7.gif) 是摸切，  
-所以不能否定对手是在第 `6` 巡用摸进牌固定了两面。
-
-例如下面这种想定：
+所以不能排除对手在第 `6` 巡用自摸牌把两面固定下来的可能。
 
 想定图  
 ![3m](../hai/man3.gif)![3m](../hai/man3.gif)![5m](../hai/man5.gif)![3p](../hai/pin3.gif)![4p](../hai/pin4.gif)![5p](../hai/pin5.gif)![7p](../hai/pin7.gif)![8p](../hai/pin8.gif)![9p](../hai/pin9.gif)![9p](../hai/pin9.gif)![4s](../hai/sou4.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)　自摸 ![9p](../hai/pin9.gif)
 
-所以，能认真分辨手打与摸切的人，才真正能把这种安全读法用到实战里。
+反过来说，如果能认真区分手打和摸切的人，  
+就能把这种读法最大限度用到实战里。
 
 ### 理论小结
 
-**坎张落立直里，若是逆切形成的那条筋，而且关键牌是手打，那么安全度会明显提高。**
+<div class="green" markdown="1">
+坎张落立直时，若构成逆切的关键牌是**手打**，  
+那么这条筋的安全度会明显提高。
+</div>
 
----
+## 3．双碰与坎张的否定
 
-## 3．否定双碰与坎张
+关于双碰待和坎张待的安全读法，这里再补充一点。
 
-关于双碰、坎张待的安全读法，这里再补两种“否定法”。
+否定双碰，来自最基础的牌理：  
+<span class="blue">“不会特地把两面搭子改成双碰受理。”</span>
 
-否定双碰的核心，来自最基础的牌理：  
-**正常人不会把现成两面，故意拆成双碰。**
-
-<table>
+<div class="river-block" markdown="0">
+<table class="river-table">
   <tr>
     <td><strong>例4</strong></td>
     <td></td><td></td><td></td><td></td>
@@ -225,37 +234,41 @@
   </tr>
   <tr>
     <td></td><td></td>
-    <td>![1m](../hai/man1.gif)</td>
-    <td>![中](../hai/tyun.gif)</td>
-    <td>![发](../hai/hatu.gif)</td>
-    <td>![北](../hai/pei.gif)</td>
-    <td>![2p](../hai/pin2.gif)</td>
-    <td>![4p](../hai/pin4.gif)</td>
-    <td>![3m](../hai/man3.gif)</td>
-    <td>![中](../hai/tyun.gif)</td>
-    <td>![赤8p](../hai/ypin8.gif)</td>
+    <td><img alt="1m" src="../hai/man1.gif" /></td>
+    <td><img alt="中" src="../hai/tyun.gif" /></td>
+    <td><img alt="发" src="../hai/hatu.gif" /></td>
+    <td><img alt="北" src="../hai/pei.gif" /></td>
+    <td><img alt="2p" src="../hai/pin2.gif" /></td>
+    <td><img alt="4p" src="../hai/pin4.gif" /></td>
+    <td><img alt="3m" src="../hai/man3.gif" /></td>
+    <td><img alt="中" src="../hai/tyun.gif" /></td>
+    <td><img alt="赤8p" src="../hai/ypin8.gif" /></td>
     <td></td>
   </tr>
 </table>
+</div>
 
-面对这副立直舍牌，![5p](../hai/pin5.gif) 和 ![7p](../hai/pin7.gif) 可以理解成：  
-**就算会中，也更像是坎张，不太会是双碰。**
+对于例 4 这副舍牌，![5p](../hai/pin5.gif) 和 ![7p](../hai/pin7.gif) 可以读作：  
+<span class="blue">“就算会中，也只可能是坎张，不可能是双碰。”</span>
 
-因为谁会从 ![4p](../hai/pin4.gif)![5p](../hai/pin5.gif)![5p](../hai/pin5.gif) 里切掉 ![4p](../hai/pin4.gif) 呢？  
-又有谁会从 ![7p](../hai/pin7.gif)![7p](../hai/pin7.gif)![8p](../hai/pin8.gif) 里切掉 ![8p](../hai/pin8.gif) 呢？
+会有人从 ![4p](../hai/pin4.gif)![5p](../hai/pin5.gif)![5p](../hai/pin5.gif) 里去切 ![4p](../hai/pin4.gif) 吗？  
+会有人从 ![7p](../hai/pin7.gif)![7p](../hai/pin7.gif)![8p](../hai/pin8.gif) 里去切 ![8p](../hai/pin8.gif) 吗？
 
-只要对手稍微懂一点麻将，通常都会保留两面。
+只要稍微懂一点麻将，正常都会保留两面。
 
-当然，因为坎张待仍然还存在，所以 ![5p](../hai/pin5.gif)、![7p](../hai/pin7.gif) 还不能直接当成安全牌。  
-但如果之后现物的 ![4p](../hai/pin4.gif) 或 ![8p](../hai/pin8.gif) 继续被打出来，场上见满四张，  
-那就连坎张也可以一起否定。
+当然，因为坎张待仍然存在，所以 ![5p](../hai/pin5.gif) 和 ![7p](../hai/pin7.gif) 还不能直接算安全牌。
 
-这就是“把舍牌阅读和无机会壁叠起来用”的典型做法，实战价值很高。
+但如果之后现物的 ![4p](../hai/pin4.gif) 或 ![8p](../hai/pin8.gif) 又被打出来，  
+场上见满四张，那就连坎张待也可以一起否定。
 
-否定坎张也是同样的道理：  
-**正常人也不会为了听牌，故意把两面拆成坎张。**
+像这样，把舍牌阅读和无机会壁结合起来用，  
+就有机会找出真正不会中的牌，是实战里很有用的技术。
 
-<table>
+否定坎张待也是同样道理：  
+<strong class="blue">“不会特地把两面搭子改成坎张受理。”</strong>
+
+<div class="river-block" markdown="0">
+<table class="river-table">
   <tr>
     <td><strong>例4</strong></td>
     <td></td><td></td><td></td><td></td>
@@ -266,29 +279,34 @@
   </tr>
   <tr>
     <td></td><td></td>
-    <td>![1m](../hai/man1.gif)</td>
-    <td>![9p](../hai/pin9.gif)</td>
-    <td>![发](../hai/hatu.gif)</td>
-    <td>![北](../hai/pei.gif)</td>
-    <td>![3s](../hai/sou3.gif)</td>
-    <td>![中](../hai/tyun.gif)</td>
-    <td>![5p](../hai/pin5.gif)</td>
-    <td>![赤6p](../hai/ypin6.gif)</td>
+    <td><img alt="1m" src="../hai/man1.gif" /></td>
+    <td><img alt="9p" src="../hai/pin9.gif" /></td>
+    <td><img alt="发" src="../hai/hatu.gif" /></td>
+    <td><img alt="北" src="../hai/pei.gif" /></td>
+    <td><img alt="3s" src="../hai/sou3.gif" /></td>
+    <td><img alt="中" src="../hai/tyun.gif" /></td>
+    <td><img alt="5p" src="../hai/pin5.gif" /></td>
+    <td><img alt="赤6p" src="../hai/ypin6.gif" /></td>
   </tr>
 </table>
+</div>
 
-面对这种立直，![8p](../hai/pin8.gif) 真要中，大概也只剩七对子之类极少数可能。
+这副立直里，真要说 ![8p](../hai/pin8.gif) 会中，大概也只剩七对子之类的形。
 
-因为不管是：
+不管是：
 
-- ![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![7p](../hai/pin7.gif)![9p](../hai/pin9.gif)
-- 还是 ![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![8p](../hai/pin8.gif)![8p](../hai/pin8.gif)
+![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![7p](../hai/pin7.gif)![9p](../hai/pin9.gif)
 
-都很难想象有人会把 ![5p](../hai/pin5.gif)![6p](../hai/pin6.gif) 主动拆掉。
+还是：
+
+![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![8p](../hai/pin8.gif)![8p](../hai/pin8.gif)
+
+都很难想象有人会把 ![5p](../hai/pin5.gif)![6p](../hai/pin6.gif) 故意拆掉。
 
 ---
 
-<table>
+<div class="river-block" markdown="0">
+<table class="river-table">
   <tr>
     <td><strong>例5</strong></td>
     <td></td><td></td><td></td><td></td>
@@ -299,23 +317,24 @@
   </tr>
   <tr>
     <td></td><td></td>
-    <td>![1m](../hai/man1.gif)</td>
-    <td>![9p](../hai/pin9.gif)</td>
-    <td>![发](../hai/hatu.gif)</td>
-    <td>![北](../hai/pei.gif)</td>
-    <td>![3s](../hai/sou3.gif)</td>
-    <td>![中](../hai/tyun.gif)</td>
-    <td>![5p](../hai/pin5.gif)</td>
-    <td>![赤9s](../hai/ysou9.gif)</td>
+    <td><img alt="1m" src="../hai/man1.gif" /></td>
+    <td><img alt="9p" src="../hai/pin9.gif" /></td>
+    <td><img alt="发" src="../hai/hatu.gif" /></td>
+    <td><img alt="北" src="../hai/pei.gif" /></td>
+    <td><img alt="3s" src="../hai/sou3.gif" /></td>
+    <td><img alt="中" src="../hai/tyun.gif" /></td>
+    <td><img alt="5p" src="../hai/pin5.gif" /></td>
+    <td><img alt="赤9s" src="../hai/ysou9.gif" /></td>
     <td></td>
-    <td>宝牌 ![8s](../hai/sou8.gif)</td>
+    <td>宝牌 <img alt="8s" src="../hai/sou8.gif" /></td>
   </tr>
 </table>
+</div>
 
-最后补一个利用宝牌的小读法。
+最后再介绍一个利用宝牌的小读法。
 
-“正碰里筋”本来就是坎张里最该警戒的待牌之一。  
-但在例 5 这种局面，坎 ![6s](../hai/sou6.gif) 却几乎不太可能。
+正碰里筋本来就是坎张待里最该警戒的待牌之一，  
+但例 5 这种情况，坎 ![6s](../hai/sou6.gif) 却基本不可能。
 
 因为如果手里是 ![5s](../hai/sou5.gif)![7s](../hai/sou7.gif)![9s](../hai/sou9.gif)，  
 大多数人都会优先选择等宝牌一侧。
