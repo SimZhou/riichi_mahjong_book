@@ -62,6 +62,27 @@ Minimum review flow:
 3. Check generated HTML heading structure and page-end source link
 4. Check for residual Japanese kana in translated markdown
 
+## Tile River Table Rule
+
+- Some original pages render discard examples as very compact two-row HTML tables:
+  - first row: `例N` plus `↓` markers for tsumogiri
+  - second row: tile images only
+- Treat those tables as article content, not generic data tables. Preserve the table structure, but do not rely on default MkDocs/Material table styling.
+- Do not put Markdown image syntax like `![tile](...)` directly inside raw HTML table cells. In this project, that can pass through as literal text in generated HTML instead of becoming `<img>`.
+- For tile river example tables inside raw HTML:
+  - use real `<img ...>` tags inside `<td>`
+  - wrap the table in a compact container such as `.river-block`
+  - use the dedicated `.river-table` styling from `site_src/docs/stylesheets/extra.css`
+- Purpose of the dedicated river-table styling:
+  - keep the original compact old-site look
+  - avoid Material's default full-width table spacing
+  - allow horizontal scrolling on narrow screens instead of crushing tile images
+- When a page contains these discard-example tables, add an explicit layout check after build:
+  1. inspect generated `docs/<page>.html` and confirm the cells contain `<img>` tags, not literal `![...]`
+  2. confirm `river-block` / `river-table` classes are present in generated HTML
+  3. visually check that the example block is compact and readable on both desktop width and narrow width
+  4. if reviewing live, confirm the deployed page preserves the compact layout rather than expanded generic table styling
+
 ## Live Sampling Checklist
 
 - Local `docs/` being correct does not prove the deployed site is correct.
