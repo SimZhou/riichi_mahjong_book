@@ -63,7 +63,8 @@
 
 下面是原页的例 2：
 
-<table>
+<div class="river-block" markdown="0">
+<table class="river-table">
   <tr>
     <td><strong>例2</strong></td>
     <td></td><td></td><td></td>
@@ -86,6 +87,7 @@
     <td><img alt="赤5s" src="../hai/ysou5.gif" /></td>
   </tr>
 </table>
+</div>
 
 这副舍牌的特点，是 ![5p](../hai/pin5.gif) 出得相当早。  
 而且 ![9p](../hai/pin9.gif) 已经在河里了，所以我会认为 ![1p](../hai/pin1.gif) 到 ![4p](../hai/pin4.gif) 的危险度明显偏高。
@@ -131,7 +133,8 @@
 
 看原页例 3：
 
-<table>
+<div class="river-block" markdown="0">
+<table class="river-table">
   <tr>
     <td><strong>例3</strong></td>
     <td></td><td></td><td></td>
@@ -157,6 +160,7 @@
     <td><img alt="赤8s" src="../hai/ysou8.gif" /></td>
   </tr>
 </table>
+</div>
 
 （`↓` 表示摸切）
 
@@ -171,7 +175,8 @@
 
 再看原页例 4：
 
-<table>
+<div class="river-block" markdown="0">
+<table class="river-table">
   <tr>
     <td><strong>例4</strong></td>
     <td></td><td></td><td></td>
@@ -200,6 +205,7 @@
     <td><img alt="赤6p" src="../hai/ypin6.gif" /></td>
   </tr>
 </table>
+</div>
 
 （`↓` 表示摸切）
 
@@ -220,7 +226,8 @@
 
 这条读法，其实是从“二度受不利”这条牌理反推出来的。
 
-<table>
+<div class="river-block" markdown="0">
+<table class="river-table">
   <tr>
     <td><strong>例5</strong></td>
     <td></td><td></td><td></td>
@@ -243,6 +250,7 @@
     <td><img alt="赤2p" src="../hai/ypin2.gif" /></td>
   </tr>
 </table>
+</div>
 
 （`↓` 表示摸切）
 
@@ -279,7 +287,8 @@
 
 看原页例 6：
 
-<table>
+<div class="river-block" markdown="0">
+<table class="river-table">
   <tr>
     <td><strong>例6</strong></td>
     <td></td><td></td><td></td>
@@ -302,6 +311,7 @@
     <td><img alt="赤3m" src="../hai/yman3.gif" /></td>
   </tr>
 </table>
+</div>
 
 （`↓` 表示摸切）
 
