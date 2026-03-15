@@ -1,108 +1,127 @@
 # 鸣牌与向听数
 
-向听数是用来判断自己的手牌离和牌还有多远的，非常重要。
+向听数是衡量自己的手离和牌还有多远的尺度，
 
-这里就专门从向听数的角度，来讨论鸣牌到底合不合理。
+是非常重要的概念。
+
+这里就专门把注意力放在向听数上，来考虑鸣牌到底是否合理。
 
 ## 向听数不变的鸣牌
 
-既然鸣牌会放弃一次自摸机会，那么既然选择了鸣牌，手牌就应该真的往前走了一步。
+既然鸣牌就等于放弃一次自摸，
 
-### 例 1
+那么既然鸣了，手牌就应该真的前进。
 
-![2m](../hai/man2.gif)![3m](../hai/man3.gif)![3m](../hai/man3.gif)![4m](../hai/man4.gif)![4m](../hai/man4.gif)![2p](../hai/pin2.gif)![2p](../hai/pin2.gif)![4s](../hai/sou4.gif)![4s](../hai/sou4.gif)![6s](../hai/sou6.gif)　吃![7p](../hai/ypin7.gif)![6p](../hai/pin6.gif)![8p](../hai/pin8.gif)
+**例 1**
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"> 　吃<img src="../hai/ypin7.gif" width="32" height="24"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34">
 
-这里就算去碰 ![3m](../hai/man3.gif) 或 ![4m](../hai/man4.gif)，手牌也仍然还是一向听，并不能算是真正前进。
+这里就算去碰 <img src="../hai/man3.gif" width="24" height="34"> 或 <img src="../hai/man4.gif" width="24" height="34">，
 
-所以基本原则是：
+手牌也仍然还是一向听，不能算是前进了一步。
 
-**向听数不变的鸣牌，原则上是禁手。**
+所以基本上，**“向听数不变的鸣牌是禁手”**。
 
-### 例外 1
+**＜例外 1＞**
 
-如果你本来就已经听牌，那么即使鸣牌以后向听数不会变化，只要鸣了能让待牌变好，或者能让打点提高，就应该鸣。
+如果本来就已经听牌，
 
-### 例 2
+而鸣了以后能让待牌变好，
 
-![2m](../hai/man2.gif)![2m](../hai/man2.gif)![2p](../hai/pin2.gif)![4p](../hai/pin4.gif)![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![7p](../hai/pin7.gif)![6s](../hai/sou6.gif)![7s](../hai/sou7.gif)![8s](../hai/sou8.gif)
-吃![6m](../hai/yman6.gif)![7m](../hai/man7.gif)![8m](../hai/man8.gif)
+或者鸣了以后能让打点上升，
 
-像这手，遇到 ![6p](../hai/pin6.gif) 或 ![8p](../hai/pin8.gif) 时，就应该鸣下来换待。
+那么就应该鸣。
 
-而 ![2m](../hai/man2.gif) 的碰、![5p](../hai/pin5.gif) 的吃，在某些具体场况里也同样可以成立。
+**例 2**
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">
+吃<img src="../hai/yman6.gif" width="32" height="24"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34">
 
-### 例外 2
+像例 2 这种手，遇到 <img src="../hai/pin6.gif" width="24" height="34"> 或 <img src="../hai/pin8.gif" width="24" height="34">，
 
-还有一类情况，是向听数虽然没有变化，但鸣完以后明显更容易和牌。
+就应该鸣下来换待。
 
-最典型的，就是断幺九、对对和这种副露以后明显更容易完成的手役。
+而 <img src="../hai/man2.gif" width="24" height="34"> 的碰、<img src="../hai/pin5.gif" width="24" height="34"> 的吃，
 
-### 例 3
+在某些具体场面里也同样可以成立。
 
-![6m](../hai/man6.gif)![8m](../hai/man8.gif)![8m](../hai/man8.gif)![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![3p](../hai/pin3.gif)![4p](../hai/pin4.gif)![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![3s](../hai/sou3.gif)![4s](../hai/sou4.gif)![4s](../hai/sou4.gif)![5s](../hai/sou5.gif)　　宝牌![8m](../hai/man8.gif)
+**＜例外 2＞**
 
-这手如果坚持门清立直路线，远不如直接转成断幺九副露来得容易和。
+还有一种情况是：向听数虽然没变，
+
+但鸣了以后会明显更容易和牌。
+
+具体来说，就是断幺九、对对和这类手役参与进来的时候。
+
+---
+
+**例 3**
+<img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34">　　宝牌<img src="../hai/man8.gif" width="24" height="34">
+
+例 3 如果坚持门清立直，远不如鸣出去做断幺九更容易和牌。
 
 所以即使向听数没有变化，也完全可以鸣。
 
-![6m](../hai/man6.gif)![8m](../hai/man8.gif)![8m](../hai/man8.gif)![1p](../hai/pin1.gif)![3p](../hai/pin3.gif)![4p](../hai/pin4.gif)![3s](../hai/sou3.gif)![4s](../hai/sou4.gif)![4s](../hai/sou4.gif)![5s](../hai/sou5.gif)　　吃![7p](../hai/ypin7.gif)![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)
+<img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34">　　吃<img src="../hai/ypin7.gif" width="32" height="24"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34">
 
-### 例 4
+---
 
-![2m](../hai/man2.gif)![2m](../hai/man2.gif)![4m](../hai/man4.gif)![6m](../hai/man6.gif)![7m](../hai/man7.gif)![7m](../hai/man7.gif)![2s](../hai/sou2.gif)![2s](../hai/sou2.gif)![9s](../hai/sou9.gif)![9s](../hai/sou9.gif)![9s](../hai/sou9.gif)![白](../hai/haku.gif)![白](../hai/haku.gif)
+**例 4**
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34">
 
-这手虽然是七对子一向听，但只要有能碰的牌出来，就应该去碰，直接转向对对和。
+例 4 是七对子的一向听，
 
-因为对对和的完成难度远远低于七对子。
+但只要有能碰的牌出来，就应该去碰，直接转向对对和。
+
+因为对对和远比七对子更容易和成。
 
 ## 副露数与向听数
 
-鸣得越多，放铳风险就越高，可用的有效牌也会越少。
+鸣得越多，放铳风险就越高，
 
-所以在手牌还很散的时候乱仕挂，并不是好事。
+同时真正能前进的有效牌也会越来越受限。
 
-### 例 5
+因此，在手牌还很散的时候贸然去仕挂，并不划算。
 
-![1p](../hai/pin1.gif)![4p](../hai/pin4.gif)![9p](../hai/pin9.gif)![白](../hai/haku.gif)　　吃![5p](../hai/ypin5.gif)![4p](../hai/pin4.gif)![6p](../hai/pin6.gif)　　碰![8p](../hai/pin8.gif)![8p](../hai/ypin8.gif)![8p](../hai/pin8.gif)　　碰![中](../hai/ytyun.gif)![中](../hai/tyun.gif)![中](../hai/tyun.gif)
+**例 5**<img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34">　　吃<img src="../hai/ypin5.gif" width="32" height="24"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34">　　碰<img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/ypin8.gif" width="32" height="24"><img src="../hai/pin8.gif" width="24" height="34">　　碰<img src="../hai/ytyun.gif" width="32" height="24"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">
 
-像这种“能鸣就一路鸣”，结果三副露了手牌却还是散的情况，初学者里特别常见。
+像例 5 这样，能鸣就一路鸣，结果牌还是散的，这种情况在初学者里非常常见。
 
-三副露以后，理论上就应该已经听牌。
+三副露之后，本来就应该已经听牌了。
 
 如果还只是两向听，那基本就没什么可说的了。
 
-before：![1p](../hai/pin1.gif)![4p](../hai/pin4.gif)![4p](../hai/pin4.gif)![6p](../hai/pin6.gif)![9p](../hai/pin9.gif)![白](../hai/haku.gif)![北](../hai/pei.gif)　　碰![8p](../hai/pin8.gif)![8p](../hai/ypin8.gif)![8p](../hai/pin8.gif)　　碰![中](../hai/ytyun.gif)![中](../hai/tyun.gif)![中](../hai/tyun.gif)
+before：<img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　　碰<img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/ypin8.gif" width="32" height="24"><img src="../hai/pin8.gif" width="24" height="34">　　碰<img src="../hai/ytyun.gif" width="32" height="24"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">
 
-如果鸣牌前是这个形，那么就算上家打出 ![5p](../hai/pin5.gif)，也应该忍住。
+如果鸣牌前是这种形，那就算上家打出 <img src="../hai/pin5.gif" width="24" height="34">，也应该忍住。
 
-因为形太苦了，鸣下来以后和牌概率仍然很低；还不如早一点为之后有人立直做准备。
+因为形太苦了，鸣下来以后和牌可能性还是很低，
 
-一个大致可用的经验线是：
+还不如早点为之后有人立直做准备。
 
-<div class="theory-block" markdown="1">
+大致可以拿下面这条当经验线：
 
-三副露：应当已经听牌；如果只是一向听，那也最好是满贯以上的大手，例如清一色。  
-二副露：至少应是一向听；如果还是两向听，那必须是相当好的形，或至少 `3900` 以上的手。
+<span class="b">
+三副露：应当已经听牌；如果只是一向听，那也最好是满贯以上的大手（例如清一色）  
+二副露：至少应是一向听；如果还是两向听，那必须是相当好的形，或者至少 3900 以上的手
+</span>
 
-</div>
+先给自己定下这种门槛，仕挂的精度会高很多。
 
-如果先给自己定下这种门槛，鸣牌精度会高很多。
+---
 
-### 例 6
+**例 6**
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">　　<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24">
+　宝牌<img src="../hai/pin7.gif" width="24" height="34">
 
-![2m](../hai/man2.gif)![5m](../hai/man5.gif)![3p](../hai/pin3.gif)![3p](../hai/pin3.gif)![4p](../hai/pin4.gif)![7p](../hai/pin7.gif)![9p](../hai/pin9.gif)![5s](../hai/sou5.gif)![6s](../hai/sou6.gif)![6s](../hai/sou6.gif)　　![中](../hai/tyun.gif)![中](../hai/tyun.gif)![中](../hai/ytyun.gif)
-　宝牌![7p](../hai/pin7.gif)
+比如这手，就算去鸣 <img src="../hai/sou4.gif" width="24" height="34"> 到 <img src="../hai/sou7.gif" width="24" height="34">，鸣完以后也仍然只是两向听，而且手也便宜。
 
-例如这手，就算去鸣 ![4s](../hai/sou4.gif) 到 ![7s](../hai/sou7.gif)，鸣完以后仍然只是两向听，而且手也不高。
+这就不能算是合理的仕挂。
 
-这就不能算是合理仕挂。
+如果是坎 <img src="../hai/pin8.gif" width="24" height="34">，倒还可以勉强讨论一下：
 
-如果是坎 ![8p](../hai/pin8.gif) 这种鸣法，倒还能勉强讨论：
-
-![5m](../hai/man5.gif)![3p](../hai/pin3.gif)![3p](../hai/pin3.gif)![4p](../hai/pin4.gif)![5s](../hai/sou5.gif)![6s](../hai/sou6.gif)![6s](../hai/sou6.gif)　
-![8p](../hai/ypin8.gif)![7p](../hai/pin7.gif)![9p](../hai/pin9.gif)　
-![中](../hai/tyun.gif)![中](../hai/tyun.gif)![中](../hai/ytyun.gif)
-　宝牌![7p](../hai/pin7.gif)
+<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">　
+<img src="../hai/ypin8.gif" width="32" height="24"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34">　
+<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24">
+　宝牌<img src="../hai/pin7.gif" width="24" height="34">
 
 ---
 
