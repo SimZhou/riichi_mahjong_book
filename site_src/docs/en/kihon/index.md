@@ -35,7 +35,7 @@ alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/index.html
 8. [Basic Shapes and Composite Shapes](./kihon08.md)
 : Mahjong ends with four sets and one pair, but there is more than one route to get there. This page begins explaining how a hand moves toward completion.
 
-9. **Composite Shapes (1)**
+9. [Composite Shapes (1)](./kihon09.md)
 : An introduction to the way three-tile composite shapes work, including the basic idea behind double closed waits.
 
 10. **Composite Shapes (2)**

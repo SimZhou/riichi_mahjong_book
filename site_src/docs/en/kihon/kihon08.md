@@ -76,6 +76,6 @@ Original Japanese page: <http://beginners.biz/kihon/kihon08.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="kihon07.html">Previous: Pairs (2)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../kihon/kihon09.html">Continue in Chinese: Composite Shapes (1)</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon09.html">Next: Composite Shapes (1)</a>
 </div>
 <!-- PAGE NAV END -->
