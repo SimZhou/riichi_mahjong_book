@@ -63,7 +63,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 18. [Tile Theory at One-Shanten (6)](./pairi18.md)
     This page covers kuttsuki one-shanten. One-shanten tile theory is so important that it takes many pages.
 
-19. **Tile Theory in Tenpai**
+19. [Tile Theory in Tenpai](./pairi19.md)
     In tenpai there are often not many choices, but it is still worth looking at concrete examples.
 
 20. **Shanten Reversal**
