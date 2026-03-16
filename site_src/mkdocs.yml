@@ -78,6 +78,9 @@ extra:
       pairi01:
         title: Playing by Tile Theory
         path: en/pairi/pairi01.html
+      pairi02:
+        title: Effective Tiles and Tile Count
+        path: en/pairi/pairi02.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

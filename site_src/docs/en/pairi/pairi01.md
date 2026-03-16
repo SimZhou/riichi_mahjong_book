@@ -97,6 +97,6 @@ Original Japanese page: <http://beginners.biz/pairi/pairi01.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="index.html">Back to Overview: Tile Efficiency and Tile Theory</a>
-  <a class="page-nav__link page-nav__link--next" href="../../pairi/pairi02.html">Continue in Chinese: Effective Tiles and Tile Count</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi02.html">Next: Effective Tiles and Tile Count</a>
 </div>
 <!-- PAGE NAV END -->

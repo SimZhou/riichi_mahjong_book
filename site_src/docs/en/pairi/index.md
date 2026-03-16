@@ -12,7 +12,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 1. [Playing by Tile Theory](./pairi01.md)
    What does tile efficiency really mean as a way of thinking? Its essence lies in repeatedly listing your discard candidates and comparing them.
 
-2. **Effective Tiles and Tile Count**
+2. [Effective Tiles and Tile Count](./pairi02.md)
    Confirm one of mahjong’s most basic principles: the more tiles that help your hand, the better.
 
 3. **The Theory of Floating Tiles**
@@ -76,6 +76,6 @@ Original Japanese page: <http://beginners.biz/pairi/>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="../kihon/kihon12.html">Previous Chapter: Mahjong Basics</a>
-  <a class="page-nav__link page-nav__link--next" href="../pairi/pairi01.html">Continue in Chinese: Playing by Tile Theory</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi01.html">Next: Playing by Tile Theory</a>
 </div>
 <!-- PAGE NAV END -->
