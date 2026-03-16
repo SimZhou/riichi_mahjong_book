@@ -184,6 +184,6 @@ Original Japanese page: <http://beginners.biz/pairi/pairi08.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="pairi07.html">Previous: How to Think About Discard Choices</a>
-  <a class="page-nav__link page-nav__link--next" href="../../pairi/pairi09.html">Continue in Chinese: Early-Hand Tile Theory (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi09.html">Next: Early-Hand Tile Theory (2)</a>
 </div>
 <!-- PAGE NAV END -->

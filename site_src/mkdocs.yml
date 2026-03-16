@@ -99,6 +99,9 @@ extra:
       pairi08:
         title: Early-Hand Tile Theory (1)
         path: en/pairi/pairi08.html
+      pairi09:
+        title: Early-Hand Tile Theory (2)
+        path: en/pairi/pairi09.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

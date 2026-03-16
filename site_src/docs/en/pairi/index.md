@@ -33,7 +33,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 8. [Early-Hand Tile Theory (1)](./pairi08.md)
    How should you advance your hand at the initial deal, or in the early turns?
 
-9. **Early-Hand Tile Theory (2)**
+9. [Early-Hand Tile Theory (2)](./pairi09.md)
    A look at cases where you have many taatsu but still cannot clearly imagine the final completed hand.
 
 10. **Tile Theory at Two-Shanten (1)**
