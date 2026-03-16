@@ -1,4 +1,4 @@
-# 麻将役种
+# 第3章：麻将役种
 
 <img src="../images/top-image6.jpg" width="610" height="300" alt="手役栏目主图" />
 

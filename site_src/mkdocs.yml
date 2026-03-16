@@ -21,7 +21,7 @@ nav:
   - 附录:
     - 旧站首页归档: blog/index.md
     - 全站目录: sitemap/index.md
-  - 麻将基础:
+  - 第1章：麻将基础:
     - 栏目导读: kihon/index.md
     - 麻将是什么: kihon/kihon01.md
     - 麻将与概率: kihon/kihon02.md
@@ -35,7 +35,7 @@ nav:
     - 复合形（2）: kihon/kihon10.md
     - 麻将的听牌（1）: kihon/kihon11.md
     - 麻将的听牌（2）: kihon/kihon12.md
-  - 牌理与牌效率:
+  - 第2章：牌理与牌效率:
     - 栏目导读: pairi/index.md
     - 按牌理打牌: pairi/pairi01.md
     - 有效牌与枚数: pairi/pairi02.md
@@ -57,7 +57,7 @@ nav:
     - 一向听牌理（6）: pairi/pairi18.md
     - 听牌时牌理: pairi/pairi19.md
     - 向听回退: pairi/pairi20.md
-  - 麻将役种:
+  - 第3章：麻将役种:
     - 栏目导读: teyaku/index.md
     - 手役思路（1）: teyaku/teyaku01.md
     - 手役思路（2）: teyaku/teyaku02.md
@@ -69,7 +69,7 @@ nav:
     - 三色: teyaku/teyaku08.md
     - 对子手（1）: teyaku/teyaku09.md
     - 对子手（2）: teyaku/teyaku10.md
-  - 宝牌与红宝牌:
+  - 第4章：宝牌与红宝牌:
     - 栏目导读: dora/index.md
     - 宝牌应对（1）: dora/dora01.md
     - 宝牌应对（2）: dora/dora02.md
@@ -78,7 +78,7 @@ nav:
     - 宝牌与手役选择: dora/dora05.md
     - 红宝牌麻将基础: dora/dora06.md
     - 红宝牌与祝仪: dora/dora07.md
-  - 鸣牌:
+  - 第5章：鸣牌:
     - 栏目导读: naki/index.md
     - 鸣牌的优缺点: naki/naki01.md
     - 副露判断基础: naki/naki02.md
@@ -95,7 +95,7 @@ nav:
     - 鸣牌技巧（1）: naki/naki13.md
     - 鸣牌技巧（2）: naki/naki14.md
     - 鸣牌技巧（3）: naki/naki15.md
-  - 立直:
+  - 第6章：立直:
     - 栏目导读: reach/index.md
     - 立直的优缺点: reach/reach01.md
     - 立直还是默听（1）: reach/reach02.md
@@ -105,7 +105,7 @@ nav:
     - 立直理论（2）: reach/reach06.md
     - 立直取听（1）: reach/reach07.md
     - 立直取听（2）: reach/reach08.md
-  - 防守:
+  - 第7章：防守:
     - 栏目导读: mamori/index.md
     - 防守基础: mamori/mamori01.md
     - 安全牌: mamori/mamori02.md
@@ -122,7 +122,7 @@ nav:
     - 避免放铳: mamori/mamori13.md
     - 读立直（1）: mamori/mamori14.md
     - 读立直（2）: mamori/mamori15.md
-  - 局势判断:
+  - 第8章：局势判断:
     - 栏目导读: joukyou/index.md
     - 局势判断基础: joukyou/joukyou01.md
     - 关注名次: joukyou/joukyou02.md
@@ -133,7 +133,7 @@ nav:
     - 最终局战术（1）: joukyou/joukyou07.md
     - 最终局战术（2）: joukyou/joukyou08.md
     - 最终局战术（3）: joukyou/joukyou09.md
-  - 押引:
+  - 第9章：押引:
     - 栏目导读: osihiki/index.md
     - 押引铁则: osihiki/osihiki01.md
     - 判断依据: osihiki/osihiki02.md
