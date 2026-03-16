@@ -1,5 +1,6 @@
 ---
 description: 一向听牌理（2）：先来看面子过剩形。 如果前面那些基础内容已经掌握到位，这一页的正着打原则上都应该能推出来。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi14.html
 ---
 
 # 一向听牌理（2）

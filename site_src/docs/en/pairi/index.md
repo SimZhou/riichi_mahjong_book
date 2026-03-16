@@ -48,7 +48,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 13. [Tile Theory at One-Shanten (1)](./pairi13.md)
     Tile theory at one-shanten has a major effect on your winning rate. It is one of the most important skills in hand-building.
 
-14. **Tile Theory at One-Shanten (2)**
+14. [Tile Theory at One-Shanten (2)](./pairi14.md)
     Tile efficiency at one-shanten. It is worth memorizing the shapes that appear again and again as fixed patterns.
 
 15. **Tile Theory at One-Shanten (3)**
