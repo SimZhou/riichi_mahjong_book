@@ -21,7 +21,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 4. [Taatsu Theory (1)](./pairi04.md)
    This page compares the functions of taatsu from the viewpoints of acceptance count and the chance to improve into better shapes.
 
-5. **Taatsu Theory (2)**
+5. [Taatsu Theory (2)](./pairi05.md)
    Centered on how to think about ryan-kan shapes, this page checks the main ryan-kan variations.
 
 6. **Taatsu Theory (3)**

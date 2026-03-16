@@ -1,5 +1,6 @@
 ---
 description: 搭子理论（2）：所谓两嵌，就是像 这样，由两个嵌张复合起来的形。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi05.html
 ---
 
 # 搭子理论（2）

@@ -121,6 +121,6 @@ Original Japanese page: <http://beginners.biz/pairi/pairi04.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="pairi03.html">Previous: The Theory of Floating Tiles</a>
-  <a class="page-nav__link page-nav__link--next" href="../../pairi/pairi05.html">Continue in Chinese: Taatsu Theory (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi05.html">Next: Taatsu Theory (2)</a>
 </div>
 <!-- PAGE NAV END -->
