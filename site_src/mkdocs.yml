@@ -18,9 +18,6 @@ extra_css:
 
 nav:
   - 首页: index.md
-  - 附录:
-    - 旧站首页归档: blog/index.md
-    - 全站目录: sitemap/index.md
   - 第1章：麻将基础:
     - 栏目导读: kihon/index.md
     - 麻将是什么: kihon/kihon01.md
@@ -137,3 +134,10 @@ nav:
     - 栏目导读: osihiki/index.md
     - 押引铁则: osihiki/osihiki01.md
     - 判断依据: osihiki/osihiki02.md
+  - 附录:
+    - 附录导览: blog/index.md
+    - 旧站首页归档: blog/home_archive.md
+    - 作者介绍: blog/prof.md
+    - 麻将链接集: blog/link.md
+    - 站外推荐资源: blog/resources.md
+    - 全站目录: sitemap/index.md
