@@ -155,6 +155,6 @@ Original Japanese page: <http://beginners.biz/pairi/pairi05.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="pairi04.html">Previous: Taatsu Theory (1)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../pairi/pairi06.html">Continue in Chinese: Taatsu Theory (3)</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi06.html">Next: Taatsu Theory (3)</a>
 </div>
 <!-- PAGE NAV END -->

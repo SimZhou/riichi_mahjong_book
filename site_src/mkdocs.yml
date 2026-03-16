@@ -90,6 +90,9 @@ extra:
       pairi05:
         title: Taatsu Theory (2)
         path: en/pairi/pairi05.html
+      pairi06:
+        title: Taatsu Theory (3)
+        path: en/pairi/pairi06.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

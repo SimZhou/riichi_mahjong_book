@@ -1,4 +1,5 @@
 ---
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi06.html
 description: 搭子理论（3）：这里要处理的是像 这样由 6 张组成的复合搭子。
 ---
 

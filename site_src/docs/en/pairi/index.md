@@ -24,7 +24,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 5. [Taatsu Theory (2)](./pairi05.md)
    Centered on how to think about ryan-kan shapes, this page checks the main ryan-kan variations.
 
-6. **Taatsu Theory (3)**
+6. [Taatsu Theory (3)](./pairi06.md)
    A look at composite taatsu that appear frequently in actual play and how to handle them.
 
 7. **How to Think About Discard Choices**
