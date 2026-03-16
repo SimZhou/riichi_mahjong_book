@@ -36,7 +36,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 9. [Early-Hand Tile Theory (2)](./pairi09.md)
    A look at cases where you have many taatsu but still cannot clearly imagine the final completed hand.
 
-10. **Tile Theory at Two-Shanten (1)**
+10. [Tile Theory at Two-Shanten (1)](./pairi10.md)
     Learn the tile efficiency of hands that are at two-shanten and getting closer to completion.
 
 11. **Tile Theory at Two-Shanten (2)**

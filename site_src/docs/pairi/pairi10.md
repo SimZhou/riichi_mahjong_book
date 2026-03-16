@@ -1,4 +1,5 @@
 ---
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi10.html
 description: 两向听牌理（1）：适用于这种手牌： 已经完成 1 组面子和 1 个雀头，另外还有 3 个搭子块（包含对子块）。 完成面子当然不能拆；而如果雀头只有 1 个，去拆它同样会让手牌。
 ---
 
