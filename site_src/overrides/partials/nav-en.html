@@ -73,6 +73,11 @@
               <span class="md-ellipsis">{{ basics.kihon07.title }}</span>
             </a>
           </li>
+          <li class="md-nav__item{% if current_url == basics.kihon08.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ basics.kihon08.path }}" class="md-nav__link{% if current_url == basics.kihon08.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ basics.kihon08.title }}</span>
+            </a>
+          </li>
         </ul>
       </nav>
     </li>

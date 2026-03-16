@@ -55,6 +55,9 @@ extra:
       kihon07:
         title: Pairs (2)
         path: en/kihon/kihon07.html
+      kihon08:
+        title: Basic Shapes and Composite Shapes
+        path: en/kihon/kihon08.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

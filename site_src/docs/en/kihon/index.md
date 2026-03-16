@@ -32,7 +32,7 @@ alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/index.html
 7. [Pairs (2)](./kihon07.md)
 : Even among pairs, some are stronger than others. This page introduces an important part of hand-building judgment.
 
-8. **Basic Shapes and Composite Shapes**
+8. [Basic Shapes and Composite Shapes](./kihon08.md)
 : Mahjong ends with four sets and one pair, but there is more than one route to get there. This page begins explaining how a hand moves toward completion.
 
 9. **Composite Shapes (1)**
