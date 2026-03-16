@@ -33,7 +33,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <span>What kind of game is mahjong when both luck and skill are involved, and what should you actually aim for if you want to win? This chapter starts with waits and tile properties, then builds the most basic ways of thinking.</span>
     </div>
   </a>
-  <div class="home-card">
+  <a class="home-card" href="./pairi/index.html">
     <div class="home-card__media">
       <img src="../images/top2_off.jpg" alt="Chapter 2: Tile Efficiency and Tile Theory" />
     </div>
@@ -41,7 +41,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <strong>Chapter 2: Tile Efficiency and Tile Theory</strong>
       <span>Tile efficiency is a puzzle-like way of thinking that tries to maximize the number of tiles that help your hand. It is one of the most fundamental skills in mahjong and worth mastering early.</span>
     </div>
-  </div>
+  </a>
   <div class="home-card">
     <div class="home-card__media">
       <img src="../images/top3_off.jpg" alt="Chapter 3: Yaku" />
