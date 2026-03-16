@@ -120,6 +120,6 @@ Original Japanese page: <http://beginners.biz/kihon/kihon04.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="kihon03.html">Previous: Tenpai and Shanten</a>
-  <a class="page-nav__link page-nav__link--next" href="../../kihon/kihon05.html">Continue in Chinese: Number Tiles and Honor Tiles</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon05.html">Next: Number Tiles and Honor Tiles</a>
 </div>
 <!-- PAGE NAV END -->

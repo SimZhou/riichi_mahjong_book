@@ -1,0 +1,12 @@
+{% set meta = page.meta if page and page.meta else {} %}
+{% set seo = config.extra.seo if config.extra and config.extra.seo else {} %}
+{% set page_locale = meta.locale if meta.locale else seo.locale|default('zh_CN') %}
+{% set page_language = page_locale[:2] %}
+
+{% if page_language == 'en' %}
+  {% import "partials/languages/en.html" as lang %}
+{% else %}
+  {% import "partials/languages/" ~ config.theme.language ~ ".html" as lang %}
+{% endif %}
+{% import "partials/languages/en.html" as fallback %}
+{% macro t(key) %}{{ lang.t(key) or fallback.t(key) or key }}{% endmacro %}

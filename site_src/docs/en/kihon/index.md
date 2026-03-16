@@ -23,7 +23,7 @@ alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/index.html
 4. [Sets and Taatsu](./kihon04.md)
 : A review of the basic idea of sets, including comparisons such as edge waits versus closed waits.
 
-5. **Number Tiles and Honor Tiles**
+5. [Number Tiles and Honor Tiles](./kihon05.md)
 : What do the numbered tiles from 1 to 9 actually imply, and what kinds of yaku are tied to honor tiles?
 
 6. **Pairs (1)**

@@ -46,6 +46,9 @@ extra:
       kihon04:
         title: Sets and Taatsu
         path: en/kihon/kihon04.html
+      kihon05:
+        title: Number Tiles and Honor Tiles
+        path: en/kihon/kihon05.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
