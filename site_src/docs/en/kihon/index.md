@@ -29,7 +29,7 @@ alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/index.html
 6. [Pairs (1)](./kihon06.md)
 : The basic way to think about pairs, two-tile groups that can become your head or develop into complete sets.
 
-7. **Pairs (2)**
+7. [Pairs (2)](./kihon07.md)
 : Even among pairs, some are stronger than others. This page introduces an important part of hand-building judgment.
 
 8. **Basic Shapes and Composite Shapes**

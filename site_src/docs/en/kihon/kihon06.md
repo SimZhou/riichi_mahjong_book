@@ -152,6 +152,6 @@ Original Japanese page: <http://beginners.biz/kihon/kihon06.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="kihon05.html">Previous: Number Tiles and Honor Tiles</a>
-  <a class="page-nav__link page-nav__link--next" href="../../kihon/kihon07.html">Continue in Chinese: Pairs (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon07.html">Next: Pairs (2)</a>
 </div>
 <!-- PAGE NAV END -->
