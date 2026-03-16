@@ -1,4 +1,5 @@
 ---
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi08.html
 description: 初期牌理（1）：在三向听以下的手牌里，牌理最难的一点，是到底该把手役价值考虑到什么程度。 因为有些时候，即使当前受入变窄一些，只要把鸣牌速度算进去，通往听牌的快慢就可能反转。
 ---
 

@@ -30,7 +30,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 7. [How to Think About Discard Choices](./pairi07.md)
    How should you practice tile efficiency? How do strong players think differently? This page touches the core of tile theory.
 
-8. **Early-Hand Tile Theory (1)**
+8. [Early-Hand Tile Theory (1)](./pairi08.md)
    How should you advance your hand at the initial deal, or in the early turns?
 
 9. **Early-Hand Tile Theory (2)**

@@ -96,6 +96,9 @@ extra:
       pairi07:
         title: How to Think About Discard Choices
         path: en/pairi/pairi07.html
+      pairi08:
+        title: Early-Hand Tile Theory (1)
+        path: en/pairi/pairi08.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
