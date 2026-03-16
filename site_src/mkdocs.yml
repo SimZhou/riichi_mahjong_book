@@ -1,20 +1,32 @@
 site_name: 麻将入门教程
 site_url: https://simzhou.com/mahjong_beginner/
+site_description: 面向初学者的日式麻将中文教程，系统讲解麻将基础、牌效率、役种、宝牌、鸣牌、立直、防守、局势判断与押引。
+site_author: SimZhou
 use_directory_urls: false
 
 theme:
   name: material
   language: zh
+  custom_dir: overrides
   features:
     - navigation.indexes
     - navigation.top
 
 markdown_extensions:
+  - meta
   - tables
   - attr_list
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  seo:
+    locale: zh_CN
+    default_robots: index, follow, max-image-preview:large
+    default_social_image: https://simzhou.com/mahjong_beginner/images/top-image_off.jpg
+    publisher_name: 麻将入门教程
+    publisher_url: https://simzhou.com/mahjong_beginner/
 
 nav:
   - 首页: index.md

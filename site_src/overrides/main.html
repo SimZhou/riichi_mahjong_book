@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% set seo = config.extra.seo if config.extra and config.extra.seo else {} %}
+  {% set meta = page.meta if page and page.meta else {} %}
+  {% set page_title = meta.title if meta.title else (page.title if page and page.title else config.site_name) %}
+  {% set page_description = meta.description if meta.description else config.site_description %}
+  {% set page_robots = meta.robots if meta.robots else seo.default_robots %}
+  {% set canonical_url = page.canonical_url if page and page.canonical_url else config.site_url %}
+  {% set social_image = meta.image if meta.image else seo.default_social_image %}
+  {% if social_image and social_image[:4] != 'http' %}
+    {% set social_image = config.site_url ~ social_image.lstrip('/') %}
+  {% endif %}
+  <meta name="author" content="{{ config.site_author|e }}">
+  <meta name="robots" content="{{ page_robots|e }}">
+  <meta property="og:site_name" content="{{ config.site_name|e }}">
+  <meta property="og:locale" content="{{ seo.locale|default('zh_CN')|e }}">
+  <meta property="og:title" content="{{ page_title|e }}">
+  <meta property="og:description" content="{{ page_description|e }}">
+  <meta property="og:url" content="{{ canonical_url|e }}">
+  <meta property="og:type" content="{% if page and page.is_homepage %}website{% else %}article{% endif %}">
+  {% if social_image %}
+  <meta property="og:image" content="{{ social_image|e }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ social_image|e }}">
+  {% else %}
+  <meta name="twitter:card" content="summary">
+  {% endif %}
+  <meta name="twitter:title" content="{{ page_title|e }}">
+  <meta name="twitter:description" content="{{ page_description|e }}">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "{% if page and page.is_homepage %}WebSite{% else %}WebPage{% endif %}",
+    "name": {{ page_title|tojson }},
+    "headline": {{ page_title|tojson }},
+    "description": {{ page_description|tojson }},
+    "url": {{ canonical_url|tojson }},
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": {{ config.site_name|tojson }},
+      "url": {{ config.site_url|tojson }}
+    }{% if social_image %},
+    "primaryImageOfPage": {
+      "@type": "ImageObject",
+      "url": {{ social_image|tojson }}
+    }{% endif %}
+  }
+  </script>
+  {% if page %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "首页",
+        "item": {{ config.site_url|tojson }}
+      }{% set ns = namespace(position=2) %}{% for ancestor in page.ancestors|reverse if ancestor.url %},
+      {
+        "@type": "ListItem",
+        "position": {{ ns.position }},
+        "name": {{ ancestor.title|tojson }},
+        "item": {{ (config.site_url ~ ancestor.url)|tojson }}
+      }{% set ns.position = ns.position + 1 %}{% endfor %}{% if not page.is_homepage %},
+      {
+        "@type": "ListItem",
+        "position": {{ ns.position }},
+        "name": {{ page.title|tojson }},
+        "item": {{ canonical_url|tojson }}
+      }{% endif %}
+    ]
+  }
+  </script>
+  {% endif %}
+{% endblock %}

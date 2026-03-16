@@ -1,3 +1,6 @@
+description: 作者介绍页，整理原站 prof 页中的作者背景、站点管理者信息与相关说明。
+image: https://simzhou.com/mahjong_beginner/images/top-image_off.jpg
+
 # 作者介绍
 
 ## 站点制作与执笔

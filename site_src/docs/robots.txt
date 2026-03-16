@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simzhou.com/mahjong_beginner/sitemap.xml

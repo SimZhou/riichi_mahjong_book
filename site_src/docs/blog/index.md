@@ -1,3 +1,7 @@
+title: 附录
+description: 附录页，整理作者介绍、麻将链接集、站外推荐资源与全站目录，补充教程正文之外的重要资料。
+image: https://simzhou.com/mahjong_beginner/images/top-image_off.jpg
+
 # 附录
 
 这一部分整理的是原站首页之外的附加内容，包括作者介绍、麻将链接集，以及原站首页侧栏里提到的书目与外部资源。
