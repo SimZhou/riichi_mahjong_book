@@ -139,8 +139,9 @@ img {
 
 .md-typeset .resource-card__media img {
   display: block;
-  width: 100%;
-  height: 100%;
+  width: auto;
+  max-width: 100%;
+  max-height: 100%;
   object-fit: contain;
   object-position: center;
   border-radius: 0.45rem;
@@ -150,7 +151,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 13.5rem;
+  height: 13.5rem;
 }
 
 .md-typeset .resource-card__body h3 {
@@ -225,6 +226,10 @@ img {
   .md-typeset .resource-grid {
     grid-template-columns: 1fr;
     gap: 0.9rem;
+  }
+
+  .md-typeset .resource-card__media {
+    height: 11rem;
   }
 
   .md-typeset .home-card {
