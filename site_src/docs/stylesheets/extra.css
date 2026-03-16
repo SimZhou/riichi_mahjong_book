@@ -119,6 +119,46 @@ img {
   line-height: 1.55;
 }
 
+.md-typeset .resource-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.2rem;
+  margin: 1rem 0 2rem;
+}
+
+.md-typeset .resource-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  padding: 0.95rem;
+  border: 1px solid rgba(15, 23, 42, 0.12);
+  border-radius: 0.85rem;
+  background: linear-gradient(180deg, rgba(15, 118, 110, 0.05), rgba(15, 23, 42, 0.02));
+  box-shadow: 0 0.3rem 1.2rem rgba(15, 23, 42, 0.05);
+}
+
+.md-typeset .resource-card__media img {
+  display: block;
+  width: 100%;
+  max-width: 11rem;
+  margin: 0 auto;
+  border-radius: 0.45rem;
+}
+
+.md-typeset .resource-card__body h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.md-typeset .resource-card__body p {
+  margin: 0.45rem 0;
+}
+
+.md-typeset .resource-card__link {
+  font-weight: 600;
+}
+
 .md-typeset .theory {
   padding: 0.9rem 1rem;
   border: 1px solid rgba(15, 118, 110, 0.18);
@@ -170,6 +210,11 @@ img {
 
 @media screen and (max-width: 760px) {
   .md-typeset .home-grid {
+    grid-template-columns: 1fr;
+    gap: 0.9rem;
+  }
+
+  .md-typeset .resource-grid {
     grid-template-columns: 1fr;
     gap: 0.9rem;
   }
