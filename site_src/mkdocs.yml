@@ -49,6 +49,9 @@ extra:
       kihon05:
         title: Number Tiles and Honor Tiles
         path: en/kihon/kihon05.html
+      kihon06:
+        title: Pairs (1)
+        path: en/kihon/kihon06.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

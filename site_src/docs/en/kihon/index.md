@@ -26,7 +26,7 @@ alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/index.html
 5. [Number Tiles and Honor Tiles](./kihon05.md)
 : What do the numbered tiles from 1 to 9 actually imply, and what kinds of yaku are tied to honor tiles?
 
-6. **Pairs (1)**
+6. [Pairs (1)](./kihon06.md)
 : The basic way to think about pairs, two-tile groups that can become your head or develop into complete sets.
 
 7. **Pairs (2)**

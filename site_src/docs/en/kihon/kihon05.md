@@ -116,6 +116,6 @@ Original Japanese page: <http://beginners.biz/kihon/kihon05.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="kihon04.html">Previous: Sets and Taatsu</a>
-  <a class="page-nav__link page-nav__link--next" href="../../kihon/kihon06.html">Continue in Chinese: Pairs (1)</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon06.html">Next: Pairs (1)</a>
 </div>
 <!-- PAGE NAV END -->
