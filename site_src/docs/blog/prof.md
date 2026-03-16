@@ -36,7 +36,7 @@
 
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
-  <a class="page-nav__link page-nav__link--prev" href="home_archive.html">上一页：旧站首页归档</a>
+  <a class="page-nav__link page-nav__link--prev" href="index.html">上一页：附录</a>
   <a class="page-nav__link page-nav__link--next" href="link.html">下一页：麻将链接集</a>
 </div>
 <!-- PAGE NAV END -->

@@ -140,9 +140,9 @@
 2. [押引铁则](../osihiki/osihiki01.md)
 3. [判断依据](../osihiki/osihiki02.md)
 
-## 旧站附加页面
+## 附录页面
 
-1. [旧站首页归档](../blog/index.md)
+1. [附录导览](../blog/index.md)
 
 ---
 
@@ -150,7 +150,7 @@
 
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
-  <a class="page-nav__link page-nav__link--prev" href="../blog/index.html">上一页：旧站首页归档</a>
+  <a class="page-nav__link page-nav__link--prev" href="../blog/index.html">上一页：附录导览</a>
   <span class="page-nav__spacer"></span>
 </div>
 <!-- PAGE NAV END -->
