@@ -81,6 +81,29 @@ scripts/build_site.sh
 - `IndexNow` 提交时不要包含 `404.html` 这类 `noindex` 页面。
 - 页面级 `description` 和 `IndexNow` 提交，原则上只影响搜索引擎抓取与摘要展示，不应引入正文可见内容变更。
 
+## 多语言与英文版规则
+
+- 当前中文主站路由保持不变：
+  - `https://simzhou.com/mahjong_beginner/`
+- 英文版采用同域名、同项目、语言子目录方案：
+  - `https://simzhou.com/mahjong_beginner/en/`
+- 英文正文页路径应与中文页保持镜像关系，例如：
+  - 中文：`/mahjong_beginner/kihon/kihon01.html`
+  - 英文：`/mahjong_beginner/en/kihon/kihon01.html`
+- 不要使用查询参数式语言路由，如：
+  - `?lang=en`
+- 也不要为了做英文版去迁移现有中文路径；中文根路径的既有收录与外链应继续保留。
+- 英文版未完成前：
+  - 可以先搭建 `site_src/docs/en/` 目录骨架
+  - 未完成翻译的英文占位页应优先使用 `robots: noindex, nofollow`
+  - 未完成前不要贸然加入主导航，避免把半成品暴露给普通用户和搜索引擎
+- 英文版真正上线时，需补齐：
+  1. 中英页面双向 `hreflang`
+  2. `x-default`
+  3. 英文版页面级 `title` / `description`
+  4. 英文版 sitemap
+  5. 语言切换入口与中英互链
+
 ## 翻译规则
 
 - 翻译必须基于 `raw_site/articles/` 下的本地日文源快照。
