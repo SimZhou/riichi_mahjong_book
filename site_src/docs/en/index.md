@@ -3,6 +3,7 @@ description: English homepage of the mahjong beginner guide, covering mahjong ba
 image: https://simzhou.com/mahjong_beginner/images/top-image_off.jpg
 locale: en_US
 robots: noindex, nofollow
+alt_lang_url: https://simzhou.com/mahjong_beginner/index.html
 
 # Mahjong Beginner Guide
 
@@ -23,7 +24,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
 ## Chapters
 
 <div class="home-grid" markdown="0">
-  <div class="home-card">
+  <a class="home-card" href="./kihon/index.html">
     <div class="home-card__media">
       <img src="../images/top1_off.jpg" alt="Chapter 1: Mahjong Basics" />
     </div>
@@ -31,7 +32,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <strong>Chapter 1: Mahjong Basics</strong>
       <span>What kind of game is mahjong when both luck and skill are involved, and what should you actually aim for if you want to win? This chapter starts with waits and tile properties, then builds the most basic ways of thinking.</span>
     </div>
-  </div>
+  </a>
   <div class="home-card">
     <div class="home-card__media">
       <img src="../images/top2_off.jpg" alt="Chapter 2: Tile Efficiency and Tile Theory" />

@@ -3,6 +3,7 @@ description: Chapter 1 of the English mahjong beginner guide, covering what mahj
 image: https://simzhou.com/mahjong_beginner/images/top-image4.jpg
 locale: en_US
 robots: noindex, nofollow
+alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/index.html
 
 # Chapter 1: Mahjong Basics
 
@@ -10,7 +11,7 @@ robots: noindex, nofollow
 
 ## Section Guide
 
-1. **What Is Mahjong?**
+1. [What Is Mahjong?](./kihon01.md)
 : What kind of game is mahjong, really? This opening page serves as an introduction and also outlines the author’s basic view of mahjong.
 
 2. **Mahjong and Probability**
