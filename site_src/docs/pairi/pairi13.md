@@ -1,5 +1,6 @@
 ---
 description: 一向听牌理（1）：我认为，一向听时的牌理，是整套做牌技术里最重要的部分。 原因很简单，因为它会大幅影响和牌率。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi13.html
 ---
 
 # 一向听牌理（1）

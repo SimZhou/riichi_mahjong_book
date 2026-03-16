@@ -45,7 +45,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 12. [Tile Theory at Two-Shanten (3)](./pairi12.md)
     Check exceptional hand patterns such as hands that may turn into Chiitoitsu or hands without a pair.
 
-13. **Tile Theory at One-Shanten (1)**
+13. [Tile Theory at One-Shanten (1)](./pairi13.md)
     Tile theory at one-shanten has a major effect on your winning rate. It is one of the most important skills in hand-building.
 
 14. **Tile Theory at One-Shanten (2)**

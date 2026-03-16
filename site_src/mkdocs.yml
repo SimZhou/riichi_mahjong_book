@@ -111,6 +111,9 @@ extra:
       pairi12:
         title: Tile Theory at Two-Shanten (3)
         path: en/pairi/pairi12.html
+      pairi13:
+        title: Tile Theory at One-Shanten (1)
+        path: en/pairi/pairi13.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
