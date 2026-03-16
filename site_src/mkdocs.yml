@@ -28,6 +28,24 @@ extra:
     - name: English
       lang: en
       link: https://simzhou.com/mahjong_beginner/en/index.html
+  english_nav:
+    basics:
+      title: "Chapter 1: Mahjong Basics"
+      overview:
+        title: Overview
+        path: en/kihon/index.html
+      kihon01:
+        title: What Is Mahjong?
+        path: en/kihon/kihon01.html
+      kihon02:
+        title: Mahjong and Probability
+        path: en/kihon/kihon02.html
+      kihon03:
+        title: Tenpai and Shanten
+        path: en/kihon/kihon03.html
+      kihon04:
+        title: Sets and Taatsu
+        path: en/kihon/kihon04.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

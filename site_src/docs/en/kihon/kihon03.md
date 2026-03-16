@@ -149,6 +149,6 @@ Original Japanese page: <http://beginners.biz/kihon/kihon03.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="kihon02.html">Previous: Mahjong and Probability</a>
-  <a class="page-nav__link page-nav__link--next" href="../../kihon/kihon04.html">Continue in Chinese: Sets and Taatsu</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon04.html">Next: Sets and Taatsu</a>
 </div>
 <!-- PAGE NAV END -->

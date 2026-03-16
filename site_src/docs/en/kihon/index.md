@@ -20,7 +20,7 @@ alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/index.html
 3. [Tenpai and Shanten](./kihon03.md)
 : Before aiming to win, you need to understand two unavoidable ideas: tenpai and shanten.
 
-4. **Mentsu and Taatsu**
+4. [Sets and Taatsu](./kihon04.md)
 : A review of the basic idea of sets, including comparisons such as edge waits versus closed waits.
 
 5. **Number Tiles and Honor Tiles**
