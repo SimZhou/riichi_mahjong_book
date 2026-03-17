@@ -53,7 +53,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 14. [Calling Techniques (2)](./naki14.md)
    Techniques for open Tanyao, which comes up often in red-five mahjong.
 
-15. Calling Techniques (3)
+15. [Calling Techniques (3)](./naki15.md)
    These situations do not come up all the time, but knowing them still helps.
 
 ---

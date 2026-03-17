@@ -1,5 +1,6 @@
 ---
 description: 鸣牌技巧（3）：这一组副露小技巧的最后一页，不再是为了让自己和牌，而是为了阻止别人和牌。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki15.html
 ---
 
 # 鸣牌技巧（3）
