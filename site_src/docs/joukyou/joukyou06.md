@@ -1,5 +1,6 @@
 ---
 description: 局势与立直判断：或者平时“可以默听”的牌，在某些场况下却不该默听。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/joukyou/joukyou06.html
 ---
 
 # 局势与立直判断

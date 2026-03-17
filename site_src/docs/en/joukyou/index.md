@@ -26,7 +26,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/index.html
 5. [Hand-Building and Situation (3)](./joukyou05.md)
    Learn to distinguish between situations where you should chase value and situations where you should prioritize speed.
 
-6. Situation and Riichi Judgment
+6. [Situation and Riichi Judgment](./joukyou06.md)
    Riichi decisions made while considering score situation and the discard rows of the other players.
 
 7. South 4 Strategy (1)
