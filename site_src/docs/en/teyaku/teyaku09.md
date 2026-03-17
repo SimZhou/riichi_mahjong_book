@@ -144,6 +144,6 @@ Original Japanese page: <http://beginners.biz/teyaku/teyaku09.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="teyaku08.html">Previous Page: Sanshoku</a>
-  <a class="page-nav__link page-nav__link--next" href="../../teyaku/teyaku10.html">Continue in Chinese: Pair Hands (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku10.html">Next Page: Pair Hands (2)</a>
 </div>
 <!-- PAGE NAV END -->

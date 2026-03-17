@@ -166,6 +166,9 @@ extra:
       teyaku09:
         title: Pair Hands (1)
         path: en/teyaku/teyaku09.html
+      teyaku10:
+        title: Pair Hands (2)
+        path: en/teyaku/teyaku10.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
