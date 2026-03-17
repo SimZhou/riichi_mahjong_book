@@ -367,8 +367,28 @@
         </ul>
       </nav>
     </li>
-    <li class="md-nav__item">
-      <span class="md-nav__link"><span class="md-ellipsis">Chapter 4: Dora and Red Fives</span></span>
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested{% if current_url.startswith('en/dora/') %} md-nav__item--active{% endif %}">
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="nav-en-dora"{% if current_url.startswith('en/dora/') %} checked{% endif %}>
+      <label class="md-nav__link" for="nav-en-dora" id="nav-en-dora_label" tabindex>
+        <span class="md-ellipsis">Chapter 4: Dora and Red Fives</span>
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-labelledby="nav-en-dora_label" aria-expanded="{% if current_url.startswith('en/dora/') %}true{% else %}false{% endif %}">
+        <label class="md-nav__title" for="nav-en-dora">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 4: Dora and Red Fives
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          {% set dora = config.extra.english_nav.dora %}
+          {% if dora and dora.overview %}
+          <li class="md-nav__item{% if current_url == dora.overview.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ dora.overview.path }}" class="md-nav__link{% if current_url == dora.overview.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ dora.overview.title }}</span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </nav>
     </li>
     <li class="md-nav__item">
       <span class="md-nav__link"><span class="md-ellipsis">Chapter 5: Calling</span></span>

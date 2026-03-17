@@ -136,6 +136,7 @@ extra:
         title: Shanten Reversal
         path: en/pairi/pairi20.html
     yaku:
+      title: "Chapter 3: Yaku"
       overview:
         title: Overview
         path: en/teyaku/index.html
@@ -169,6 +170,11 @@ extra:
       teyaku10:
         title: Pair Hands (2)
         path: en/teyaku/teyaku10.html
+    dora:
+      title: "Chapter 4: Dora and Red Fives"
+      overview:
+        title: Overview
+        path: en/dora/index.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

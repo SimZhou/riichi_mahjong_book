@@ -1,6 +1,7 @@
 title: 第4章：宝牌与红宝牌
 description: 第4章宝牌与红宝牌，讲解宝牌利用、切宝牌时机、宝牌与手役选择，以及红宝牌麻将与祝仪规则下的思路。
 image: https://simzhou.com/riichi_mahjong_book/images/top-image7.jpg
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/dora/index.html
 
 # 第4章：宝牌与红宝牌
 

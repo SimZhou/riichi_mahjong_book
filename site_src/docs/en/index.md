@@ -51,7 +51,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <span>Mahjong has many yaku, but difficulty and value do not always match. Do not let flashy hands distract you. This chapter focuses on what really matters when choosing between speed, value, and practicality.</span>
     </div>
   </a>
-  <div class="home-card">
+  <a class="home-card" href="./dora/index.html">
     <div class="home-card__media">
       <img src="../images/top4_off.jpg" alt="Chapter 4: Dora and Red Fives" />
     </div>
@@ -59,7 +59,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <strong>Chapter 4: Dora and Red Fives</strong>
       <span>In modern parlor mahjong and online mahjong, red fives and dora are unavoidable. They are easy sources of value, and they also change the balance of the game in a major way.</span>
     </div>
-  </div>
+  </a>
   <div class="home-card">
     <div class="home-card__media">
       <img src="../images/top5_off.jpg" alt="Chapter 5: Calling" />
