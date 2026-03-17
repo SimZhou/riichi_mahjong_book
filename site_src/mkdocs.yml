@@ -135,6 +135,10 @@ extra:
       pairi20:
         title: Shanten Reversal
         path: en/pairi/pairi20.html
+    yaku:
+      overview:
+        title: Overview
+        path: en/teyaku/index.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

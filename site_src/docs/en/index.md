@@ -42,7 +42,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <span>Tile efficiency is a puzzle-like way of thinking that tries to maximize the number of tiles that help your hand. It is one of the most fundamental skills in mahjong and worth mastering early.</span>
     </div>
   </a>
-  <div class="home-card">
+  <a class="home-card" href="./teyaku/index.html">
     <div class="home-card__media">
       <img src="../images/top3_off.jpg" alt="Chapter 3: Yaku" />
     </div>
@@ -50,7 +50,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <strong>Chapter 3: Yaku</strong>
       <span>Mahjong has many yaku, but difficulty and value do not always match. Do not let flashy hands distract you. This chapter focuses on what really matters when choosing between speed, value, and practicality.</span>
     </div>
-  </div>
+  </a>
   <div class="home-card">
     <div class="home-card__media">
       <img src="../images/top4_off.jpg" alt="Chapter 4: Dora and Red Fives" />

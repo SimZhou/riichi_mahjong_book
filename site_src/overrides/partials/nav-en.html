@@ -270,7 +270,20 @@
       </nav>
     </li>
     <li class="md-nav__item">
-      <span class="md-nav__link"><span class="md-ellipsis">Chapter 3: Yaku</span></span>
+      <a href="{{ config.site_url }}en/teyaku/index.html" class="md-nav__link{% if current_url == 'en/teyaku/index.html' %} md-nav__link--active{% endif %}">
+        <span class="md-ellipsis">Chapter 3: Yaku</span>
+      </a>
+      <nav class="md-nav" aria-label="Chapter 3: Yaku">
+        <ul class="md-nav__list">
+          {% if yaku and yaku.overview %}
+          <li class="md-nav__item{% if current_url == yaku.overview.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ yaku.overview.path }}" class="md-nav__link{% if current_url == yaku.overview.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ yaku.overview.title }}</span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </nav>
     </li>
     <li class="md-nav__item">
       <span class="md-nav__link"><span class="md-ellipsis">Chapter 4: Dora and Red Fives</span></span>
