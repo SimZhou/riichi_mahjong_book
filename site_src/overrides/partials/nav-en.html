@@ -1,10 +1,12 @@
 {% set en_nav = config.extra.english_nav if config.extra and config.extra.english_nav else {} %}
 {% set basics = en_nav.basics if en_nav and en_nav.basics else {} %}
 {% set tile_efficiency = en_nav.tile_efficiency if en_nav and en_nav.tile_efficiency else {} %}
+{% set yaku = en_nav.yaku if en_nav and en_nav.yaku else {} %}
 {% set en_site_title = "Japanese Mahjong: From Beginner to Master" %}
 {% set current_url = page.url if page and page.url else '' %}
 {% set basics_active = current_url.startswith('en/kihon/') %}
 {% set tile_efficiency_active = current_url.startswith('en/pairi/') %}
+{% set yaku_active = current_url.startswith('en/teyaku/') %}
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
@@ -269,16 +271,33 @@
         </ul>
       </nav>
     </li>
-    <li class="md-nav__item">
-      <a href="{{ config.site_url }}en/teyaku/index.html" class="md-nav__link{% if current_url == 'en/teyaku/index.html' %} md-nav__link--active{% endif %}">
-        <span class="md-ellipsis">Chapter 3: Yaku</span>
-      </a>
-      <nav class="md-nav" aria-label="Chapter 3: Yaku">
+    <li class="md-nav__item md-nav__item--nested{% if yaku_active %} md-nav__item--active{% endif %}">
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__nav_en_yaku" {% if yaku_active %}checked{% endif %}>
+      <div class="md-nav__link md-nav__container">
+        <a href="{{ config.site_url ~ yaku.overview.path }}" class="md-nav__link{% if current_url == yaku.overview.path %} md-nav__link--active{% endif %}">
+          <span class="md-ellipsis">Chapter 3: Yaku</span>
+        </a>
+        <label class="md-nav__link{% if current_url == yaku.overview.path %} md-nav__link--active{% endif %}" for="__nav_en_yaku" id="__nav_en_yaku_label" tabindex="0">
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      </div>
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_en_yaku_label" aria-expanded="{{ yaku_active | tojson }}">
+        <label class="md-nav__title" for="__nav_en_yaku">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 3: Yaku
+        </label>
         <ul class="md-nav__list">
           {% if yaku and yaku.overview %}
           <li class="md-nav__item{% if current_url == yaku.overview.path %} md-nav__item--active{% endif %}">
             <a href="{{ config.site_url ~ yaku.overview.path }}" class="md-nav__link{% if current_url == yaku.overview.path %} md-nav__link--active{% endif %}">
               <span class="md-ellipsis">{{ yaku.overview.title }}</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if yaku and yaku.teyaku01 %}
+          <li class="md-nav__item{% if current_url == yaku.teyaku01.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ yaku.teyaku01.path }}" class="md-nav__link{% if current_url == yaku.teyaku01.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ yaku.teyaku01.title }}</span>
             </a>
           </li>
           {% endif %}

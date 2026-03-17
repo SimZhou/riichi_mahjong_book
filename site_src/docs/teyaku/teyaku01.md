@@ -1,5 +1,6 @@
 ---
 description: 手役思路（1）：麻将的魅力之一，就是做役。 无论是役满，还是那些难度高、很稀有的役，只要做出来，谁都会高兴。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/teyaku/teyaku01.html
 ---
 
 # 手役思路（1）

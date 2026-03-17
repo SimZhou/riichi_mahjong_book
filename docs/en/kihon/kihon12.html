@@ -315,6 +315,8 @@
 
 
 
+
+
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="https://simzhou.com/riichi_mahjong_book/en/index.html" title="Japanese Mahjong: From Beginner to Master" class="md-nav__button md-logo" aria-label="Japanese Mahjong: From Beginner to Master" data-md-component="logo">
@@ -581,12 +583,35 @@
         </ul>
       </nav>
     </li>
-    <li class="md-nav__item">
-      <a href="https://simzhou.com/riichi_mahjong_book/en/teyaku/index.html" class="md-nav__link">
-        <span class="md-ellipsis">Chapter 3: Yaku</span>
-      </a>
-      <nav class="md-nav" aria-label="Chapter 3: Yaku">
+    <li class="md-nav__item md-nav__item--nested">
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__nav_en_yaku" >
+      <div class="md-nav__link md-nav__container">
+        <a href="https://simzhou.com/riichi_mahjong_book/en/teyaku/index.html" class="md-nav__link">
+          <span class="md-ellipsis">Chapter 3: Yaku</span>
+        </a>
+        <label class="md-nav__link" for="__nav_en_yaku" id="__nav_en_yaku_label" tabindex="0">
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      </div>
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_en_yaku_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_en_yaku">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 3: Yaku
+        </label>
         <ul class="md-nav__list">
+          
+          <li class="md-nav__item">
+            <a href="https://simzhou.com/riichi_mahjong_book/en/teyaku/index.html" class="md-nav__link">
+              <span class="md-ellipsis">Overview</span>
+            </a>
+          </li>
+          
+          
+          <li class="md-nav__item">
+            <a href="https://simzhou.com/riichi_mahjong_book/en/teyaku/teyaku01.html" class="md-nav__link">
+              <span class="md-ellipsis">Thinking About Yaku (1)</span>
+            </a>
+          </li>
           
         </ul>
       </nav>

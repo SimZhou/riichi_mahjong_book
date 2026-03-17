@@ -11,7 +11,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/index.html
 
 ![Yaku hero image](../../images/top-image6.jpg)
 
-1. **Thinking About Yaku (1)**
+1. **[Thinking About Yaku (1)](./teyaku01.md)**
    The pleasure of mahjong lies in building yaku.
 
 2. **Thinking About Yaku (2)**
@@ -48,6 +48,6 @@ Original Japanese page: <http://beginners.biz/teyaku/>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="../pairi/pairi20.html">Previous Chapter: Tile Efficiency and Tile Theory</a>
-  <a class="page-nav__link page-nav__link--next" href="../../teyaku/teyaku01.html">Continue in Chinese: Thinking About Yaku (1)</a>
+  <a class="page-nav__link page-nav__link--next" href="./teyaku01.html">Next Page: Thinking About Yaku (1)</a>
 </div>
 <!-- PAGE NAV END -->
