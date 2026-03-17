@@ -1,5 +1,6 @@
 ---
 description: 对副露的防守：对立直的防守，大家多少都会做一点。 但很多人面对副露时，防守明显会松得多。 这一页先只做基础说明，后面在第 8 章还会继续展开。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori10.html
 ---
 
 # 对副露的防守

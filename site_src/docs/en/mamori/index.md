@@ -38,7 +38,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 9. [Maneuvering](./mamori09.md)
    This page introduces maneuvering: a way to keep danger down while still leaving yourself a path to win.
 
-10. Defense Against Open Hands
+10. [Defense Against Open Hands](./mamori10.md)
    This page touches on reading tenpai, hand value, and dangerous tiles against opponents' calls.
 
 11. Tile Restriction (1)

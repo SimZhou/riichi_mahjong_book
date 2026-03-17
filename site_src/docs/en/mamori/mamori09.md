@@ -127,6 +127,6 @@ Original Japanese page: <http://beginners.biz/mamori/mamori09.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="mamori08.html">Previous: Folding Procedure (3)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../mamori/mamori10.md">Continue in Chinese: Defense Against Open Hands</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori10.html">Next: Defense Against Open Hands</a>
 </div>
 <!-- PAGE NAV END -->

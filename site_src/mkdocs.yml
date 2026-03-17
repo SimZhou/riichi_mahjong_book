@@ -307,6 +307,9 @@ extra:
       mamori09:
         title: Maneuvering
         path: en/mamori/mamori09.html
+      mamori10:
+        title: Defense Against Open Hands
+        path: en/mamori/mamori10.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
