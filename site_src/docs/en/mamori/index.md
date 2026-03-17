@@ -32,7 +32,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 7. [Folding Procedure (2)](./mamori07.md)
    The basic theory of full folding is to discard the safer tiles first. So what exactly counts as safer?
 
-8. Folding Procedure (3)
+8. [Folding Procedure (3)](./mamori08.md)
    Once you understand the theory, it is time to think through concrete examples.
 
 9. Maneuvering

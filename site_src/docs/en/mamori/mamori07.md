@@ -123,6 +123,6 @@ Original Japanese page: <http://beginners.biz/mamori/mamori07.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="mamori06.html">Previous: Folding Procedure (1)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../mamori/mamori08.md">Continue in Chinese: Folding Procedure (3)</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori08.html">Next: Folding Procedure (3)</a>
 </div>
 <!-- PAGE NAV END -->

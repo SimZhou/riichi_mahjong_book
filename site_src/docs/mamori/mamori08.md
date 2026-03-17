@@ -1,5 +1,6 @@
 ---
 description: 完全弃和的步骤（3）：左右两家看起来也都已经在弃和了， 所以这是一个只需要专心对这一家立直彻底弃和的局面。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori08.html
 ---
 
 # 完全弃和的步骤（3）
