@@ -336,6 +336,13 @@
             </a>
           </li>
           {% endif %}
+          {% if yaku and yaku.teyaku07 %}
+          <li class="md-nav__item{% if current_url == yaku.teyaku07.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ yaku.teyaku07.path }}" class="md-nav__link{% if current_url == yaku.teyaku07.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ yaku.teyaku07.title }}</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </nav>
     </li>

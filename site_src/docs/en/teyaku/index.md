@@ -29,7 +29,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/index.html
 6. **[Flushes (1)](./teyaku06.md)**
    How to aim at Honitsu and Chinitsu, and when it is right to do so.
 
-7. **Flushes (2)**
+7. **[Flushes (2)](./teyaku07.md)**
    Continuing from the previous page: practical patterns for Honitsu and the points you must watch when aiming at a flush.
 
 8. **Sanshoku**

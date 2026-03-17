@@ -157,6 +157,9 @@ extra:
       teyaku06:
         title: Flushes (1)
         path: en/teyaku/teyaku06.html
+      teyaku07:
+        title: Flushes (2)
+        path: en/teyaku/teyaku07.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

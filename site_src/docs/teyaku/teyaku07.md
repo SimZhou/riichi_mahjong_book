@@ -1,5 +1,6 @@
 ---
 description: 染手（2）：染手里最重要的，其实是“鸣牌”的技术， 不过那部分留到第 5 章再讲。 这一页先来说混一色的手筋。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/teyaku/teyaku07.html
 ---
 
 # 染手（2）

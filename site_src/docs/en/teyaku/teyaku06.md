@@ -150,6 +150,6 @@ Original Japanese page: <http://beginners.biz/teyaku/teyaku06.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="teyaku05.html">Previous Page: Tanyao</a>
-  <a class="page-nav__link page-nav__link--next" href="../../teyaku/teyaku07.html">Continue in Chinese: Flushes (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku07.html">Next Page: Flushes (2)</a>
 </div>
 <!-- PAGE NAV END -->
