@@ -1,5 +1,6 @@
 ---
 description: 最终局战术（2）：平时本来应该积极立直的牌，到了特定场况下也会出现需要克制的时候。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/joukyou/joukyou08.html
 ---
 
 # 最终局战术（2）

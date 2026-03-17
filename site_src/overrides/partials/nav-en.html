@@ -845,6 +845,13 @@
             </a>
           </li>
           {% endif %}
+          {% if joukyou and joukyou.joukyou08 %}
+          <li class="md-nav__item{% if current_url == joukyou.joukyou08.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ joukyou.joukyou08.path }}" class="md-nav__link{% if current_url == joukyou.joukyou08.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ joukyou.joukyou08.title }}</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </nav>
     </li>

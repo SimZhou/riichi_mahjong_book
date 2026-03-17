@@ -32,7 +32,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/index.html
 7. [South 4 Strategy (1)](./joukyou07.md)
    What you should pay special attention to in the final hand, where situational judgment is tested the most.
 
-8. South 4 Strategy (2)
+8. [South 4 Strategy (2)](./joukyou08.md)
    Explains situations where you should still attack even while holding first place in South 4.
 
 9. South 4 Strategy (3)
