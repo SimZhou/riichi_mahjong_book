@@ -11,7 +11,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/index.html
 
 ![Situational judgment main image](../../images/top-image11.jpg)
 
-1. Situational Judgment Basics
+1. [Situational Judgment Basics](./joukyou01.md)
    Mahjong is not a game you play in isolation. You always need to keep the overall situation in mind while choosing your tiles.
 
 2. Playing With Rank Awareness
@@ -45,6 +45,6 @@ Original Japanese page: <http://beginners.biz/joukyou/>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="../mamori/mamori15.html">Previous Chapter: Defense</a>
-  <a class="page-nav__link page-nav__link--next" href="../../joukyou/joukyou01.html">Continue in Chinese: Situational Judgment Basics</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou01.html">Next: Situational Judgment Basics</a>
 </div>
 <!-- PAGE NAV END -->

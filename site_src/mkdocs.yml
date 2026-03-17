@@ -330,6 +330,9 @@ extra:
       overview:
         title: Overview
         path: en/joukyou/index.html
+      joukyou01:
+        title: Situational Judgment Basics
+        path: en/joukyou/joukyou01.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

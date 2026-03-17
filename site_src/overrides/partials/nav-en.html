@@ -796,6 +796,13 @@
               <span class="md-ellipsis">{{ joukyou.overview.title if joukyou and joukyou.overview else 'Overview' }}</span>
             </a>
           </li>
+          {% if joukyou and joukyou.joukyou01 %}
+          <li class="md-nav__item{% if current_url == joukyou.joukyou01.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ joukyou.joukyou01.path }}" class="md-nav__link{% if current_url == joukyou.joukyou01.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ joukyou.joukyou01.title }}</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </nav>
     </li>
