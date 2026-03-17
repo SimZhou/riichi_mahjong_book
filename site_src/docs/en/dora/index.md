@@ -20,7 +20,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/index.html
 3. [When You Have Two or More Dora](dora03.html)
    If your hand contains two or more dora, how should you push the hand forward?
 
-4. When to Cut a Dora
+4. [When to Cut a Dora](dora04.html)
    Too early is bad, and too late is bad too. For a dora that becomes troublesome if someone calls it, when is the best moment to discard it?
 
 5. Choosing Between Dora and Yaku

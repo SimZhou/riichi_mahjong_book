@@ -184,6 +184,9 @@ extra:
       dora03:
         title: When You Have Two or More Dora
         path: en/dora/dora03.html
+      dora04:
+        title: When to Cut a Dora
+        path: en/dora/dora04.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

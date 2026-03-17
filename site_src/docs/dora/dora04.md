@@ -1,5 +1,6 @@
 ---
 description: 切宝牌时机：总是让人头疼的，恐怕就是宝牌该什么时候切。 切得太早不行，切得太晚也不行。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/dora/dora04.html
 ---
 
 # 切宝牌时机

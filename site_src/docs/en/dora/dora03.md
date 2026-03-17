@@ -101,6 +101,6 @@ Original Japanese page: <http://beginners.biz/dora/dora03.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="dora02.html">Previous Page: How to Handle Dora (2)</a>
-  <a class="page-nav__link page-nav__link--next" href="../dora/dora04.html">Continue in Chinese: When to Cut a Dora</a>
+  <a class="page-nav__link page-nav__link--next" href="dora04.html">Next Page: When to Cut a Dora</a>
 </div>
 <!-- PAGE NAV END -->
