@@ -1,5 +1,6 @@
 ---
 description: 扣牌（1）：上一页只是大致讲了对副露的防守。 而在对手已经副露的局面里，有时你会希望：**别再让他继续鸣下去。**
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori11.html
 ---
 
 # 扣牌（1）

@@ -179,6 +179,6 @@ Original Japanese page: <http://beginners.biz/mamori/mamori10.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="mamori09.html">Previous: Maneuvering</a>
-  <a class="page-nav__link page-nav__link--next" href="../../mamori/mamori11.md">Continue in Chinese: Tile Restriction (1)</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori11.html">Next: Tile Restriction (1)</a>
 </div>
 <!-- PAGE NAV END -->

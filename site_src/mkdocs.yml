@@ -310,6 +310,9 @@ extra:
       mamori10:
         title: Defense Against Open Hands
         path: en/mamori/mamori10.html
+      mamori11:
+        title: Tile Restriction (1)
+        path: en/mamori/mamori11.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

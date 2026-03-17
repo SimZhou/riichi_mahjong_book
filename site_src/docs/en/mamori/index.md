@@ -41,7 +41,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 10. [Defense Against Open Hands](./mamori10.md)
    This page touches on reading tenpai, hand value, and dangerous tiles against opponents' calls.
 
-11. Tile Restriction (1)
+11. [Tile Restriction (1)](./mamori11.md)
    What is tile restriction, and in what kinds of situations should you do it?
 
 12. Tile Restriction (2)
