@@ -32,7 +32,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 7. [Calling and Shanten Count](./naki07.md)
    When you call, pay attention to shanten count. This page also covers “calls that do not change shanten.”
 
-8. Open Tanyao
+8. [Open Tanyao](./naki08.md)
    When should you break a closed hand and start calling for open Tanyao?
 
 9. Toitoi

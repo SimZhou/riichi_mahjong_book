@@ -1,5 +1,6 @@
 ---
 description: 食断：像这种手，从序盘开始就鸣出去做 1000 点，显然不对。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki08.html
 ---
 
 # 食断
