@@ -14,7 +14,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 1. [Defense Fundamentals](./mamori01.md)
    What do full folding and maneuvering mean? This page also touches on why defense matters so much.
 
-2. Safe Tiles
+2. [Safe Tiles](./mamori02.md)
    Learn about completely safe tiles: tiles that can never be won on by ron.
 
 3. Suji (1)

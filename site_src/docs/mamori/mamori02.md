@@ -1,5 +1,6 @@
 ---
 description: 安全牌：例如，面对下面这个立直， 有哪些牌切出去以后**绝对不会被荣和**？
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori02.html
 ---
 
 # 安全牌

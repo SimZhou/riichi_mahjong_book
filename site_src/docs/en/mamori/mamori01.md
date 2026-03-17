@@ -92,6 +92,6 @@ Original Japanese page: <http://beginners.biz/mamori/mamori01.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="index.html">Back to Overview: Defense</a>
-  <a class="page-nav__link page-nav__link--next" href="../../mamori/mamori02.html">Continue in Chinese: Safe Tiles</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori02.html">Next: Safe Tiles</a>
 </div>
 <!-- PAGE NAV END -->
