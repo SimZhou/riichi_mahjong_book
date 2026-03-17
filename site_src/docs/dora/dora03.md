@@ -1,5 +1,6 @@
 ---
 description: 宝牌 2 张以上：自己手里有 2 张以上宝牌时，就是机会手。 应该朝着和牌的最短距离前进。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/dora/dora03.html
 ---
 
 # 宝牌 2 张以上

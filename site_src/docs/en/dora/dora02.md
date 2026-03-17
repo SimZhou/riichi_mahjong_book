@@ -89,6 +89,6 @@ Original Japanese page: <http://beginners.biz/dora/dora02.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="dora01.html">Previous Page: How to Handle Dora (1)</a>
-  <a class="page-nav__link page-nav__link--next" href="../dora/dora03.html">Continue in Chinese: When You Have Two or More Dora</a>
+  <a class="page-nav__link page-nav__link--next" href="dora03.html">Next Page: When You Have Two or More Dora</a>
 </div>
 <!-- PAGE NAV END -->

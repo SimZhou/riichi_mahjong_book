@@ -181,6 +181,9 @@ extra:
       dora02:
         title: How to Handle Dora (2)
         path: en/dora/dora02.html
+      dora03:
+        title: When You Have Two or More Dora
+        path: en/dora/dora03.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

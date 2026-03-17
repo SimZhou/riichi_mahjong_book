@@ -17,7 +17,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/index.html
 2. [How to Handle Dora (2)](dora02.html)
    One dora is worth one han. When you already have dora in your hand, try to use them all up if possible.
 
-3. When You Have Two or More Dora
+3. [When You Have Two or More Dora](dora03.html)
    If your hand contains two or more dora, how should you push the hand forward?
 
 4. When to Cut a Dora
