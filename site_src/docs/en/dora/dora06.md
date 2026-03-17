@@ -92,6 +92,6 @@ Original Japanese page: <http://beginners.biz/dora/dora06.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="dora05.html">Previous Page: Choosing Between Dora and Yaku</a>
-  <a class="page-nav__link page-nav__link--next" href="../dora/dora07.html">Continue in Chinese: Red Tiles and Bonus Chips</a>
+  <a class="page-nav__link page-nav__link--next" href="dora07.html">Next Page: Red Tiles and Bonus Chips</a>
 </div>
 <!-- PAGE NAV END -->

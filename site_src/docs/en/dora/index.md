@@ -29,7 +29,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/index.html
 6. [The Basics of Red-Five Mahjong](dora06.html)
    How is it different from rules without red fives? In red-five mahjong, what kind of play works better?
 
-7. Red Tiles and Bonus Chips
+7. [Red Tiles and Bonus Chips](dora07.html)
    How to play when you hold red dora in chip-based mahjong rules.
 
 ---

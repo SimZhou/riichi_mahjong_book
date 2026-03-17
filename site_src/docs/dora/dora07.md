@@ -1,5 +1,6 @@
 ---
 description: 红宝牌与祝仪：- 一发和牌时 - 命中里宝牌时 - 手牌里有红牌时
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/dora/dora07.html
 ---
 
 # 红宝牌与祝仪
