@@ -17,7 +17,7 @@ Even if a tile you could pon gets discarded, you should stay still and riichi on
 
 **Example 1**
 
-<img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" />
+<img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /><img src="../../hai/tyun.gif" width="24" height="34" /><img src="../../hai/tyun.gif" width="24" height="34" />
 
 If a hand like this reaches tenpai very early, that is a separate case.  
 But unless the shape is that extreme,  
@@ -41,7 +41,7 @@ Depending on the hand, it can be better to step the shanten count back and switc
 
 **Example 2**
 
-<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /> Dora <img src="../hai/pin7.gif" width="24" height="34" />
+<img src="../../hai/man1.gif" width="24" height="34" /><img src="../../hai/man1.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/tyun.gif" width="24" height="34" /><img src="../../hai/tyun.gif" width="24" height="34" /> Dora <img src="../../hai/pin7.gif" width="24" height="34" />
 
 This is the kind of hand where calling and moving toward Toitoi is fine.  
 The reason is that there are many easy-to-pon tiles, and there is also a yakuhai pair.
@@ -63,12 +63,12 @@ Number tiles from 3 through 7 are harder to call.
 
 **Example 3**
 
-<img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/pei.gif" width="24" height="34" /><img src="../hai/pei.gif" width="24" height="34" /> Dora <img src="../hai/sou2.gif" width="24" height="34" />
+<img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/pei.gif" width="24" height="34" /><img src="../../hai/pei.gif" width="24" height="34" /> Dora <img src="../../hai/sou2.gif" width="24" height="34" />
 
 Example 3 should **not** be called.  
 Even if it works out, it will probably only end at 2600 points, and there are too many tiles that are hard to pon.
 
-<img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /> Pon <img src="../hai/pei.gif" width="24" height="34" /><img src="../hai/ypei.gif" width="32" height="24" /><img src="../hai/pei.gif" width="24" height="34" /> Pon <img src="../hai/yman9.gif" width="32" height="24" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" />
+<img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /> Pon <img src="../../hai/pei.gif" width="24" height="34" /><img src="../../hai/ypei.gif" width="32" height="24" /><img src="../../hai/pei.gif" width="24" height="34" /> Pon <img src="../../hai/yman9.gif" width="32" height="24" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" />
 
 Cheap, hard to win, and with no defensive value.  
 You could call this a textbook example of a bad call.
@@ -88,7 +88,7 @@ then it is fine to switch a Chiitoitsu one-shanten hand over to Toitoi!
 
 **Example 4**
 
-<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /> Dora <img src="../hai/sou1.gif" width="24" height="34" />
+<img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /> Dora <img src="../../hai/sou1.gif" width="24" height="34" />
 
 What about Example 4?  
 The tiles are not especially easy to call, but I still think calling is fine here.
@@ -96,13 +96,13 @@ The tiles are not especially easy to call, but I still think calling is fine her
 That is because even if this hand does not become Toitoi,  
 it still has a **Tanyao route or a Hatsu-backup route**.
 
-So the idea is to pon first, cut <img src="../hai/haku.gif" width="24" height="34" />,  
+So the idea is to pon first, cut <img src="../../hai/haku.gif" width="24" height="34" />,  
 and then decide from the state of the hand whether to keep aiming at the 5200-point Toitoi  
 or to accept 1000 points instead.
 
-<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /> <img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/yman5.gif" width="32" height="24" />
+<img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /> <img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/yman5.gif" width="32" height="24" />
 
-Immediately throwing away <img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /> is too extreme.  
+Immediately throwing away <img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /> is too extreme.  
 That kind of play is just forcing your own idea on the hand.
 
 ## 3. Four Pairs Plus One Concealed Triplet
@@ -111,10 +111,10 @@ The theory here is to take the shape as a Suuankou two-shanten hand.
 
 **Example 5**
 
-<img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../hai/man5.gif" width="24" height="34" />
+<img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../../hai/man5.gif" width="24" height="34" />
 
 In other words, with a case like Example 5,  
-the basic idea is to cut one of <img src="../hai/pin3.gif" width="24" height="34" />, <img src="../hai/sou4.gif" width="24" height="34" />, or <img src="../hai/haku.gif" width="24" height="34" />,  
+the basic idea is to cut one of <img src="../../hai/pin3.gif" width="24" height="34" />, <img src="../../hai/sou4.gif" width="24" height="34" />, or <img src="../../hai/haku.gif" width="24" height="34" />,  
 take the six-tile Chiitoitsu one-shanten shape,  
 and if a pon-able tile appears, pon it and head toward Toitoi.
 
@@ -134,7 +134,7 @@ and pon if a callable tile appears!
 However, if two copies of one of the pair tiles are already visible in the pond,  
 meaning that pair can no longer become a triplet,
 
-then you should cut <img src="../hai/man5.gif" width="24" height="34" /> and commit to Chiitoitsu.  
+then you should cut <img src="../../hai/man5.gif" width="24" height="34" /> and commit to Chiitoitsu.  
 There is no reason to chase an almost hopeless yakuman possibility.
 
 ---

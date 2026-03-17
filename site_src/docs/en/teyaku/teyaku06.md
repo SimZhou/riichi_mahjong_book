@@ -28,28 +28,28 @@ and judge only from the hand itself.
 ---
 
 **Example 1**  
-<img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /> Tsumo <img src="../hai/sou6.gif" width="24" height="34" /> Dora <img src="../hai/pin9.gif" width="24" height="34" />
+<img src="../../hai/sou1.gif" width="24" height="34" /><img src="../../hai/sou1.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /><img src="../../hai/man1.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /> Tsumo <img src="../../hai/sou6.gif" width="24" height="34" /> Dora <img src="../../hai/pin9.gif" width="24" height="34" />
 
 There are 11 souzu here, and the shape is excellent.
 
-The terminal <img src="../hai/sou1.gif" width="24" height="34" /> is paired, and the tiles connect all the way from <img src="../hai/sou3.gif" width="24" height="34" /> through <img src="../hai/sou8.gif" width="24" height="34" />.  
+The terminal <img src="../../hai/sou1.gif" width="24" height="34" /> is paired, and the tiles connect all the way from <img src="../../hai/sou3.gif" width="24" height="34" /> through <img src="../../hai/sou8.gif" width="24" height="34" />.  
 This is practically a hand shouting, “Please play Chinitsu.”  
 Unless it is already very late in the hand, you should head for Chinitsu.
 
-Thinking about future danger, start by cutting <img src="../hai/man5.gif" width="24" height="34" />.
+Thinking about future danger, start by cutting <img src="../../hai/man5.gif" width="24" height="34" />.
 
-Normally, you would begin with <img src="../hai/man1.gif" width="24" height="34" /> so that a future <img src="../hai/man6.gif" width="24" height="34" /> draw keeps a manzu ryanmen improvement.  
+Normally, you would begin with <img src="../../hai/man1.gif" width="24" height="34" /> so that a future <img src="../../hai/man6.gif" width="24" height="34" /> draw keeps a manzu ryanmen improvement.  
 But in a shape this strong, you do not even need that manzu ryanmen change.
 
 ---
 
 **Example 2**  
-<img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../hai/pin3.gif" width="24" height="34" /> Dora <img src="../hai/sou6.gif" width="24" height="34" />
+<img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin9.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../../hai/pin3.gif" width="24" height="34" /> Dora <img src="../../hai/sou6.gif" width="24" height="34" />
 
 But having 10 tiles in one suit does not automatically mean you should always go for a flush.
 
 Example 2 has 10 pinzu,  
-but you should still simply discard <img src="../hai/hatu.gif" width="24" height="34" />.
+but you should still simply discard <img src="../../hai/hatu.gif" width="24" height="34" />.
 
 This hand is naturally a Pinfu-Riichi hand,  
 and depending on the draw it can also pick up Tanyao, Sanshoku, or Ittsuu.  
@@ -69,7 +69,7 @@ Dropping a full meld is basically forbidden.
 ---
 
 **Example 3**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /> Tsumo <img src="../hai/hatu.gif" width="24" height="34" /> Dora <img src="../hai/sou7.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /><img src="../../hai/ton.gif" width="24" height="34" /><img src="../../hai/ton.gif" width="24" height="34" /> Tsumo <img src="../../hai/hatu.gif" width="24" height="34" /> Dora <img src="../../hai/sou7.gif" width="24" height="34" />
 
 But mahjong always has exceptions.  
 In a hand like Example 3, if going for the flush raises the value dramatically,  
@@ -81,14 +81,14 @@ In a flat game, there are very few hands where dropping a whole meld just to for
 ---
 
 **Example 4**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /> Tsumo <img src="../hai/sou5.gif" width="24" height="34" /> Dora <img src="../hai/man4.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /><img src="../../hai/ton.gif" width="24" height="34" /><img src="../../hai/ton.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /> Tsumo <img src="../../hai/sou5.gif" width="24" height="34" /> Dora <img src="../../hai/man4.gif" width="24" height="34" />
 
 If you have two pairs of value honors, you should lean toward one suit and aim for mangan.  
 In Example 4, even though there is a dora-containing taatsu, you should of course aim for a souzu Honitsu.
 
 But there is an important caution here.
 
-Many beginners immediately start by discarding the dora <img src="../hai/man4.gif" width="24" height="34" />,  
+Many beginners immediately start by discarding the dora <img src="../../hai/man4.gif" width="24" height="34" />,  
 which is overdoing it.
 
 The weakness of Honitsu is that it is easy to read.  
@@ -97,9 +97,9 @@ the rest of the table can almost confirm that you are on a souzu Honitsu, so nat
 
 Since you already have such a strong hand,
 
-you should normally start with <img src="../hai/pin2.gif" width="24" height="34" /> and keep your discards unobtrusive, making the hand at least a little easier to win with.
+you should normally start with <img src="../../hai/pin2.gif" width="24" height="34" /> and keep your discards unobtrusive, making the hand at least a little easier to win with.
 
-Even if the flush is the main line, you could still immediately draw <img src="../hai/man3.gif" width="24" height="34" /> afterward.
+Even if the flush is the main line, you could still immediately draw <img src="../../hai/man3.gif" width="24" height="34" /> afterward.
 
 ### Theory Summary
 
@@ -111,11 +111,11 @@ try to combine them with a flush and aim for mangan.
 ---
 
 **Example 5**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/pei.gif" width="24" height="34" /> Tsumo <img src="../hai/pin1.gif" width="24" height="34" /> Dora <img src="../hai/pei.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/sou1.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/nan.gif" width="24" height="34" /><img src="../../hai/nan.gif" width="24" height="34" /><img src="../../hai/pei.gif" width="24" height="34" /> Tsumo <img src="../../hai/pin1.gif" width="24" height="34" /> Dora <img src="../../hai/pei.gif" width="24" height="34" />
 
-Assume <img src="../hai/nan.gif" width="24" height="34" /> is just a guest wind.
+Assume <img src="../../hai/nan.gif" width="24" height="34" /> is just a guest wind.
 
-To be blunt, this is garbage, but if it were me, I would start by cutting something like <img src="../hai/pin5.gif" width="24" height="34" /> and aim for a souzu Honitsu.  
+To be blunt, this is garbage, but if it were me, I would start by cutting something like <img src="../../hai/pin5.gif" width="24" height="34" /> and aim for a souzu Honitsu.  
 If you just play the hand naturally, you probably are not winning anyway.
 
 This is a very distant Honitsu attempt.  
@@ -128,9 +128,9 @@ but from a defensive point of view, this is a hand you should not call with.
 If your opponents' hands are average or better, they can still just advance normally.  
 In mahjong, bluffing itself is not all that powerful.
 
-Unless <img src="../hai/haku.gif" width="24" height="34" /> or <img src="../hai/pei.gif" width="24" height="34" /> pairs up, I think the better plan is not to push for a win.
+Unless <img src="../../hai/haku.gif" width="24" height="34" /> or <img src="../../hai/pei.gif" width="24" height="34" /> pairs up, I think the better plan is not to push for a win.
 
-Beginners would often pon the very first <img src="../hai/nan.gif" width="24" height="34" />,  
+Beginners would often pon the very first <img src="../../hai/nan.gif" width="24" height="34" />,  
 but this is exactly the kind of hand where you need to realize that it is not really a hand you can win easily with.
 
 “It is fine not to win with this hand.”  

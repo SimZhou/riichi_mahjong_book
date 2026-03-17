@@ -68,6 +68,23 @@ scripts/build_site.sh
 /opt/miniforge3/bin/python scripts/add_page_descriptions.py
 ```
 
+- 当前项目也提供英文页本地资源路径检查/修复脚本：
+
+```bash
+/opt/miniforge3/bin/python scripts/check_fix_en_asset_paths.py --apply
+```
+
+- 该脚本会按英文页面所在层级，统一修正 `hai/` 与 `images/` 的相对路径前缀，避免出现：
+  - `en/<chapter>/<page>.html` 里仍然引用 `../hai/...`
+  - `en/<chapter>/index.html` 里仍然引用 `../images/...`
+- 对英文页做过一批新增或重构后，建议执行：
+
+```bash
+/opt/miniforge3/bin/python scripts/check_fix_en_asset_paths.py --apply
+scripts/build_site.sh
+/opt/miniforge3/bin/python scripts/check_fix_en_asset_paths.py --check-built
+```
+
 - `IndexNow` 已接入本项目，当前密钥文件位于：
   - `site_src/docs/6f0d3cf671bf4bb3b4dfe2dfef4f11d6.txt`
 - 提交脚本位于：

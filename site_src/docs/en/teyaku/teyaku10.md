@@ -21,46 +21,46 @@ then you should narrow your focus to the meld hand.
 
 **Example 1**
 
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../hai/man9.gif" width="24" height="34" /> Dora <img src="../hai/man4.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../../hai/man9.gif" width="24" height="34" /> Dora <img src="../../hai/man4.gif" width="24" height="34" />
 
 In Example 1, of course, you do not look at Chiitoitsu at all.  
-You simply discard <img src="../hai/man8m.gif" width="19" height="26" class="hai" />.
+You simply discard <img src="../../hai/man8m.gif" width="19" height="26" class="hai" />.
 
 ---
 
 **Example 2**
 
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../hai/pin2.gif" width="24" height="34" /> Dora <img src="../hai/man4.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../../hai/pin2.gif" width="24" height="34" /> Dora <img src="../../hai/man4.gif" width="24" height="34" />
 
 But what about a hand like Example 2,  
 where Chiitoitsu is one-shanten while the regular meld hand is two-shanten?  
 From a technique point of view:
 
-- Meld-hand technique -> discard <img src="../hai/pin2m.gif" width="19" height="26" />
-- Chiitoitsu technique -> discard <img src="../hai/man3m.gif" width="19" height="26" /> and throw the dora indicator tile
+- Meld-hand technique -> discard <img src="../../hai/pin2m.gif" width="19" height="26" />
+- Chiitoitsu technique -> discard <img src="../../hai/man3m.gif" width="19" height="26" /> and throw the dora indicator tile
 
 It used to be said that you should decide on one route early,  
 but the modern mainstream approach is to keep both the regular meld hand and the Chiitoitsu route alive as you play.
 
-Discarding <img src="../hai/man7m.gif" width="19" height="26" class="hai" /> is a move that stays flexible for both.
+Discarding <img src="../../hai/man7m.gif" width="19" height="26" class="hai" /> is a move that stays flexible for both.
 
 The main line is still Tanyao + two dora,  
 but you should not throw away the possibility of reaching a Chiitoitsu tenpai  
-if you draw tiles such as <img src="../hai/man2m.gif" width="19" height="26" /><img src="../hai/man3m.gif" width="19" height="26" /><img src="../hai/man5m.gif" width="19" height="26" />.
+if you draw tiles such as <img src="../../hai/man2m.gif" width="19" height="26" /><img src="../../hai/man3m.gif" width="19" height="26" /><img src="../../hai/man5m.gif" width="19" height="26" />.
 
 Some people might criticize this as indecisive,  
-but I think discarding <img src="../hai/man7m.gif" width="19" height="26" class="hai" /> is the correct answer.
+but I think discarding <img src="../../hai/man7m.gif" width="19" height="26" class="hai" /> is the correct answer.
 
 ---
 
 **Example 3**
 
-<img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> Tsumo <img src="../hai/sou9.gif" width="24" height="34" /> Dora <img src="../hai/sou1.gif" width="24" height="34" />
+<img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin9.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /><img src="../../hai/sou9.gif" width="24" height="34" /> Tsumo <img src="../../hai/sou9.gif" width="24" height="34" /> Dora <img src="../../hai/sou1.gif" width="24" height="34" />
 
 If you only think about the regular meld hand in Example 3,  
-then naturally you tsumogiri <img src="../hai/sou9m.gif" width="19" height="26" class="hai" />.
+then naturally you tsumogiri <img src="../../hai/sou9m.gif" width="19" height="26" class="hai" />.
 
-But discarding <img src="../hai/pin1m.gif" width="19" height="26" class="hai" /> looks better,  
+But discarding <img src="../../hai/pin1m.gif" width="19" height="26" class="hai" /> looks better,  
 because it keeps both routes available.
 
 ### Theory Summary
@@ -71,34 +71,34 @@ because it keeps both routes available.
 
 **Example 4**
 
-<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../hai/man8.gif" width="24" height="34" /> Dora <img src="../hai/man4.gif" width="24" height="34" />
+<img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../../hai/man8.gif" width="24" height="34" /> Dora <img src="../../hai/man4.gif" width="24" height="34" />
 
 What about Example 4?
 
 If you want to preserve both routes,  
-you would cut <img src="../hai/pin4m.gif" width="19" height="26" class="hai" />.
+you would cut <img src="../../hai/pin4m.gif" width="19" height="26" class="hai" />.
 
 That discard is not exactly wrong,  
 but the shape in Example 4 is already good enough that  
 **even if you leave the Chiitoitsu possibility open, the hand is still likely to settle as a regular meld hand anyway**.
 
 So here the best discard is to focus on the regular meld hand,  
-cut <img src="../hai/man3m.gif" width="19" height="26" />,  
+cut <img src="../../hai/man3m.gif" width="19" height="26" />,  
 and lock in the dora meld.
 
 ## 2. Chiitoitsu Waits
 
 **Example 5**
 
-<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../hai/man5.gif" width="24" height="34" />
+<img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../../hai/man5.gif" width="24" height="34" />
 
 People often say that you should riichi as early as possible.  
 But immediately riichi'ing Example 5 is very questionable.
 
 No matter which tile you wait on, it is not an easy hand to win.
 
-Even if you had a <img src="../hai/pin5redm.gif" width="19" height="26" class="hai" />,  
-riichi on a <img src="../hai/pin5m.gif" width="19" height="26" class="hai" /> tanki is still poor.
+Even if you had a <img src="../../hai/pin5redm.gif" width="19" height="26" class="hai" />,  
+riichi on a <img src="../../hai/pin5m.gif" width="19" height="26" class="hai" /> tanki is still poor.
 
 A tanki wait only has three winning tiles to begin with.  
 When there are only three, you should not choose a tile that is hard to ron on top of that.
@@ -133,12 +133,12 @@ A tanki on an unneeded wind of which one copy is already visible in the pond is 
 
 **Example 6**
 
-<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sha.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../hai/man5.gif" width="24" height="34" />
+<img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/sha.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../../hai/man5.gif" width="24" height="34" />
 
-If <img src="../hai/pin7m.gif" width="19" height="26" class="hai" /> is still live,  
-while one copy of <img src="../hai/sham.gif" width="19" height="26" class="hai" /> is already visible,
+If <img src="../../hai/pin7m.gif" width="19" height="26" class="hai" /> is still live,  
+while one copy of <img src="../../hai/sham.gif" width="19" height="26" class="hai" /> is already visible,
 
-then you should riichi on the <img src="../hai/sham.gif" width="19" height="26" class="hai" /> tanki.  
+then you should riichi on the <img src="../../hai/sham.gif" width="19" height="26" class="hai" /> tanki.  
 The wait counts are only three tiles versus two tiles,  
 but the difference in ease of winning is enormous.
 

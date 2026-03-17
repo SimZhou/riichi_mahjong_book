@@ -24,18 +24,18 @@ Rigid commitment is taboo.
 ---
 
 **Example 1**  
-<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../hai/sou7.gif" width="24" height="34" /> Dora <img src="../hai/pin4.gif" width="24" height="34" />
+<img src="../../hai/man1.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou9.gif" width="24" height="34" /><img src="../../hai/ton.gif" width="24" height="34" /><img src="../../hai/nan.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../../hai/sou7.gif" width="24" height="34" /> Dora <img src="../../hai/pin4.gif" width="24" height="34" />
 
 Suppose you are in last place and receive this garbage starting hand with `8 kinds, 9 terminals and honors`.
 
-If someone starts by cutting the dora <img src="../hai/pin4.gif" width="24" height="34" /> and hard-commits to Kokushi, that is losing play.  
+If someone starts by cutting the dora <img src="../../hai/pin4.gif" width="24" height="34" /> and hard-commits to Kokushi, that is losing play.  
 Why throw away, from turn one, the possibility of stacking the dora into Chiitoitsu?
 
-Even if you want to leave Kokushi in the picture, then in non-red rules you should cut <img src="../hai/man5.gif" width="24" height="34" /> or <img src="../hai/sou6.gif" width="24" height="34" />,  
+Even if you want to leave Kokushi in the picture, then in non-red rules you should cut <img src="../../hai/man5.gif" width="24" height="34" /> or <img src="../../hai/sou6.gif" width="24" height="34" />,  
 keeping possibilities like Chanta or Chiitoitsu alive.
 
-In red-five mahjong, cutting <img src="../hai/pin1.gif" width="24" height="34" /> is fine.  
-If you are dealer, then cutting <img src="../hai/pin1.gif" width="24" height="34" /> is unquestionably correct.
+In red-five mahjong, cutting <img src="../../hai/pin1.gif" width="24" height="34" /> is fine.  
+If you are dealer, then cutting <img src="../../hai/pin1.gif" width="24" height="34" /> is unquestionably correct.
 
 Even a starting hand like this can still win by stacking value honors.  
 Everything depends on the future draws.
@@ -56,12 +56,12 @@ It is better to think of yaku like this:
 ---
 
 **Example 2**  
-<img src="../images/01.jpg" width="370" height="127" />
+<img src="../../images/01.jpg" width="370" height="127" />
 
 At first glance, this looks like a lucky game log where someone just happened to win with three red fives.  
 But the player is actually making a very deliberate yaku-oriented choice.
 
-You can see that they even gave up the pairs of <img src="../hai/ton.gif" width="24" height="34" /> and <img src="../hai/sou1.gif" width="24" height="34" />  
+You can see that they even gave up the pairs of <img src="../../hai/ton.gif" width="24" height="34" /> and <img src="../../hai/sou1.gif" width="24" height="34" />  
 just to keep the value-honor possibility.  
 They are North seat, so North is yakuhai, while East is only a guest wind in South round.
 
@@ -85,26 +85,26 @@ but the biggest one is that they reduce your acceptance count.
 ---
 
 **Example 3**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /> Tsumo <img src="../hai/sou2.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /> Tsumo <img src="../../hai/sou2.gif" width="24" height="34" />
 
-In a shape like Example 3, discarding <img src="../hai/man2.gif" width="24" height="34" /> naturally leaves the possibility of `234` Sanshoku.
+In a shape like Example 3, discarding <img src="../../hai/man2.gif" width="24" height="34" /> naturally leaves the possibility of `234` Sanshoku.
 
 ---
 
 **Example 4**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /> Tsumo <img src="../hai/sou2.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /> Tsumo <img src="../../hai/sou2.gif" width="24" height="34" />
 
 But in Example 4, aiming at Sanshoku actually reduces the acceptance count.
 
 | Discard | Tenpai chances | Count | Comment |
 | --- | --- | --- | --- |
-| <img src="../hai/pin6.gif" width="24" height="34" /> | <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /> | `16` | Includes Sanshoku possibilities |
-| <img src="../hai/man2.gif" width="24" height="34" /> | <img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /> | `12` | Sanshoku guaranteed |
-| <img src="../hai/pin5.gif" width="24" height="34" /> | <img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> | `19` |  |
-| <img src="../hai/man4.gif" width="24" height="34" /> | <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> | `23` | Maximum tenpai chances |
+| <img src="../../hai/pin6.gif" width="24" height="34" /> | <img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /> | `16` | Includes Sanshoku possibilities |
+| <img src="../../hai/man2.gif" width="24" height="34" /> | <img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /> | `12` | Sanshoku guaranteed |
+| <img src="../../hai/pin5.gif" width="24" height="34" /> | <img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /> | `19` |  |
+| <img src="../../hai/man4.gif" width="24" height="34" /> | <img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /> | `23` | Maximum tenpai chances |
 
 Even though chasing Sanshoku would raise the value of the hand,  
-in this shape, the best choice is clearly discarding <img src="../hai/man4.gif" width="24" height="34" />, which gives the widest path to tenpai.
+in this shape, the best choice is clearly discarding <img src="../../hai/man4.gif" width="24" height="34" />, which gives the widest path to tenpai.
 
 When you must sacrifice either yaku value or speed,  
 <span class="b">in most cases, prioritizing speed gives the better result.</span>

@@ -11,17 +11,17 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/teyaku01.html
 One of mahjong's pleasures is building yaku.  
 Anyone is happy when they win with a yakuman, or with a difficult and rare yaku.
 
-<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> Tsumo <img src="../hai/pin8.gif" width="24" height="34" />
+<img src="../../hai/man1.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/man9.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin9.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /><img src="../../hai/sou9.gif" width="24" height="34" /> Tsumo <img src="../../hai/pin8.gif" width="24" height="34" />
 
 But overcommitting to yaku is also a mistake.
 
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> Tsumo <img src="../hai/man6.gif" width="24" height="34" /> Dora <img src="../hai/man3.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /> Tsumo <img src="../../hai/man6.gif" width="24" height="34" /> Dora <img src="../../hai/man3.gif" width="24" height="34" />
 
-For example, in this hand, you should not discard <img src="../hai/sou7m.gif" width="19" height="26" class="hai" /> just because you can see a possible `234` Sanshoku.
+For example, in this hand, you should not discard <img src="../../hai/sou7m.gif" width="19" height="26" class="hai" /> just because you can see a possible `234` Sanshoku.
 
-If you draw <img src="../hai/man1m.gif" width="19" height="26" class="hai" /> or <img src="../hai/pin5m.gif" width="19" height="26" class="hai" />, the Sanshoku falls apart.
+If you draw <img src="../../hai/man1m.gif" width="19" height="26" class="hai" /> or <img src="../../hai/pin5m.gif" width="19" height="26" class="hai" />, the Sanshoku falls apart.
 
-And a half-hearted discard like <img src="../hai/man5m.gif" width="19" height="26" class="hai" /> is not very good either.  
+And a half-hearted discard like <img src="../../hai/man5m.gif" width="19" height="26" class="hai" /> is not very good either.  
 It is better to cut the souzu kanchan and aim for Tanyao plus Pinfu.
 
 Beginners often say they cannot make yaku,  

@@ -15,27 +15,27 @@ This page covers two-shanten hands that do not fit the previous two standard pat
 The key question in this shape is whether the floating tile should be kept.
 
 **Example 1**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../hai/sou7.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin9.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../../hai/sou7.gif" width="24" height="34" />
 
-=> Discard <img src="../hai/pin1.gif" width="24" height="34" />
+=> Discard <img src="../../hai/pin1.gif" width="24" height="34" />
 
 In a hand like Example 1, when you clearly have a weak taatsu such as
-<img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" />
-and the floating tile is part of a thick connected shape, you should keep <img src="../hai/sou7.gif" width="24" height="34" /> without hesitation.
+<img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" />
+and the floating tile is part of a thick connected shape, you should keep <img src="../../hai/sou7.gif" width="24" height="34" /> without hesitation.
 
 From a scoring perspective, the hand can also aim realistically at Tanyao, Pinfu, or Iipeikou.
 
 **Example 2**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../hai/sou7.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin9.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../../hai/sou7.gif" width="24" height="34" />
 
-=> Discard <img src="../hai/pin9.gif" width="24" height="34" />
+=> Discard <img src="../../hai/pin9.gif" width="24" height="34" />
 
 Here the floating tile still belongs to a strong connected block, so the weaker isolated tile on the other side should go first.
 
 **Example 3**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../hai/pin8.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin9.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../../hai/pin8.gif" width="24" height="34" />
 
-=> Discard <img src="../hai/pin1.gif" width="24" height="34" />
+=> Discard <img src="../../hai/pin1.gif" width="24" height="34" />
 
 Once again, keep the stronger floating block and discard the weaker taatsu.
 
@@ -46,49 +46,49 @@ When the hand has no pair yet, the comparison changes a little.
 You still compare shape quality, but you must also remember that a head still needs to be formed somewhere.
 
 **Example 4**  
-<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../hai/pin4.gif" width="24" height="34" />
+<img src="../../hai/man1.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../../hai/pin4.gif" width="24" height="34" />
 
-=> Discard <img src="../hai/man1.gif" width="24" height="34" />
+=> Discard <img src="../../hai/man1.gif" width="24" height="34" />
 
 Although there is no head yet, the weak edge-side floating tile is still the natural discard.
 
 **Example 5**  
-<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../hai/pin4.gif" width="24" height="34" />
+<img src="../../hai/man1.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /> Tsumo <img src="../../hai/pin4.gif" width="24" height="34" />
 
-=> Discard <img src="../hai/man1.gif" width="24" height="34" />
+=> Discard <img src="../../hai/man1.gif" width="24" height="34" />
 
 Even in a headless hand, the basic rule is still to discard the least useful floating tile first.
 
 **Change A**
 
-If you draw <img src="../hai/man3.gif" width="24" height="34" />, then <img src="../hai/man1.gif" width="24" height="34" /> becomes more useful, so the balance shifts.
+If you draw <img src="../../hai/man3.gif" width="24" height="34" />, then <img src="../../hai/man1.gif" width="24" height="34" /> becomes more useful, so the balance shifts.
 
 **Change B**
 
-If you draw <img src="../hai/sou7.gif" width="24" height="34" />, the souzu side becomes much stronger, making the weak manzu tile even easier to cut.
+If you draw <img src="../../hai/sou7.gif" width="24" height="34" />, the souzu side becomes much stronger, making the weak manzu tile even easier to cut.
 
 ## 3. Hands That Can Still Go to Chiitoitsu
 
 Some two-shanten hands should also be judged from the perspective of a possible Chiitoitsu route.
 
 **Example 6**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /> Tsumo <img src="../hai/man5.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /> Tsumo <img src="../../hai/man5.gif" width="24" height="34" />
 
-=> Discard <img src="../hai/man8.gif" width="24" height="34" />
+=> Discard <img src="../../hai/man8.gif" width="24" height="34" />
 
 Because the hand already contains useful pairs, do not destroy them too lightly if Chiitoitsu remains a realistic backup plan.
 
 **Example 7**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /> Tsumo <img src="../hai/sou4.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /> Tsumo <img src="../../hai/sou4.gif" width="24" height="34" />
 
-=> Discard <img src="../hai/man8.gif" width="24" height="34" />
+=> Discard <img src="../../hai/man8.gif" width="24" height="34" />
 
 The value of the existing pairs remains high, so the weakest floating tile still goes first.
 
 **Example 8**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /> Tsumo <img src="../hai/man5.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /> Tsumo <img src="../../hai/man5.gif" width="24" height="34" />
 
-=> Discard <img src="../hai/man8.gif" width="24" height="34" />
+=> Discard <img src="../../hai/man8.gif" width="24" height="34" />
 
 If the hand can still transition naturally toward Chiitoitsu, preserve that option unless there is a very strong reason not to.
 

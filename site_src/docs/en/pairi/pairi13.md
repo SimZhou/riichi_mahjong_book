@@ -18,7 +18,7 @@ If a hand is so poor that it is unlikely to win no matter what you do, a slightl
 
 You can choose your discard by following the flow below.
 
-<img src="../images/011.gif" width="487" height="576" />
+<img src="../../images/011.gif" width="487" height="576" />
 
 Read the chart from top to bottom. The diamond shapes are branch points.
 
@@ -33,9 +33,9 @@ Some people may think that standard sounds too demanding. But even with 16 accep
 ---
 
 **Example 1**  
-<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" />
+<img src="../../hai/man1.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" />
 
-Discard <img src="../hai/pin6.gif" width="24" height="34" />. The one-shanten shape then has 16 accepting tiles, which is good enough.
+Discard <img src="../../hai/pin6.gif" width="24" height="34" />. The one-shanten shape then has 16 accepting tiles, which is good enough.
 
 Of course, if the souzu side fills first, the hand may end up in a bad wait. Even so, that does not justify cutting the manzu side and sacrificing four tiles of acceptance.
 
@@ -44,50 +44,50 @@ When there are two or more discards tied for the highest acceptance, or when the
 ---
 
 **Example 2**  
-<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" />
+<img src="../../hai/man1.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" />
 
-Discarding <img src="../hai/man5.gif" width="24" height="34" /> and discarding <img src="../hai/sou6.gif" width="24" height="34" /> both leave 16 accepting tiles, so here you should compare the resulting waits.
+Discarding <img src="../../hai/man5.gif" width="24" height="34" /> and discarding <img src="../../hai/sou6.gif" width="24" height="34" /> both leave 16 accepting tiles, so here you should compare the resulting waits.
 
-Discarding <img src="../hai/sou6.gif" width="24" height="34" /> is more likely to produce a ryanmen wait.
+Discarding <img src="../../hai/sou6.gif" width="24" height="34" /> is more likely to produce a ryanmen wait.
 
 ---
 
 **Example 3**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" />
 
 This is already a sufficient shape, and there is no meaningful difference in either the number of one-shanten entries or the quality of the eventual waits.
 
-That means scoring potential should decide the choice. Keep <img src="../hai/sou8.gif" width="24" height="34" /> and continue aiming for 678 Sanshoku.
+That means scoring potential should decide the choice. Keep <img src="../../hai/sou8.gif" width="24" height="34" /> and continue aiming for 678 Sanshoku.
 
 Up to this point, the decisions are still not too difficult.
 
 ## 3. Insufficient Shapes
 
 **Example 4**  
-<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" />
+<img src="../../hai/man1.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" />
 
 With only 12 accepting tiles, this should be treated as an insufficient shape.
 
 The first thing to consider is improvement into a better shape.
 
-The floating <img src="../hai/man2.gif" width="24" height="34" /> and the connected pinzu shape have completely different power when it comes to forming ryanmen waits. In Example 4, cutting <img src="../hai/man2.gif" width="24" height="34" /> is the correct first move.
+The floating <img src="../../hai/man2.gif" width="24" height="34" /> and the connected pinzu shape have completely different power when it comes to forming ryanmen waits. In Example 4, cutting <img src="../../hai/man2.gif" width="24" height="34" /> is the correct first move.
 
 ---
 
 **Example 5**  
-<img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" />
+<img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou3.gif" width="24" height="34" /><img src="../../hai/sou4.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" />
 
 Besides taking the obvious one-shanten line, Example 5 also has another option:
 
 <span class="blue"><strong>drop back to two-shanten.</strong></span>
 
-The reason is that you want to avoid a wait on <img src="../hai/pin3.gif" width="24" height="34" />, where you already use one copy yourself.
+The reason is that you want to avoid a wait on <img src="../../hai/pin3.gif" width="24" height="34" />, where you already use one copy yourself.
 
 <span class="red"><strong>Scoring value from yaku such as Tanyao and Pinfu, and the winning rate after Riichi, which also reduces the chance of taking damage, mean that simply taking one-shanten is not always the best choice.</strong></span>
 
 That is part of what makes mahjong difficult.
 
-I think discarding <img src="../hai/pin2.gif" width="24" height="34" /> is best here.
+I think discarding <img src="../../hai/pin2.gif" width="24" height="34" /> is best here.
 
 On the following pages, this same line of thinking will be used to examine one-shanten tile theory much more thoroughly.
 

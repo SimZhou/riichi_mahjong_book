@@ -27,24 +27,24 @@ so the key is to identify which number tiles are truly unnecessary.
 ---
 
 **Example 1**  
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" />
+<img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou9.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" />
 
-For example, in this hand, you can cut <img src="../hai/sou9.gif" width="24" height="34" /> first,  
-instead of breaking up <img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" />.
+For example, in this hand, you can cut <img src="../../hai/sou9.gif" width="24" height="34" /> first,  
+instead of breaking up <img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" />.
 
 ---
 
 **Example 2**  
-<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" />
+<img src="../../hai/man1.gif" width="24" height="34" /><img src="../../hai/man2.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man4.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" />
 
 In Example 2, your ryanmen taatsu are already in place,  
-so holding <img src="../hai/sou6.gif" width="24" height="34" /> is not worth much.
+so holding <img src="../../hai/sou6.gif" width="24" height="34" /> is not worth much.
 
-You would be happier if <img src="../hai/hatu.gif" width="24" height="34" /> paired up  
+You would be happier if <img src="../../hai/hatu.gif" width="24" height="34" /> paired up  
 than if you simply made another meld elsewhere.
 
 As long as the acceptance on `2m-5m` and `5p-8p` is good enough,  
-this hand should discard <img src="../hai/sou6.gif" width="24" height="34" />.
+this hand should discard <img src="../../hai/sou6.gif" width="24" height="34" />.
 
 ## 2. Yakuhai or Tanyao?
 
@@ -54,19 +54,19 @@ When you are calling, Tanyao is easier to complete, and it also combines more ea
 ---
 
 **Example 3**  
-<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../hai/man6.gif" width="24" height="34" /> Dora <img src="../hai/man3.gif" width="24" height="34" />
+<img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/pin7.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../../hai/man6.gif" width="24" height="34" /> Dora <img src="../../hai/man3.gif" width="24" height="34" />
 
-In Example 3, it is better to drop <img src="../hai/hatu.gif" width="24" height="34" />  
+In Example 3, it is better to drop <img src="../../hai/hatu.gif" width="24" height="34" />  
 and shift to Tanyao.
 
 ---
 
 **Example 4**  
-<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../hai/man6.gif" width="24" height="34" /> Dora <img src="../hai/man3.gif" width="24" height="34" />
+<img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man3.gif" width="24" height="34" /><img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man7.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /> Tsumo <img src="../../hai/man6.gif" width="24" height="34" /> Dora <img src="../../hai/man3.gif" width="24" height="34" />
 
 But in a hand like Example 4, where Tanyao is not yet guaranteed,  
-you should not drop <img src="../hai/hatu.gif" width="24" height="34" />.  
-In that case, it is better to discard either <img src="../hai/pin8.gif" width="24" height="34" /> or <img src="../hai/sou5.gif" width="24" height="34" />.
+you should not drop <img src="../../hai/hatu.gif" width="24" height="34" />.  
+In that case, it is better to discard either <img src="../../hai/pin8.gif" width="24" height="34" /> or <img src="../../hai/sou5.gif" width="24" height="34" />.
 
 ### Theory Summary
 
@@ -97,12 +97,12 @@ then you should not call from the very first copy.
 ---
 
 **Example 5**  
-<img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" />
+<img src="../../hai/man5.gif" width="24" height="34" /><img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/pin3.gif" width="24" height="34" /><img src="../../hai/pin4.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin6.gif" width="24" height="34" /><img src="../../hai/sou5.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou6.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/sou8.gif" width="24" height="34" /><img src="../../hai/ton.gif" width="24" height="34" /><img src="../../hai/ton.gif" width="24" height="34" />
 
 ---
 
 **Example 6**  
-<img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" />
+<img src="../../hai/man6.gif" width="24" height="34" /><img src="../../hai/man8.gif" width="24" height="34" /><img src="../../hai/pin1.gif" width="24" height="34" /><img src="../../hai/pin2.gif" width="24" height="34" /><img src="../../hai/pin5.gif" width="24" height="34" /><img src="../../hai/pin8.gif" width="24" height="34" /><img src="../../hai/pin9.gif" width="24" height="34" /><img src="../../hai/sou1.gif" width="24" height="34" /><img src="../../hai/sou2.gif" width="24" height="34" /><img src="../../hai/sou7.gif" width="24" height="34" /><img src="../../hai/haku.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" /><img src="../../hai/hatu.gif" width="24" height="34" />
 
 ### Theory Summary
 
