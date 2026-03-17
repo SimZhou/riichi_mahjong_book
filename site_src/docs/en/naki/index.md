@@ -20,7 +20,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 3. [Pon and Chi (1)](./naki03.md)
    Pon and chi both use tiles discarded by other players, but there are important differences between them.
 
-4. Pon and Chi (2)
+4. [Pon and Chi (2)](./naki04.md)
    The key ideas for situations where you have multiple pairs that can be pon'ed, or multiple different ways to chi.
 
 5. Kan (1)

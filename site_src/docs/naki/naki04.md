@@ -1,5 +1,6 @@
 ---
 description: 碰与吃（2）：比如例 1 这种情况，只要场上已见张数没有明显差别，
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki04.html
 ---
 
 # 碰与吃（2）

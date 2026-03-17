@@ -132,6 +132,6 @@ Original Japanese page: <http://beginners.biz/naki/naki03.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="naki02.html">Previous: The Basics of Calling Decisions</a>
-  <a class="page-nav__link page-nav__link--next" href="../../naki/naki04.html">Continue in Chinese: Pon and Chi (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="naki04.html">Next: Pon and Chi (2)</a>
 </div>
 <!-- PAGE NAV END -->
