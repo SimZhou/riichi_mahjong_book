@@ -3,12 +3,14 @@
 {% set tile_efficiency = en_nav.tile_efficiency if en_nav and en_nav.tile_efficiency else {} %}
 {% set yaku = en_nav.yaku if en_nav and en_nav.yaku else {} %}
 {% set dora = en_nav.dora if en_nav and en_nav.dora else {} %}
+{% set calling = en_nav.calling if en_nav and en_nav.calling else {} %}
 {% set en_site_title = "Japanese Mahjong: From Beginner to Master" %}
 {% set current_url = page.url if page and page.url else '' %}
 {% set basics_active = current_url.startswith('en/kihon/') %}
 {% set tile_efficiency_active = current_url.startswith('en/pairi/') %}
 {% set yaku_active = current_url.startswith('en/teyaku/') %}
 {% set dora_active = current_url.startswith('en/dora/') %}
+{% set calling_active = current_url.startswith('en/naki/') %}
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
@@ -444,8 +446,31 @@
         </ul>
       </nav>
     </li>
-    <li class="md-nav__item">
-      <span class="md-nav__link"><span class="md-ellipsis">Chapter 5: Calling</span></span>
+    <li class="md-nav__item md-nav__item--nested{% if calling_active %} md-nav__item--active{% endif %}">
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__nav_en_calling" {% if calling_active %}checked{% endif %}>
+      <div class="md-nav__link md-nav__container">
+        <a href="{{ config.site_url ~ calling.overview.path }}" class="md-nav__link{% if current_url == calling.overview.path %} md-nav__link--active{% endif %}">
+          <span class="md-ellipsis">{{ calling.title }}</span>
+        </a>
+        <label class="md-nav__link{% if current_url == calling.overview.path %} md-nav__link--active{% endif %}" for="__nav_en_calling" id="__nav_en_calling_label" tabindex="0">
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      </div>
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_en_calling_label" aria-expanded="{{ calling_active | tojson }}">
+        <label class="md-nav__title" for="__nav_en_calling">
+          <span class="md-nav__icon md-icon"></span>
+          {{ calling.title }}
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          {% if calling and calling.overview %}
+          <li class="md-nav__item{% if current_url == calling.overview.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ calling.overview.path }}" class="md-nav__link{% if current_url == calling.overview.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ calling.overview.title }}</span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </nav>
     </li>
     <li class="md-nav__item">
       <span class="md-nav__link"><span class="md-ellipsis">Chapter 6: Riichi</span></span>

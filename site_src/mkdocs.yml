@@ -196,6 +196,11 @@ extra:
       dora07:
         title: Red Tiles and Bonus Chips
         path: en/dora/dora07.html
+    calling:
+      title: "Chapter 5: Calling"
+      overview:
+        title: Overview
+        path: en/naki/index.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

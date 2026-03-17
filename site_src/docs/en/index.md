@@ -60,7 +60,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <span>In modern parlor mahjong and online mahjong, red fives and dora are unavoidable. They are easy sources of value, and they also change the balance of the game in a major way.</span>
     </div>
   </a>
-  <div class="home-card">
+  <a class="home-card" href="./naki/index.html">
     <div class="home-card__media">
       <img src="../images/top5_off.jpg" alt="Chapter 5: Calling" />
     </div>
@@ -68,7 +68,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <strong>Chapter 5: Calling</strong>
       <span>Calling is one of the clearest areas where strong and weak players separate. As modern mahjong keeps getting faster, you need to understand what pon and chi really mean in practice.</span>
     </div>
-  </div>
+  </a>
   <div class="home-card">
     <div class="home-card__media">
       <img src="../images/top6_off.jpg" alt="Chapter 6: Riichi" />
