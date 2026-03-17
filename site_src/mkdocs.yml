@@ -251,6 +251,9 @@ extra:
       overview:
         title: Overview
         path: en/reach/index.html
+      reach01:
+        title: Advantages and Disadvantages of Riichi
+        path: en/reach/reach01.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

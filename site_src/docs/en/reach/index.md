@@ -11,7 +11,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/index.html
 
 ![Riichi main image](../../images/top-image9.jpg)
 
-1. Advantages and Disadvantages of Riichi
+1. [Advantages and Disadvantages of Riichi](./reach01.md)
    Riichi is one of the most important yaku in the game. Start by understanding both what it gives you and what it costs you.
 
 2. Riichi or Damaten? (1)
@@ -42,6 +42,6 @@ Original Japanese page: <http://beginners.biz/reach/>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="../naki/naki15.html">Previous Chapter: Calling</a>
-  <a class="page-nav__link page-nav__link--next" href="../../reach/reach01.html">Continue in Chinese: Advantages and Disadvantages of Riichi</a>
+  <a class="page-nav__link page-nav__link--next" href="reach01.html">Next: Advantages and Disadvantages of Riichi</a>
 </div>
 <!-- PAGE NAV END -->
