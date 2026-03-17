@@ -44,7 +44,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 11. [Atozuke (1)](./naki11.md)
    Calling other parts of the hand before your yaku is confirmed is called *atozuke*.
 
-12. Atozuke (2)
+12. [Atozuke (2)](./naki12.md)
    Hands and situations where it is better to call with atozuke than to keep pushing the hand closed.
 
 13. Calling Techniques (1)

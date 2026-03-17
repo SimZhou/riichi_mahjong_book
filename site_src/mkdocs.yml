@@ -234,6 +234,9 @@ extra:
       naki11:
         title: Atozuke (1)
         path: en/naki/naki11.html
+      naki12:
+        title: Atozuke (2)
+        path: en/naki/naki12.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
