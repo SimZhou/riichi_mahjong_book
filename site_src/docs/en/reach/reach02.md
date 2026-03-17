@@ -139,6 +139,6 @@ Original Japanese page: <http://beginners.biz/reach/reach02.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="reach01.html">Previous: Advantages and Disadvantages of Riichi</a>
-  <a class="page-nav__link page-nav__link--next" href="../../reach/reach03.html">Continue in Chinese: Riichi or Damaten? (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="reach03.html">Next: Riichi or Damaten? (2)</a>
 </div>
 <!-- PAGE NAV END -->

@@ -17,7 +17,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/index.html
 2. [Riichi or Damaten? (1)](./reach02.md)
    Once you understand the pros and cons, you can start thinking about actual riichi decisions.
 
-3. Riichi or Damaten? (2)
+3. [Riichi or Damaten? (2)](./reach03.md)
    This page focuses on hands that still have room to improve. Should you stay dama and wait for a better hand, or riichi immediately?
 
 4. Riichi or Damaten? (3)

@@ -1,5 +1,6 @@
 ---
 description: 立直还是默听（2）：这一页继续讨论该不该立直。 第二次来看看“等待已经足够好”的情况。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/reach/reach03.html
 ---
 
 # 立直还是默听（2）
