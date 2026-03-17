@@ -1,5 +1,6 @@
 ---
 description: 立直理论（1）：初学者里很常见的一种情况是， 默听转了好几巡，结果突然某一巡摸切立直。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/reach/reach05.html
 ---
 
 # 立直理论（1）

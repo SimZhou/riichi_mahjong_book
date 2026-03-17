@@ -23,7 +23,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/index.html
 4. [Riichi or Damaten? (3)](./reach04.md)
    What should you do when you reach tenpai with a poor wait?
 
-5. Riichi Theory (1)
+5. [Riichi Theory (1)](./reach05.md)
    This page introduces some of the basic theory behind riichi.
 
 6. Riichi Theory (2)

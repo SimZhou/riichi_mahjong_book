@@ -201,6 +201,6 @@ Original Japanese page: <http://beginners.biz/reach/reach04.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="reach03.html">Previous: Riichi or Damaten? (2)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../reach/reach05.html">Continue in Chinese: Riichi Theory (1)</a>
+  <a class="page-nav__link page-nav__link--next" href="reach05.html">Next: Riichi Theory (1)</a>
 </div>
 <!-- PAGE NAV END -->
