@@ -38,7 +38,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 9. [Toitoi](./naki09.md)
    A yaku that beginners especially like, but of course there are also cases where you should not aim for Toitoi.
 
-10. Honitsu
+10. [Honitsu](./naki10.md)
    In a Honitsu hand, there are tiles you should not call on. What kind of tiles are they?
 
 11. Atozuke (1)

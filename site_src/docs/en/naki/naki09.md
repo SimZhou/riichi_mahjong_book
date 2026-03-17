@@ -135,6 +135,6 @@ Original Japanese page: <http://beginners.biz/naki/naki09.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="naki08.html">Previous: Open Tanyao</a>
-  <a class="page-nav__link page-nav__link--next" href="../../naki/naki10.html">Continue in Chinese: Honitsu</a>
+  <a class="page-nav__link page-nav__link--next" href="naki10.html">Next: Honitsu</a>
 </div>
 <!-- PAGE NAV END -->

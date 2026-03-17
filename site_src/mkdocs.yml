@@ -228,6 +228,9 @@ extra:
       naki09:
         title: Toitoi
         path: en/naki/naki09.html
+      naki10:
+        title: Honitsu
+        path: en/naki/naki10.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

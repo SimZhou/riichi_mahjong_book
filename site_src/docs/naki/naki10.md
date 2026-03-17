@@ -1,5 +1,6 @@
 ---
 description: 混一色：混一色因为只要把一种花色和字牌集中起来，作业式地去收集就能做成， 所以非常受初学者欢迎。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki10.html
 ---
 
 # 混一色
