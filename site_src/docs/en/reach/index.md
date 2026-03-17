@@ -29,7 +29,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/index.html
 6. [Riichi Theory (2)](./reach06.md)
    A continuation of the previous page. It goes deeper into riichi theory and also touches on the idea of a "strong discard pond."
 
-7. Choosing Riichi Waits (1)
+7. [Choosing Riichi Waits (1)](./reach07.md)
    If you can choose between different waits when declaring riichi, which side should you take?
 
 8. Choosing Riichi Waits (2)

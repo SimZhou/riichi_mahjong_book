@@ -269,6 +269,9 @@ extra:
       reach06:
         title: Riichi Theory (2)
         path: en/reach/reach06.html
+      reach07:
+        title: Choosing Riichi Waits (1)
+        path: en/reach/reach07.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

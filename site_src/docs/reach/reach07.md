@@ -1,5 +1,6 @@
 ---
 description: 立直取听（1）：如果两种等待的枚数有差别，就尽量选择和牌张数更多的那一边。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/reach/reach07.html
 ---
 
 # 立直取听（1）
