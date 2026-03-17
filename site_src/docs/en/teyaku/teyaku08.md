@@ -99,6 +99,6 @@ Original Japanese page: <http://beginners.biz/teyaku/teyaku08.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="teyaku07.html">Previous Page: Flushes (2)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../teyaku/teyaku09.html">Continue in Chinese: Pair Hands (1)</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku09.html">Next Page: Pair Hands (1)</a>
 </div>
 <!-- PAGE NAV END -->

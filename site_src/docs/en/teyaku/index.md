@@ -35,7 +35,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/index.html
 8. **[Sanshoku](./teyaku08.md)**
    Be careful not to overlook Sanshoku by accident. This page introduces several practical patterns related to it.
 
-9. **Pair Hands (1)**
+9. **[Pair Hands (1)](./teyaku09.md)**
    The branching point between Chiitoitsu and Toitoi.
 
 10. **Pair Hands (2)**

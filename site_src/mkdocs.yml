@@ -163,6 +163,9 @@ extra:
       teyaku08:
         title: Sanshoku
         path: en/teyaku/teyaku08.html
+      teyaku09:
+        title: Pair Hands (1)
+        path: en/teyaku/teyaku09.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

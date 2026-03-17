@@ -1,5 +1,6 @@
 ---
 description: 对子手（1）：从七对子听牌切换成对对和，是坏手。 就算场上打出能碰的牌，也不要动，等整理成好的单骑待之后立直才对。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/teyaku/teyaku09.html
 ---
 
 # 对子手（1）
