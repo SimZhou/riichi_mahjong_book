@@ -1,5 +1,6 @@
 ---
 description: 三色：曾几何时，被视为手役花形的三色同顺， 到了现代麻将里，已经成了配角。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/teyaku/teyaku08.html
 ---
 
 # 三色

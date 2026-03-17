@@ -32,7 +32,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/index.html
 7. **[Flushes (2)](./teyaku07.md)**
    Continuing from the previous page: practical patterns for Honitsu and the points you must watch when aiming at a flush.
 
-8. **Sanshoku**
+8. **[Sanshoku](./teyaku08.md)**
    Be careful not to overlook Sanshoku by accident. This page introduces several practical patterns related to it.
 
 9. **Pair Hands (1)**
