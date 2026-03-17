@@ -97,6 +97,6 @@ Original Japanese page: <http://beginners.biz/mamori/mamori08.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="mamori07.html">Previous: Folding Procedure (2)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../mamori/mamori09.md">Continue in Chinese: Maneuvering</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori09.html">Next: Maneuvering</a>
 </div>
 <!-- PAGE NAV END -->

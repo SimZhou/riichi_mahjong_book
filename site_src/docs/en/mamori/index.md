@@ -35,7 +35,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 8. [Folding Procedure (3)](./mamori08.md)
    Once you understand the theory, it is time to think through concrete examples.
 
-9. Maneuvering
+9. [Maneuvering](./mamori09.md)
    This page introduces maneuvering: a way to keep danger down while still leaving yourself a path to win.
 
 10. Defense Against Open Hands

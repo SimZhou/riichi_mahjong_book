@@ -304,6 +304,9 @@ extra:
       mamori08:
         title: Folding Procedure (3)
         path: en/mamori/mamori08.html
+      mamori09:
+        title: Maneuvering
+        path: en/mamori/mamori09.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

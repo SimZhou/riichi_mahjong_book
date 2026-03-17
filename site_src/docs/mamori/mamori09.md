@@ -1,5 +1,6 @@
 ---
 description: 迂回打法：所谓迂回打法，就是一边压住危险牌，一边仍尽量朝和牌或至少听牌前进的打法。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori09.html
 ---
 
 # 迂回打法
