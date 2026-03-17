@@ -151,6 +151,9 @@ extra:
       teyaku04:
         title: Pinfu
         path: en/teyaku/teyaku04.html
+      teyaku05:
+        title: Tanyao
+        path: en/teyaku/teyaku05.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

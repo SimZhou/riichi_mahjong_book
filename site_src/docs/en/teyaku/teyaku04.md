@@ -131,6 +131,6 @@ Original Japanese page: <http://beginners.biz/teyaku/teyaku04.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="teyaku03.html">Previous Page: Yakuhai</a>
-  <a class="page-nav__link page-nav__link--next" href="../../teyaku/teyaku05.html">Continue in Chinese: Tanyao</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku05.html">Next Page: Tanyao</a>
 </div>
 <!-- PAGE NAV END -->

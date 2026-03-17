@@ -23,7 +23,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/index.html
 4. **[Pinfu](./teyaku04.md)**
    Pinfu is a sequence-based yaku with a high appearance rate, and it is often called one of mahjong’s fundamental yaku.
 
-5. **Tanyao**
+5. **[Tanyao](./teyaku05.md)**
    In red-five mahjong, this is an extremely important yaku.
 
 6. **Flushes (1)**

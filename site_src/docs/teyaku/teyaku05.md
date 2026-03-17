@@ -1,5 +1,6 @@
 ---
 description: 断幺九：断幺九最大的卖点，说到底就只有一个： **就算副露了也能和牌。**
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/teyaku/teyaku05.html
 ---
 
 # 断幺九
