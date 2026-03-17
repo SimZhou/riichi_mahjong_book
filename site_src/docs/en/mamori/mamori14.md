@@ -373,6 +373,6 @@ Original Japanese page: <http://beginners.biz/mamori/mamori14.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="mamori13.html">Previous: How to Avoid Dealing In</a>
-  <a class="page-nav__link page-nav__link--next" href="../../mamori/mamori15.md">Continue in Chinese: Reading Riichi (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori15.html">Next: Reading Riichi (2)</a>
 </div>
 <!-- PAGE NAV END -->

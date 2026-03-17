@@ -322,6 +322,9 @@ extra:
       mamori14:
         title: Reading Riichi (1)
         path: en/mamori/mamori14.html
+      mamori15:
+        title: Reading Riichi (2)
+        path: en/mamori/mamori15.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

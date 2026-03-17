@@ -53,7 +53,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 14. [Reading Riichi (1)](./mamori14.md)
    Learn which especially dangerous tiles can be inferred from characteristic riichi discard rows.
 
-15. Reading Riichi (2)
+15. [Reading Riichi (2)](./mamori15.md)
    A continuation of the previous page. This time the focus is on reading safe tiles.
 
 ---
