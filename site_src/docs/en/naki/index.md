@@ -26,7 +26,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 5. [Kan (1)](./naki05.md)
    Just like pon and chi, kan also has both merits and drawbacks.
 
-6. Kan (2)
+6. [Kan (2)](./naki06.md)
    Cases where you technically can kan, but should not.
 
 7. Calling and Shanten Count

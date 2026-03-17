@@ -216,6 +216,9 @@ extra:
       naki05:
         title: Kan (1)
         path: en/naki/naki05.html
+      naki06:
+        title: Kan (2)
+        path: en/naki/naki06.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

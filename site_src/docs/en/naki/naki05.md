@@ -149,6 +149,6 @@ Original Japanese page: <http://beginners.biz/naki/naki05.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="naki04.html">Previous: Pon and Chi (2)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../naki/naki06.html">Continue in Chinese: Kan (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="naki06.html">Next: Kan (2)</a>
 </div>
 <!-- PAGE NAV END -->

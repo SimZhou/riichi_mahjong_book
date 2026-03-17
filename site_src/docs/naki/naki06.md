@@ -1,5 +1,6 @@
 ---
 description: 杠（2）：在这种更可能是别人和牌的局里，主动把宝牌加给全桌，本来就是吃亏的行为。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki06.html
 ---
 
 # 杠（2）
