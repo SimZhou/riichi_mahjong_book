@@ -20,7 +20,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 3. [Suji (1)](./mamori03.md)
    Learn the theory of suji, which helps you avoid dealing into ryanmen waits.
 
-4. Suji (2)
+4. [Suji (2)](./mamori04.md)
    A continuation of the previous page, with a more detailed look at suji.
 
 5. Kabe

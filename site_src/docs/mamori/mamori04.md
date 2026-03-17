@@ -1,5 +1,6 @@
 ---
 description: 筋牌（2）：这一页继续把筋往前讲深一点。 筋是麻将里最重要的概念之一，但也最容易被误用。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori04.html
 ---
 
 # 筋牌（2）
