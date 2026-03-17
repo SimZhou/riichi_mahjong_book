@@ -158,6 +158,6 @@ Original Japanese page: <http://beginners.biz/reach/reach07.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="reach06.html">Previous: Riichi Theory (2)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../reach/reach08.html">Continue in Chinese: Choosing Riichi Waits (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="reach08.html">Next: Choosing Riichi Waits (2)</a>
 </div>
 <!-- PAGE NAV END -->

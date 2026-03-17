@@ -32,7 +32,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/index.html
 7. [Choosing Riichi Waits (1)](./reach07.md)
    If you can choose between different waits when declaring riichi, which side should you take?
 
-8. Choosing Riichi Waits (2)
+8. [Choosing Riichi Waits (2)](./reach08.md)
    This page looks at cases where one option has fewer tiles but higher value, while the other has more tiles but lower value.
 
 ---

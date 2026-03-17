@@ -272,6 +272,9 @@ extra:
       reach07:
         title: Choosing Riichi Waits (1)
         path: en/reach/reach07.html
+      reach08:
+        title: Choosing Riichi Waits (2)
+        path: en/reach/reach08.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

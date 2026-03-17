@@ -1,5 +1,6 @@
 ---
 description: 立直取听（2）：上一页先看了比较单纯的取听：等待枚数、打点、以及牌本身的容易打出程度。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/reach/reach08.html
 ---
 
 # 立直取听（2）
