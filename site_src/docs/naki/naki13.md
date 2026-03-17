@@ -1,5 +1,6 @@
 ---
 description: 鸣牌技巧（1）：接下来分 3 页介绍一些实战里很有用的副露技巧。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki13.html
 ---
 
 # 鸣牌技巧（1）

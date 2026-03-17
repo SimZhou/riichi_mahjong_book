@@ -47,7 +47,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 12. [Atozuke (2)](./naki12.md)
    Hands and situations where it is better to call with atozuke than to keep pushing the hand closed.
 
-13. Calling Techniques (1)
+13. [Calling Techniques (1)](./naki13.md)
    Learn some practical calling techniques you can actually use in real games. Calling skill directly affects your win rate.
 
 14. Calling Techniques (2)
