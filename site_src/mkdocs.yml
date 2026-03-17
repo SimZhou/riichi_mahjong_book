@@ -254,6 +254,9 @@ extra:
       reach01:
         title: Advantages and Disadvantages of Riichi
         path: en/reach/reach01.html
+      reach02:
+        title: Riichi or Damaten? (1)
+        path: en/reach/reach02.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

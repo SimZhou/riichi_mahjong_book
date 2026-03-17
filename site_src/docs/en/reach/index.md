@@ -14,7 +14,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/index.html
 1. [Advantages and Disadvantages of Riichi](./reach01.md)
    Riichi is one of the most important yaku in the game. Start by understanding both what it gives you and what it costs you.
 
-2. Riichi or Damaten? (1)
+2. [Riichi or Damaten? (1)](./reach02.md)
    Once you understand the pros and cons, you can start thinking about actual riichi decisions.
 
 3. Riichi or Damaten? (2)
