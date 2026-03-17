@@ -87,7 +87,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <span>Some players underestimate defense, but defensive skill directly affects long-term results. Reducing unnecessary deal-ins can improve your results dramatically.</span>
     </div>
   </a>
-  <div class="home-card">
+  <a class="home-card" href="./joukyou/index.html">
     <div class="home-card__media">
       <img src="../images/top8_off.jpg" alt="Chapter 8: Situational Judgment" />
     </div>
@@ -95,7 +95,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <strong>Chapter 8: Situational Judgment</strong>
       <span>Even with the same hand, the correct strategy often changes depending on discards, table information, and score situation. The key is identifying what matters most for winning the game right now.</span>
     </div>
-  </div>
+  </a>
   <div class="home-card">
     <div class="home-card__media">
       <img src="../images/top9_off.jpg" alt="Chapter 9: Push and Fold" />

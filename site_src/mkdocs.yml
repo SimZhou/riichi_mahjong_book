@@ -325,6 +325,11 @@ extra:
       mamori15:
         title: Reading Riichi (2)
         path: en/mamori/mamori15.html
+    joukyou:
+      title: "Chapter 8: Situational Judgment"
+      overview:
+        title: Overview
+        path: en/joukyou/index.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
