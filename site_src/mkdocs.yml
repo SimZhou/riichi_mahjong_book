@@ -246,6 +246,11 @@ extra:
       naki15:
         title: Calling Techniques (3)
         path: en/naki/naki15.html
+    reach:
+      title: "Chapter 6: Riichi"
+      overview:
+        title: Overview
+        path: en/reach/index.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

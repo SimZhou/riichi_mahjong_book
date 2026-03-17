@@ -321,6 +321,8 @@
 
 
 
+
+
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="https://simzhou.com/riichi_mahjong_book/en/index.html" title="Japanese Mahjong: From Beginner to Master" class="md-nav__button md-logo" aria-label="Japanese Mahjong: From Beginner to Master" data-md-component="logo">
@@ -889,8 +891,29 @@
         </ul>
       </nav>
     </li>
-    <li class="md-nav__item">
-      <span class="md-nav__link"><span class="md-ellipsis">Chapter 6: Riichi</span></span>
+    <li class="md-nav__item md-nav__item--nested">
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__nav_en_reach" >
+      <div class="md-nav__link md-nav__container">
+        <a href="https://simzhou.com/riichi_mahjong_book/en/reach/index.html" class="md-nav__link">
+          <span class="md-ellipsis">Chapter 6: Riichi</span>
+        </a>
+        <label class="md-nav__link" for="__nav_en_reach" id="__nav_en_reach_label" tabindex="0">
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      </div>
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_en_reach_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_en_reach">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 6: Riichi
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          <li class="md-nav__item">
+            <a href="https://simzhou.com/riichi_mahjong_book/en/reach/index.html" class="md-nav__link">
+              <span class="md-ellipsis">Overview</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
     </li>
     <li class="md-nav__item">
       <span class="md-nav__link"><span class="md-ellipsis">Chapter 7: Defense</span></span>
@@ -1039,7 +1062,7 @@
       <span>Calling is one of the clearest areas where strong and weak players separate. As modern mahjong keeps getting faster, you need to understand what pon and chi really mean in practice.</span>
     </div>
   </a>
-  <div class="home-card">
+  <a class="home-card" href="./reach/index.html">
     <div class="home-card__media">
       <img src="../images/top6_off.jpg" alt="Chapter 6: Riichi" />
     </div>
@@ -1047,7 +1070,7 @@
       <strong>Chapter 6: Riichi</strong>
       <span>Riichi is not just a declaration. It comes with both benefits and costs, so the real question is whether this riichi is truly necessary.</span>
     </div>
-  </div>
+  </a>
   <div class="home-card">
     <div class="home-card__media">
       <img src="../images/top7_off.jpg" alt="Chapter 7: Defense" />

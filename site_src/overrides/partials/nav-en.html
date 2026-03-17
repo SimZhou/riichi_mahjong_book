@@ -4,6 +4,7 @@
 {% set yaku = en_nav.yaku if en_nav and en_nav.yaku else {} %}
 {% set dora = en_nav.dora if en_nav and en_nav.dora else {} %}
 {% set calling = en_nav.calling if en_nav and en_nav.calling else {} %}
+{% set reach = en_nav.reach if en_nav and en_nav.reach else {} %}
 {% set en_site_title = "Japanese Mahjong: From Beginner to Master" %}
 {% set current_url = page.url if page and page.url else '' %}
 {% set basics_active = current_url.startswith('en/kihon/') %}
@@ -11,6 +12,7 @@
 {% set yaku_active = current_url.startswith('en/teyaku/') %}
 {% set dora_active = current_url.startswith('en/dora/') %}
 {% set calling_active = current_url.startswith('en/naki/') %}
+{% set reach_active = current_url.startswith('en/reach/') %}
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
@@ -577,8 +579,29 @@
         </ul>
       </nav>
     </li>
-    <li class="md-nav__item">
-      <span class="md-nav__link"><span class="md-ellipsis">Chapter 6: Riichi</span></span>
+    <li class="md-nav__item md-nav__item--nested{% if reach_active %} md-nav__item--active{% endif %}">
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__nav_en_reach" {% if reach_active %}checked{% endif %}>
+      <div class="md-nav__link md-nav__container">
+        <a href="{{ config.site_url ~ reach.overview.path }}" class="md-nav__link{% if current_url == reach.overview.path %} md-nav__link--active{% endif %}">
+          <span class="md-ellipsis">{{ reach.title }}</span>
+        </a>
+        <label class="md-nav__link{% if current_url == reach.overview.path %} md-nav__link--active{% endif %}" for="__nav_en_reach" id="__nav_en_reach_label" tabindex="0">
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      </div>
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_en_reach_label" aria-expanded="{{ reach_active | tojson }}">
+        <label class="md-nav__title" for="__nav_en_reach">
+          <span class="md-nav__icon md-icon"></span>
+          {{ reach.title }}
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          <li class="md-nav__item{% if current_url == reach.overview.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ reach.overview.path }}" class="md-nav__link{% if current_url == reach.overview.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ reach.overview.title }}</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
     </li>
     <li class="md-nav__item">
       <span class="md-nav__link"><span class="md-ellipsis">Chapter 7: Defense</span></span>

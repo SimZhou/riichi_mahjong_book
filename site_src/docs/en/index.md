@@ -69,7 +69,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <span>Calling is one of the clearest areas where strong and weak players separate. As modern mahjong keeps getting faster, you need to understand what pon and chi really mean in practice.</span>
     </div>
   </a>
-  <div class="home-card">
+  <a class="home-card" href="./reach/index.html">
     <div class="home-card__media">
       <img src="../images/top6_off.jpg" alt="Chapter 6: Riichi" />
     </div>
@@ -77,7 +77,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <strong>Chapter 6: Riichi</strong>
       <span>Riichi is not just a declaration. It comes with both benefits and costs, so the real question is whether this riichi is truly necessary.</span>
     </div>
-  </div>
+  </a>
   <div class="home-card">
     <div class="home-card__media">
       <img src="../images/top7_off.jpg" alt="Chapter 7: Defense" />
