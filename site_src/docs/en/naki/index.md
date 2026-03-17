@@ -41,7 +41,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 10. [Honitsu](./naki10.md)
    In a Honitsu hand, there are tiles you should not call on. What kind of tiles are they?
 
-11. Atozuke (1)
+11. [Atozuke (1)](./naki11.md)
    Calling other parts of the hand before your yaku is confirmed is called *atozuke*.
 
 12. Atozuke (2)

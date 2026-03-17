@@ -1,5 +1,6 @@
 ---
 description: 后付（1）：这里如果先从 开始鸣，这是最普通、最常见的仕挂方式，也就是图 2。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki11.html
 ---
 
 # 后付（1）

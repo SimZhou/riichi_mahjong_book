@@ -231,6 +231,9 @@ extra:
       naki10:
         title: Honitsu
         path: en/naki/naki10.html
+      naki11:
+        title: Atozuke (1)
+        path: en/naki/naki11.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

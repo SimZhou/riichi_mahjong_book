@@ -135,6 +135,6 @@ Original Japanese page: <http://beginners.biz/naki/naki10.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="naki09.html">Previous: Toitoi</a>
-  <a class="page-nav__link page-nav__link--next" href="../../naki/naki11.html">Continue in Chinese: Atozuke (1)</a>
+  <a class="page-nav__link page-nav__link--next" href="naki11.html">Next: Atozuke (1)</a>
 </div>
 <!-- PAGE NAV END -->
