@@ -333,6 +333,9 @@ extra:
       joukyou01:
         title: Situational Judgment Basics
         path: en/joukyou/joukyou01.html
+      joukyou02:
+        title: Playing With Rank Awareness
+        path: en/joukyou/joukyou02.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

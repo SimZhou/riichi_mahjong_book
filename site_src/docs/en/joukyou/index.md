@@ -14,7 +14,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/index.html
 1. [Situational Judgment Basics](./joukyou01.md)
    Mahjong is not a game you play in isolation. You always need to keep the overall situation in mind while choosing your tiles.
 
-2. Playing With Rank Awareness
+2. [Playing With Rank Awareness](./joukyou02.md)
    Whether you care about placement points or raw score, you need a style of play that is conscious of rank.
 
 3. Situation and Hand-Building (1)

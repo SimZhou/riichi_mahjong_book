@@ -1,5 +1,6 @@
 ---
 description: 关注名次：为什么点棒状况重要？ 因为麻将里还有 **乌马** 和 **冈** 这两种顺位点。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/joukyou/joukyou02.html
 ---
 
 # 关注名次
