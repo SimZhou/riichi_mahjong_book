@@ -35,7 +35,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/index.html
 8. [South 4 Strategy (2)](./joukyou08.md)
    Explains situations where you should still attack even while holding first place in South 4.
 
-9. South 4 Strategy (3)
+9. [South 4 Strategy (3)](./joukyou09.md)
    Introduces cases where special options such as assisting another player, declaring noten, or passing on a ron become effective.
 
 ---

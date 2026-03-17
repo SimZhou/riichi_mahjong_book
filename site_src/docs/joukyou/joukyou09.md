@@ -1,5 +1,6 @@
 ---
 description: 最终局战术（3）：下面举几个例子，来介绍最终局特殊条件下的战术和局势判断。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/joukyou/joukyou09.html
 ---
 
 # 最终局战术（3）
