@@ -1,5 +1,6 @@
 ---
 description: 筋牌（1）：立直一出来，最需要优先警戒的就是**两面听牌**。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori03.html
 ---
 
 # 筋牌（1）

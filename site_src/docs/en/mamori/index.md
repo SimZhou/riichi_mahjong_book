@@ -17,7 +17,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 2. [Safe Tiles](./mamori02.md)
    Learn about completely safe tiles: tiles that can never be won on by ron.
 
-3. Suji (1)
+3. [Suji (1)](./mamori03.md)
    Learn the theory of suji, which helps you avoid dealing into ryanmen waits.
 
 4. Suji (2)

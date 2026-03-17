@@ -286,6 +286,9 @@ extra:
       mamori02:
         title: Safe Tiles
         path: en/mamori/mamori02.html
+      mamori03:
+        title: Suji (1)
+        path: en/mamori/mamori03.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
