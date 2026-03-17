@@ -319,6 +319,9 @@ extra:
       mamori13:
         title: How to Avoid Dealing In
         path: en/mamori/mamori13.html
+      mamori14:
+        title: Reading Riichi (1)
+        path: en/mamori/mamori14.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

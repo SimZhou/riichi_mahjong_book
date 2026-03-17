@@ -50,7 +50,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 13. [How to Avoid Dealing In](./mamori13.md)
    This page introduces ways to improve defense, in other words, to lower your deal-in rate.
 
-14. Reading Riichi (1)
+14. [Reading Riichi (1)](./mamori14.md)
    Learn which especially dangerous tiles can be inferred from characteristic riichi discard rows.
 
 15. Reading Riichi (2)
