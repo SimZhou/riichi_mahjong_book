@@ -14,7 +14,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 1. [Advantages and Disadvantages of Calling](./naki01.md)
    To use calling well, you first need to understand its strengths and weaknesses. This is also called *furo* or an open-call hand.
 
-2. The Basics of Calling Decisions
+2. [The Basics of Calling Decisions](./naki02.md)
    How should you decide whether to call or not?
 
 3. Pon and Chi (1)

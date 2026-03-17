@@ -204,6 +204,9 @@ extra:
       naki01:
         title: Advantages and Disadvantages of Calling
         path: en/naki/naki01.html
+      naki02:
+        title: The Basics of Calling Decisions
+        path: en/naki/naki02.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

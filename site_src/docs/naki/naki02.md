@@ -1,5 +1,6 @@
 ---
 description: 副露判断基础：接着上一页，来想一想到底该怎样判断：鸣，还是不鸣。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki02.html
 ---
 
 # 副露判断基础

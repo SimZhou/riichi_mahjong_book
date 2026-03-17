@@ -156,6 +156,6 @@ Original Japanese page: <http://beginners.biz/naki/naki01.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="index.html">Back to Overview: Calling</a>
-  <a class="page-nav__link page-nav__link--next" href="../../naki/naki02.html">Continue in Chinese: The Basics of Calling Decisions</a>
+  <a class="page-nav__link page-nav__link--next" href="naki02.html">Next: The Basics of Calling Decisions</a>
 </div>
 <!-- PAGE NAV END -->
