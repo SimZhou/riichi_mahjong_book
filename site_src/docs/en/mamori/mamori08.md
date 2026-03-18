@@ -2,7 +2,6 @@
 title: "Folding Procedure (3)"
 description: "An English translation of the third full-folding procedure page, using two practical defense examples and explaining why outer suji farther from the riichi declaration tile is usually safer."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori08.html
 ---
 

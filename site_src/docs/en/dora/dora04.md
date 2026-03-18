@@ -2,7 +2,6 @@
 title: "When to Cut a Dora"
 description: "An English translation of the page on the best timing for cutting dora, especially when the dora is also a value honor."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/dora04.html
 ---
 

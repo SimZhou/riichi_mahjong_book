@@ -2,7 +2,6 @@
 title: "Reading Riichi (2)"
 description: "An English translation of the second riichi-reading page, focusing on how to infer hidden safe tiles from characteristic riichi discard rows, including matagi-suji before safe tiles, reverse-cut matagi-suji, and cases where shanpon or kanchan waits can be denied."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori15.html
 ---
 

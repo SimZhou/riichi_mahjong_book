@@ -2,7 +2,6 @@
 title: Flushes (2)
 description: "An English translation of the page on transition play, advance discards, and stronger shape reading when aiming for honitsu."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/teyaku07.html
 ---
 

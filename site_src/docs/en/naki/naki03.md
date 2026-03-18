@@ -2,7 +2,6 @@
 title: "Pon and Chi (1)"
 description: "An English translation of the page comparing pon and chi, including their relative speed, how to use chi to cancel ippatsu, and when pon is better than chi."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki03.html
 ---
 

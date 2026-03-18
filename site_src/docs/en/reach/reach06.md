@@ -2,7 +2,6 @@
 title: "Riichi Theory (2)"
 description: "An English translation of the page covering three practical riichi principles: cut inside for riichi, prefer concealed triplets, and keep your discard row as information-poor as possible."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/reach06.html
 ---
 

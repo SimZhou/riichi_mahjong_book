@@ -2,7 +2,6 @@
 title: "Honitsu"
 description: "An English translation of the page explaining when to keep Honitsu closed, which tiles to call, and why careless calls often break the hand shape."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki10.html
 ---
 

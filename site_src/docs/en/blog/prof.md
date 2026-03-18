@@ -2,7 +2,6 @@
 title: Author Profile
 description: An English profile page summarizing the author background, site operator information, and related notes from the original site's profile section.
 locale: en_US
-robots: noindex, nofollow
 image: https://simzhou.com/riichi_mahjong_book/images/top-image_off.jpg
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/blog/prof.html
 ---

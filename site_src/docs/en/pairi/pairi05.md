@@ -2,7 +2,6 @@
 title: Taatsu Theory (2)
 description: An English translation of the page explaining ryan-kan shapes, the choice between ryan-kan and shanpon-style acceptance, easy-to-miss ryan-kan forms, and irregular ryan-kan patterns.
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi05.html
 ---
 

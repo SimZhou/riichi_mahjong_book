@@ -2,7 +2,6 @@
 title: "How to Handle Dora (2)"
 description: "An English translation of the page on how to use the dora already in your hand to the fullest, and how discard choices affect whether those dora survive into tenpai."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/dora02.html
 ---
 

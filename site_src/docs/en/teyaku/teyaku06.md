@@ -2,7 +2,6 @@
 title: Flushes (1)
 description: "An English translation of the page on when to aim for honitsu or chinitsu from your starting hand, and when forcing a flush is a mistake."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/teyaku06.html
 ---
 

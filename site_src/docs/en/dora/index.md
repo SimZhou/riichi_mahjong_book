@@ -3,7 +3,6 @@ title: "Chapter 4: Dora and Red Fives"
 description: "An English overview of the chapter on dora and red fives, covering dora acceptance, cutting dora, choosing between dora and yaku, and red-five mahjong."
 image: https://simzhou.com/riichi_mahjong_book/images/top-image7.jpg
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/index.html
 ---
 

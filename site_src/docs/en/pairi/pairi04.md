@@ -2,7 +2,6 @@
 title: Taatsu Theory (1)
 description: An English translation of the page comparing taatsu by acceptance count and shape-improvement potential, using six one-shanten examples with taatsu-overload shapes.
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi04.html
 ---
 

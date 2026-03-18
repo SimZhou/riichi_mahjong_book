@@ -2,7 +2,6 @@
 title: "Calling Techniques (3)"
 description: "An English translation of the page covering calling tricks used not to advance your own hand, but to interfere with an opponent's win."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki15.html
 ---
 

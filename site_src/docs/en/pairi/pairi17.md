@@ -2,7 +2,6 @@
 title: Tile Theory at One-Shanten (5)
 description: "An English translation of the page continuing headless one-shanten theory, focusing on cases with only one taatsu left and how to compare acceptance, good-shape improvements, and final wait quality."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi17.html
 ---
 

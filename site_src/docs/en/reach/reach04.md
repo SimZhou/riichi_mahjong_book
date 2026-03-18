@@ -2,7 +2,6 @@
 title: "Riichi or Damaten? (3)"
 description: "An English translation of the page discussing poor waits, including no-yaku tenpai, tenpai refusal, yaku-backed tenpai, and when bad-shape riichi is still correct."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/reach04.html
 ---
 

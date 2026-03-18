@@ -2,7 +2,6 @@
 title: "Pair Hands (1)"
 description: "An English translation of the page on when to choose Chiitoitsu or Toitoi, especially with six pairs, five pairs, or one concealed triplet already formed."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/teyaku09.html
 ---
 

@@ -2,7 +2,6 @@
 title: Tanyao
 description: "An English translation of the page on steering hands toward tanyao, locking tanyao in, and choosing discards with open tanyao in mind."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/teyaku05.html
 ---
 

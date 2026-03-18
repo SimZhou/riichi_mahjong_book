@@ -2,7 +2,6 @@
 title: "Playing With Rank Awareness"
 description: "An English translation of the second situational judgment page, explaining why score position matters in mahjong, how uma and oka work, and why you should always play with final placement in mind."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/joukyou02.html
 ---
 

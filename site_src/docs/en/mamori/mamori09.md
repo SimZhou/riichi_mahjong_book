@@ -2,7 +2,6 @@
 title: "Maneuvering"
 description: "An English translation of the maneuvering page in the defense chapter, covering pair drops, taatsu drops, triplet drops, and chiitoitsu as ways to keep danger down while still aiming for a win or at least tenpai."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori09.html
 ---
 

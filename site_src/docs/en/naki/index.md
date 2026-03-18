@@ -3,7 +3,6 @@ title: "Chapter 5: Calling"
 description: "An English overview of the chapter on calling, covering the pros and cons of open hands, pon and chi, kan, open tanyao, Toitoi, Honitsu, atozuke, and calling techniques."
 image: https://simzhou.com/riichi_mahjong_book/images/top-image8.jpg
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 ---
 

@@ -3,7 +3,6 @@ title: "Chapter 3: Yaku"
 description: Chapter 3 of the English mahjong beginner guide, covering how to think about yaku, yakuhai, pinfu, tanyao, flushes, sanshoku, and pair-based hands.
 image: https://simzhou.com/riichi_mahjong_book/images/top-image6.jpg
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/index.html
 ---
 

@@ -2,7 +2,6 @@
 title: Full Site Map
 description: A complete site map page listing every chapter and appendix page in the rebuilt Japanese Mahjong guide for easy navigation.
 locale: en_US
-robots: noindex, nofollow
 image: https://simzhou.com/riichi_mahjong_book/images/top-image_off.jpg
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/sitemap/index.html
 ---

@@ -2,7 +2,6 @@
 title: Yakuhai
 description: "An English translation of the page on keeping value honors, choosing between yakuhai and tanyao, and when to call value tiles immediately."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/teyaku03.html
 ---
 

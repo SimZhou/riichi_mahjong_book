@@ -2,7 +2,6 @@
 title: "Toitoi"
 description: "An English translation of the page explaining when Toitoi is worth aiming for, when Chiitoitsu is better, and why forcing Toitoi too hard is a mistake."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki09.html
 ---
 

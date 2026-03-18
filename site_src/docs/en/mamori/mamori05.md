@@ -2,7 +2,6 @@
 title: "Kabe"
 description: "An English translation of the kabe page in the defense chapter, covering no-chance walls, one-chance, double one-chance, and how to use visible walls to find safer discards."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori05.html
 ---
 

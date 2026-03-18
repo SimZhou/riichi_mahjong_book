@@ -2,7 +2,6 @@
 title: "How to Avoid Dealing In"
 description: "An English translation of the page on improving defense further, covering keeping a safe tile, cutting the safer tile, and the so-called Anaguma strategy."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori13.html
 ---
 

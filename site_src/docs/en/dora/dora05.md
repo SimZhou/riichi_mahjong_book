@@ -2,7 +2,6 @@
 title: "Choosing Between Dora and Yaku"
 description: "An English translation of the page on how to choose between preserving dora and pursuing yaku, comparing acceptance, hand value, and winning ease."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/dora05.html
 ---
 

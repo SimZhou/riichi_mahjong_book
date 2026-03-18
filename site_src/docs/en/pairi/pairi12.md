@@ -2,7 +2,6 @@
 title: Tile Theory at Two-Shanten (3)
 description: "An English translation of the page explaining other two-shanten patterns, including four taatsu plus a floating tile, headless hands, and hands that can still move smoothly toward Chiitoitsu."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi12.html
 ---
 

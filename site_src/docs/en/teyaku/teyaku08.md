@@ -2,7 +2,6 @@
 title: Sanshoku
 description: "An English translation of the page on slide techniques, balancing two Sanshoku options, and using extra tiles to avoid overlooking Sanshoku."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/teyaku08.html
 ---
 

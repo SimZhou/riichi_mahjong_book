@@ -2,7 +2,6 @@
 title: "Pon and Chi (2)"
 description: "An English translation of the page on choosing better pon material and selecting the best way to expose a chi when multiple calling patterns are available."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki04.html
 ---
 

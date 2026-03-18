@@ -3,7 +3,6 @@ title: "Chapter 9: Push/Fold Decisions"
 description: "An English overview of the push-fold chapter, covering the core principles of push-fold judgment, the materials you should use when deciding, and later practical examples drawn from real hands."
 image: https://simzhou.com/riichi_mahjong_book/images/top-image12.jpg
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/osihiki/index.html
 ---
 

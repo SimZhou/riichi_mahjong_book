@@ -2,7 +2,6 @@
 title: "Defense Fundamentals"
 description: "An English translation of the page introducing basic defense in mahjong, including full folding, maneuvering, and why handling riichi is the heart of defense."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori01.html
 ---
 

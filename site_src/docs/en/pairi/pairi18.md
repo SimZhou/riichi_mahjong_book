@@ -2,7 +2,6 @@
 title: Tile Theory at One-Shanten (6)
 description: "An English translation of the page on kuttsuki one-shanten, explaining why these hands are very wide yet often end in bad waits, and why the count of good-shape tenpai is often the key comparison."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi18.html
 ---
 

@@ -2,7 +2,6 @@
 title: "Tile Restriction (1)"
 description: "An English translation of the first tile restriction page, explaining what restricting calls means, why it works, what it costs, and when it is actually appropriate."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori11.html
 ---
 

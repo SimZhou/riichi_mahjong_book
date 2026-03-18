@@ -2,7 +2,6 @@
 title: "Push/Fold Fundamentals"
 description: "An English translation of the page explaining the core mindset behind push-fold judgment: do not judge by results, play with a clear purpose, and set standards of your own."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/osihiki/osihiki01.html
 ---
 

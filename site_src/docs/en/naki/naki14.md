@@ -2,7 +2,6 @@
 title: "Calling Techniques (2)"
 description: "An English translation of the page introducing advanced open Tanyao techniques in red-five mahjong, focusing on speed, realistic hand value, and practical calling choices."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki14.html
 ---
 

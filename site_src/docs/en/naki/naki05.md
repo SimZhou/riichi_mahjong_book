@@ -2,7 +2,6 @@
 title: "Kan (1)"
 description: "An English translation of the page explaining the main advantages and drawbacks of kan in riichi mahjong, including fu, extra dora, extra draws, and the risks of exposing value."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki05.html
 ---
 

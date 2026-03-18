@@ -2,7 +2,6 @@
 title: Tile Theory in Tenpai
 description: "An English translation of the page on tile theory after reaching tenpai, covering how to compare wait counts, improvement chances, live-table information, and when tanki is better than kanchan or penchan."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi19.html
 ---
 

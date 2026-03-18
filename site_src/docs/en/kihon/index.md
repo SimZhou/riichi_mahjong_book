@@ -2,7 +2,6 @@ title: Chapter 1: Mahjong Basics
 description: Chapter 1 of the English mahjong beginner guide, covering what mahjong is, probability, tenpai and shanten, sets and taatsu, honor and number tiles, pairs, and basic hand shapes.
 image: https://simzhou.com/riichi_mahjong_book/images/top-image4.jpg
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/index.html
 
 # Chapter 1: Mahjong Basics

@@ -2,7 +2,6 @@
 title: "Defense Against Open Hands"
 description: "An English translation of the page on defending against open hands, covering how to read tenpai, estimate hand value, and identify the most dangerous tiles against calls."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori10.html
 ---
 

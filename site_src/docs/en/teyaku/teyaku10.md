@@ -2,7 +2,6 @@
 title: "Pair Hands (2)"
 description: "An English translation of the page on the branching point between Chiitoitsu and regular meld hands, and on choosing better tanki waits for Chiitoitsu."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/teyaku10.html
 ---
 

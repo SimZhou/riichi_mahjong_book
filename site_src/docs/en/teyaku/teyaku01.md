@@ -2,7 +2,6 @@
 title: Thinking About Yaku (1)
 description: "An English translation of the page on how to think about yaku, why chasing difficult yaku too hard often backfires, and which common yaku actually matter most in real play."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/teyaku01.html
 ---
 

@@ -2,7 +2,6 @@
 title: Recommended External Resources
 description: An English appendix page collecting the original site's recommended books, mahjong parlors, mahjong media, online mahjong services, and game resources.
 locale: en_US
-robots: noindex, nofollow
 image: https://simzhou.com/riichi_mahjong_book/images/resource-book-kagaku.jpg
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/blog/resources.html
 ---

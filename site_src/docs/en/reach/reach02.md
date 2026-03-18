@@ -2,7 +2,6 @@
 title: "Riichi or Damaten? (1)"
 description: "An English translation of the page explaining the basic split between riichi and damaten, focusing on hand value, wait quality, and neutral table conditions."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/reach02.html
 ---
 

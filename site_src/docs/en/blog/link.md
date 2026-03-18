@@ -2,7 +2,6 @@
 title: Mahjong Link Directory
 description: An English appendix page collecting external mahjong strategy sites, blogs, pro organizations, mahjong parlors, and free game links from the original site's link section.
 locale: en_US
-robots: noindex, nofollow
 image: https://simzhou.com/riichi_mahjong_book/images/top-image_off.jpg
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/blog/link.html
 ---

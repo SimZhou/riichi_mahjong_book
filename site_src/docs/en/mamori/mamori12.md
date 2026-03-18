@@ -2,7 +2,6 @@
 title: "Tile Restriction (2)"
 description: "An English translation of the second tile restriction page, using concrete examples of flush restriction, yakuhai atozuke restriction, and flexible restriction that also supports your own hand."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori12.html
 ---
 

@@ -2,7 +2,6 @@
 title: "Calling and Shanten Count"
 description: "An English translation of the page explaining how shanten count should guide calling decisions, including calls that do not change shanten and how many open melds your hand can support."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki07.html
 ---
 

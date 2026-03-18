@@ -2,7 +2,6 @@
 title: "South 4 Strategy (1)"
 description: "An English translation of the seventh situational judgment page, covering score gaps after tsumo, how to build comeback hands in South 4, and when speed-only calling becomes correct."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/joukyou07.html
 ---
 

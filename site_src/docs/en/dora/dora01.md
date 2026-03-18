@@ -2,7 +2,6 @@
 title: "How to Handle Dora (1)"
 description: "An English translation of the page on how to preserve dora acceptance, switch shapes to use drawn dora, and avoid wasting valuable dora opportunities."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/dora01.html
 ---
 

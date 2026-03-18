@@ -2,7 +2,6 @@
 title: "Riichi or Damaten? (2)"
 description: "An English translation of the page discussing good waits, why early good-shape tenpai should usually riichi immediately, and why many hand improvements are not worth waiting for."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/reach03.html
 ---
 

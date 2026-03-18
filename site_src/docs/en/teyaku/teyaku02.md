@@ -2,7 +2,6 @@
 title: Thinking About Yaku (2)
 description: "An English translation of the page on natural yaku development, the speed value of openable yaku, and the tradeoff between score and acceptance count."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/teyaku02.html
 ---
 

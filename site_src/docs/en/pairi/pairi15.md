@@ -2,7 +2,6 @@
 title: Tile Theory at One-Shanten (3)
 description: "An English translation of the page examining common one-shanten shapes with two taatsu left to complete, including nine examples, several comparison tables, and the rule that you can prioritize better improvements when the acceptance difference is only small."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi15.html
 ---
 

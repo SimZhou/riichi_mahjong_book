@@ -2,7 +2,6 @@
 title: "Kan (2)"
 description: "An English translation of the page covering situations where you technically can kan, but should not, including bad hands, worse waits, reduced acceptance, and riichi pressure."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki06.html
 ---
 

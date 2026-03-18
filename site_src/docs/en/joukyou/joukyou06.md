@@ -2,7 +2,6 @@
 title: "Situation and Riichi Judgment"
 description: "An English translation of the sixth situational judgment page, explaining when score position and opponent information should make you choose damaten instead of riichi, or riichi instead of damaten."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/joukyou06.html
 ---
 

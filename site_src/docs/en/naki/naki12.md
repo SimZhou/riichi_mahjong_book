@@ -2,7 +2,6 @@
 title: "Atozuke (2)"
 description: "An English translation of the page explaining additional situations where atozuke is effective, including key tiles, two-track hands, and endgame must-win spots."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki12.html
 ---
 

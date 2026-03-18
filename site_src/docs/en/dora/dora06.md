@@ -2,7 +2,6 @@
 title: "The Basics of Red-Five Mahjong"
 description: "An English translation of the page on how red fives change hand-building, calling decisions, chanta hands, and tile acceptance."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/dora06.html
 ---
 

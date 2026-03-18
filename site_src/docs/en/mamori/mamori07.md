@@ -2,7 +2,6 @@
 title: "Folding Procedure (2)"
 description: "An English translation of the second full-folding procedure page, covering hell waits, tiles that only hit shanpon or tanki waits, tiles that do not hit ryanmen waits, and what to do when you are completely stuck."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori07.html
 ---
 

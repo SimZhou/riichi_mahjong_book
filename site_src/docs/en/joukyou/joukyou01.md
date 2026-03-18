@@ -2,7 +2,6 @@
 title: "Situational Judgment Basics"
 description: "An English translation of the first situational judgment page, explaining what situational judgment means, the two kinds of situation you must watch in mahjong, and why strategy should come before raw speed or efficiency."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/joukyou01.html
 ---
 

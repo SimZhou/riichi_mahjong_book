@@ -2,7 +2,6 @@
 title: "Folding Procedure (1)"
 description: "An English translation of the first full-folding procedure page, explaining why you should discard the safest tiles first and why shared safe tiles should be saved for later."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori06.html
 ---
 

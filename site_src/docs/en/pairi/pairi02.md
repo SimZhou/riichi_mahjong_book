@@ -2,7 +2,6 @@
 title: Effective Tiles and Tile Count
 description: An English translation of the page explaining why more winning tiles are better, how acceptance count works, and how to compare acceptance against shape improvement.
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi02.html
 ---
 

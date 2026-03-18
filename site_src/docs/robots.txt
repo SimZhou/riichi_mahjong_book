@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://simzhou.com/riichi_mahjong_book/sitemap.xml
+Sitemap: https://simzhou.com/riichi_mahjong_book/sitemap-zh.xml
+Sitemap: https://simzhou.com/riichi_mahjong_book/sitemap-en.xml

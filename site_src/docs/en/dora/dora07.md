@@ -2,7 +2,6 @@
 title: "Red Tiles and Bonus Chips"
 description: "An English translation of the page on how chip-bonus mahjong changes the value of red tiles, calls, wait selection, and riichi decisions."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/dora07.html
 ---
 

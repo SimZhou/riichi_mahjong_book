@@ -2,7 +2,6 @@
 title: "Calling Techniques (1)"
 description: "An English translation of the page introducing practical calling techniques such as kuinoshi and double-mentsu processing, plus how to avoid exposing your shape."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki13.html
 ---
 

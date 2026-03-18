@@ -2,7 +2,6 @@
 title: "South 4 Strategy (2)"
 description: "An English translation of the eighth situational judgment page, explaining South 4 riichi decisions for first and second place, when damaten is mandatory, and when you should still riichi for comeback chances."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/joukyou08.html
 ---
 

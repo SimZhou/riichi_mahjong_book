@@ -2,7 +2,6 @@
 title: "Safe Tiles"
 description: "An English translation of the page introducing genbutsu and completely safe tiles in mahjong defense, including furiten, visible tiles, and the four main types of guaranteed safe tiles."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori02.html
 ---
 

@@ -2,7 +2,6 @@
 title: "Hand-Building and Situation (1)"
 description: "An English translation of the third situational judgment page, explaining how hand-building should change between the early, middle, and late game, with five examples including a formal-tenpai technique."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/joukyou03.html
 ---
 

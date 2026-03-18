@@ -2,7 +2,6 @@
 title: "The Basics of Calling Decisions"
 description: "An English translation of the page introducing the basic balance of speed, defense, and value when deciding whether to call in riichi mahjong."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki02.html
 ---
 

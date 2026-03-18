@@ -2,7 +2,6 @@
 title: Early-Hand Tile Theory (2)
 description: "An English translation of the page explaining early-hand tile theory in six-taatsu-one-head shapes and five-taatsu-plus-floating-tile shapes, focusing on taatsu comparison and the choice between bad taatsu and isolated tiles."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi09.html
 ---
 

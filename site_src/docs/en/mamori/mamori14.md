@@ -2,7 +2,6 @@
 title: "Reading Riichi (1)"
 description: "An English translation of the first riichi-reading page, explaining why exact wait-reading is impossible and introducing high-risk patterns such as ura-suji on 5, yonken-suji, ryanmen-taatsu drops, and matagi-suji from kanchan drops."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori14.html
 ---
 

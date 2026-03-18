@@ -2,7 +2,6 @@
 title: Shanten Reversal
 description: "An English translation of the page on intentionally stepping back in shanten, covering not taking tenpai, returning to two-shanten for better value, and early-hand reversals aimed at hands like tanyao or honitsu."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi20.html
 ---
 

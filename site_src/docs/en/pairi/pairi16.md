@@ -2,7 +2,6 @@
 title: Tile Theory at One-Shanten (4)
 description: "An English translation of the page on headless one-shanten shapes, comparing the widest ways to keep two taatsu, when to avoid fixing the pair, and how concealed triplets or bad taatsu affect the right choice."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi16.html
 ---
 

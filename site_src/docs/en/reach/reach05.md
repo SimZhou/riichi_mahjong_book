@@ -2,7 +2,6 @@
 title: "Riichi Theory (1)"
 description: "An English translation of the page covering basic riichi rules: riichi immediately once you decide on riichi, and judge waits by tsumo value rather than guessing whether they will be discarded."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/reach05.html
 ---
 

@@ -2,7 +2,6 @@
 title: "Suji (1)"
 description: "An English translation of the first suji page in the defense chapter, covering why ryanmen waits matter most against riichi and how the six suji group into three key lines."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori03.html
 ---
 

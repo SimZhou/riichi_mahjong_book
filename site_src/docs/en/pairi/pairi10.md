@@ -2,7 +2,6 @@
 title: Tile Theory at Two-Shanten (1)
 description: "An English translation of the page explaining two-shanten tile theory in hands with one completed set, one completed head, and three taatsu blocks, including when to compare floating tiles first and when to deliberately touch a taatsu block."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi10.html
 ---
 

@@ -2,7 +2,6 @@
 title: "South 4 Strategy (3)"
 description: "An English translation of the ninth situational judgment page, covering advanced South 4 tactics such as declining tenpai, passing on ron, declaring noten, and helping another player win to stop the dealer."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/joukyou09.html
 ---
 

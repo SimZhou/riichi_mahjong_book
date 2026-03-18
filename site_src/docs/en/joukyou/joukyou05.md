@@ -2,7 +2,6 @@
 title: "Hand-Building and Situation (3)"
 description: "An English translation of the fifth situational judgment page, explaining when to chase point value and when to chase speed based on score position, with five examples and three original diagrams."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/joukyou05.html
 ---
 

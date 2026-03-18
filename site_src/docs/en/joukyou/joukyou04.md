@@ -2,7 +2,6 @@
 title: "Hand-Building and Situation (2)"
 description: "An English translation of the fourth situational judgment page, covering how to react to thinning tiles, how to read which suit is cheap or expensive in the field, and how to adjust against open hands."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/joukyou04.html
 ---
 

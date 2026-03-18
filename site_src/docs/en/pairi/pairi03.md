@@ -2,7 +2,6 @@
 title: The Theory of Floating Tiles
 description: An English translation of the page explaining tile value by position, overlap between suji-held tiles, and why isolated tiles interact instead of standing alone.
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi03.html
 ---
 

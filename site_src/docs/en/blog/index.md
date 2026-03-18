@@ -2,7 +2,6 @@
 title: Appendix
 description: An English appendix hub collecting the author's profile, a mahjong link directory, external recommended resources, and the full site map alongside the main tutorial.
 locale: en_US
-robots: noindex, nofollow
 image: https://simzhou.com/riichi_mahjong_book/images/top-image_off.jpg
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/blog/index.html
 ---

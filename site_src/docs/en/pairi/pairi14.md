@@ -2,7 +2,6 @@
 title: Tile Theory at One-Shanten (2)
 description: "An English translation of the page on one-shanten hands with too many blocks, comparing six concrete examples and the key idea of preserving improvement paths and covering reverse draws."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi14.html
 ---
 

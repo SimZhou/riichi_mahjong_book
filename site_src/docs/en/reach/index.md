@@ -3,7 +3,6 @@ title: "Chapter 6: Riichi"
 description: "An English overview of the chapter on riichi, covering its pros and cons, riichi-versus-damaten decisions, riichi theory, and choosing waits."
 image: https://simzhou.com/riichi_mahjong_book/images/top-image9.jpg
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/index.html
 ---
 

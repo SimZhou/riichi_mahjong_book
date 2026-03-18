@@ -2,7 +2,6 @@
 title: "Atozuke (1)"
 description: "An English translation of the page comparing normal calls with yakuhai-back calls, explaining when atozuke is stronger, safer, and worth using."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki11.html
 ---
 

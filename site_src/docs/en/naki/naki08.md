@@ -2,7 +2,6 @@
 title: "Open Tanyao"
 description: "An English translation of the page explaining when it is correct to open for Tanyao and when trying to force open Tanyao is a mistake."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/naki08.html
 ---
 

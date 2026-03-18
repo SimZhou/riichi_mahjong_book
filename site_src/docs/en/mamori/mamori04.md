@@ -2,7 +2,6 @@
 title: "Suji (2)"
 description: "An English translation of the second suji page in the defense chapter, covering distant suji mistakes, the suji chart, safer suji among terminal tiles, and why tiles next to dora remain dangerous."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori04.html
 ---
 

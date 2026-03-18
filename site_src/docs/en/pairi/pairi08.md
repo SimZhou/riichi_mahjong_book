@@ -2,7 +2,6 @@
 title: Early-Hand Tile Theory (1)
 description: "An English translation of the page explaining early-hand tile theory for hands at three-shanten or worse, with examples comparing isolated honors, terminal tiles, suji-held floating tiles, and overlapping pair structures."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi08.html
 ---
 

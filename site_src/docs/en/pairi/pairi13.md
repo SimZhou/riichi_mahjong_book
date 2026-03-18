@@ -2,7 +2,6 @@
 title: Tile Theory at One-Shanten (1)
 description: "An English translation of the page explaining the basic flow for one-shanten tile theory, the benchmark for a sufficient shape, and when stepping back to two-shanten can still be correct."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi13.html
 ---
 

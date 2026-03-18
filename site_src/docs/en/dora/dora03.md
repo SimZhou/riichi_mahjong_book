@@ -2,7 +2,6 @@
 title: "When You Have Two or More Dora"
 description: "An English translation of the page on how to prioritize speed and winning ease when your hand already contains two or more dora."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/dora03.html
 ---
 

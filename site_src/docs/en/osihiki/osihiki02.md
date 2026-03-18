@@ -2,7 +2,6 @@
 title: "Judgment Materials"
 description: "An English translation of the page explaining the core materials for push-fold judgment: win probability, point value, tile danger, the opponent's estimated value, and the chance that folding will succeed."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/osihiki/osihiki02.html
 ---
 

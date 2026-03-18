@@ -3,7 +3,6 @@ title: "Chapter 7: Defense"
 description: "An English overview of the defense chapter, covering safe tiles, suji, kabe, folding procedures, maneuvering, defense against open hands, tile restriction, and reading riichi."
 image: https://simzhou.com/riichi_mahjong_book/images/top-image10.jpg
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 ---
 

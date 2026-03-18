@@ -3,7 +3,6 @@ title: "Chapter 8: Situational Judgment"
 description: "An English overview of the situational judgment chapter, covering rank awareness, hand-building adjustments by turn and table state, riichi decisions under different score situations, and South 4 strategy."
 image: https://simzhou.com/riichi_mahjong_book/images/top-image11.jpg
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/index.html
 ---
 

@@ -2,7 +2,6 @@
 title: "Choosing Riichi Waits (2)"
 description: "An English translation of the second page on choosing riichi waits, comparing high-value narrow waits with lower-value wide waits and how that judgment changes with dora."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/reach08.html
 ---
 

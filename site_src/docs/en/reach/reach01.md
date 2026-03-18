@@ -2,7 +2,6 @@
 title: "Advantages and Disadvantages of Riichi"
 description: "An English translation of the page explaining why riichi is such a special yaku, including its main strengths, costs, and practical drawbacks."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/reach01.html
 ---
 

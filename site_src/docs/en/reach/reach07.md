@@ -2,7 +2,6 @@
 title: "Choosing Riichi Waits (1)"
 description: "An English translation of the first page on choosing riichi waits, covering three judgments: tile count, point value, and how easy the wait is to ron."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/reach07.html
 ---
 

@@ -2,7 +2,6 @@
 title: Tile Theory at Two-Shanten (2)
 description: "An English translation of the page explaining two-shanten hands with one completed set and four taatsu blocks, including the choice between dropping the weakest taatsu and breaking a three-tile taatsu back into a single taatsu."
 locale: en_US
-robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi11.html
 ---
 
