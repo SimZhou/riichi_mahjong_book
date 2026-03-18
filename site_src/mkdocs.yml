@@ -379,6 +379,9 @@ extra:
       link:
         title: Mahjong Link Directory
         path: en/blog/link.html
+      resources:
+        title: Recommended External Resources
+        path: en/blog/resources.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

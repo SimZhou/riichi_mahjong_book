@@ -19,7 +19,7 @@ This section gathers the supplemental material outside the main tutorial itself,
 2. [Mahjong Link Directory](link.md)
    A translated link collection covering strategy sites, blogs, pro organizations, and free mahjong games.
 
-3. Recommended External Resources
+3. [Recommended External Resources](resources.md)
    A single page collecting the original site's sidebar recommendations, including books, lectures, magazines, mahjong parlors, and online mahjong resources.
 
 4. Full Site Map

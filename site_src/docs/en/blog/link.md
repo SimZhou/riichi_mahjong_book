@@ -148,6 +148,6 @@ Original Japanese page: <http://beginners.biz/link/>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="prof.html">Previous: Author Profile</a>
-  <a class="page-nav__link page-nav__link--next" href="../../blog/resources.html">Continue in Chinese: Recommended External Resources</a>
+  <a class="page-nav__link page-nav__link--next" href="resources.html">Next: Recommended External Resources</a>
 </div>
 <!-- PAGE NAV END -->
