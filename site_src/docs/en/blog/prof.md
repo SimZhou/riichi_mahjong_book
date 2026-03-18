@@ -46,6 +46,6 @@ Original Japanese page: <http://beginners.biz/prof/>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="index.html">Previous: Appendix</a>
-  <a class="page-nav__link page-nav__link--next" href="../../blog/link.html">Continue in Chinese: Mahjong Link Directory</a>
+  <a class="page-nav__link page-nav__link--next" href="link.html">Next: Mahjong Link Directory</a>
 </div>
 <!-- PAGE NAV END -->

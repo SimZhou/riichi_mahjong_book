@@ -16,7 +16,7 @@ This section gathers the supplemental material outside the main tutorial itself,
 1. [Author Profile](prof.md)
    A translated profile page introducing the author and the site's operator.
 
-2. Mahjong Link Directory
+2. [Mahjong Link Directory](link.md)
    A translated link collection covering strategy sites, blogs, pro organizations, and free mahjong games.
 
 3. Recommended External Resources

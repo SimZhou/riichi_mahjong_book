@@ -376,6 +376,9 @@ extra:
       prof:
         title: Author Profile
         path: en/blog/prof.html
+      link:
+        title: Mahjong Link Directory
+        path: en/blog/link.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
