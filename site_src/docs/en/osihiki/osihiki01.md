@@ -167,6 +167,6 @@ Original Japanese page: <http://beginners.biz/osihiki/osihiki01.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="index.html">Back to Overview: Push/Fold Decisions</a>
-  <a class="page-nav__link page-nav__link--next" href="../../osihiki/osihiki02.html">Continue in Chinese: Judgment Materials</a>
+  <a class="page-nav__link page-nav__link--next" href="osihiki02.html">Next: Judgment Materials</a>
 </div>
 <!-- PAGE NAV END -->

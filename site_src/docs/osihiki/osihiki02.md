@@ -1,5 +1,6 @@
 ---
 description: 判断依据：那样做只会把自己手牌的和牌率大幅降低，属于最糟糕的选择。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/osihiki/osihiki02.html
 ---
 
 # 判断依据

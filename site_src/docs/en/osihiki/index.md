@@ -14,7 +14,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/osihiki/index.html
 1. [Push/Fold Fundamentals](osihiki01.md)
    The core way of thinking behind push-fold judgment.
 
-2. Judgment Materials
+2. [Judgment Materials](osihiki02.md)
    Introduces several factors that should feed into your push-or-fold decisions.
 
 3. Push/Fold Standards

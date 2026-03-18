@@ -365,6 +365,9 @@ extra:
       osihiki01:
         title: Push/Fold Fundamentals
         path: en/osihiki/osihiki01.html
+      osihiki02:
+        title: Judgment Materials
+        path: en/osihiki/osihiki02.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
