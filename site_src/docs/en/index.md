@@ -118,7 +118,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
 
 ## Additional Resources
 
-For now, the appendix remains available in the Chinese edition: [Appendix](../blog/index.md).
+The appendix is also available in English now: [Appendix](./blog/index.md).
 
 ---
 

@@ -368,6 +368,11 @@ extra:
       osihiki02:
         title: Judgment Materials
         path: en/osihiki/osihiki02.html
+    appendix:
+      title: Appendix
+      overview:
+        title: Overview
+        path: en/blog/index.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

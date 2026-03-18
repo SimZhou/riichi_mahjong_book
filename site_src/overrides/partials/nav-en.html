@@ -7,6 +7,7 @@
 {% set reach = en_nav.reach if en_nav and en_nav.reach else {} %}
 {% set joukyou = en_nav.joukyou if en_nav and en_nav.joukyou else {} %}
 {% set osihiki = en_nav.osihiki if en_nav and en_nav.osihiki else {} %}
+{% set appendix = en_nav.appendix if en_nav and en_nav.appendix else {} %}
 {% set en_site_title = "Japanese Mahjong: From Beginner to Master" %}
 {% set current_url = page.url if page and page.url else '' %}
 {% set basics_active = current_url.startswith('en/kihon/') %}
@@ -17,6 +18,7 @@
 {% set reach_active = current_url.startswith('en/reach/') %}
 {% set joukyou_active = current_url.startswith('en/joukyou/') %}
 {% set osihiki_active = current_url.startswith('en/osihiki/') %}
+{% set appendix_active = current_url.startswith('en/blog/') %}
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
@@ -921,8 +923,29 @@
         </ul>
       </nav>
     </li>
-    <li class="md-nav__item">
-      <span class="md-nav__link"><span class="md-ellipsis">Appendix</span></span>
+    <li class="md-nav__item md-nav__item--nested{% if appendix_active %} md-nav__item--active{% endif %}">
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__nav_en_appendix" {% if appendix_active %}checked{% endif %}>
+      <div class="md-nav__link md-nav__container">
+        <a href="{{ config.site_url ~ (appendix.overview.path if appendix and appendix.overview else 'en/blog/index.html') }}" class="md-nav__link{% if appendix and appendix.overview and current_url == appendix.overview.path %} md-nav__link--active{% endif %}">
+          <span class="md-ellipsis">{{ appendix.title if appendix else 'Appendix' }}</span>
+        </a>
+        <label class="md-nav__link{% if appendix and appendix.overview and current_url == appendix.overview.path %} md-nav__link--active{% endif %}" for="__nav_en_appendix" id="__nav_en_appendix_label" tabindex="0">
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      </div>
+      <nav class="md-nav" aria-labelledby="__nav_en_appendix_label" aria-expanded="{{ appendix_active | tojson }}" data-md-level="1">
+        <label class="md-nav__title" for="__nav_en_appendix">
+          <span class="md-nav__icon md-icon"></span>
+          {{ appendix.title if appendix else 'Appendix' }}
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          <li class="md-nav__item{% if appendix and appendix.overview and current_url == appendix.overview.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ (appendix.overview.path if appendix and appendix.overview else 'en/blog/index.html') }}" class="md-nav__link{% if appendix and appendix.overview and current_url == appendix.overview.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ appendix.overview.title if appendix and appendix.overview else 'Overview' }}</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
     </li>
   </ul>
 </nav>
