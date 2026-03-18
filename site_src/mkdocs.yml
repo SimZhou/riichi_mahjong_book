@@ -368,6 +368,15 @@ extra:
       osihiki02:
         title: Judgment Materials
         path: en/osihiki/osihiki02.html
+      osihiki03:
+        title: Push/Fold Standards
+        path: en/osihiki/osihiki03.html
+      osihiki04:
+        title: Push/Fold in Real Hands
+        path: en/osihiki/osihiki04.html
+      osihiki05:
+        title: Push/Fold in Real Hands (2)
+        path: en/osihiki/osihiki05.html
     appendix:
       title: Appendix
       overview:

@@ -179,6 +179,6 @@ Original Japanese page: <http://beginners.biz/osihiki/osihiki02.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="osihiki01.html">Previous: Push/Fold Fundamentals</a>
-  <a class="page-nav__link page-nav__link--next" href="../blog/index.html">Next: Appendix</a>
+  <a class="page-nav__link page-nav__link--next" href="osihiki03.html">Next: Push/Fold Standards</a>
 </div>
 <!-- PAGE NAV END -->

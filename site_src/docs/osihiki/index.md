@@ -13,13 +13,13 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/osihiki/index.html
 2. [判断材料](./osihiki02.md)
    介绍几项能成为押引判断材料的内容。
 
-3. 押引的标准
+3. [押引的基准](./osihiki03.md)
    结合实战场面来想一想押还是引。
 
-4. 实际局面中的押引
+4. [实际局面中的押引](./osihiki04.md)
    挑选更接近实战的场面，来判断该押还是该引的实例题集。
 
-5. 实际局面中的押引 2
+5. [实际局面中的押引 2](./osihiki05.md)
    这是上一页的续篇。通过各种事例来磨练实战中的感觉吧。
 
 ---

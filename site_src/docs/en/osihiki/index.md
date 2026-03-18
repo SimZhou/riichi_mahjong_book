@@ -16,13 +16,13 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/osihiki/index.html
 2. [Judgment Materials](osihiki02.md)
    Introduces several factors that should feed into your push-or-fold decisions.
 
-3. Push/Fold Standards
+3. [Push/Fold Standards](osihiki03.md)
    Think through push-or-fold judgment using actual game situations.
 
-4. Push/Fold in Real Hands
+4. [Push/Fold in Real Hands](osihiki04.md)
    A more practical collection of examples built around real hand patterns and table states.
 
-5. Push/Fold in Real Hands (2)
+5. [Push/Fold in Real Hands (2)](osihiki05.md)
    A continuation of the previous page. Use many different cases to sharpen your in-game sense.
 
 ---
