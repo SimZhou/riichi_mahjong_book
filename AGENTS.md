@@ -22,6 +22,15 @@
   - `raw_site/articles/` 中的镜像源页面：`110`
   - `site_src/docs/` 中的对应翻译页面：`110`
   - 已知缺失的镜像页面：`0`
+- 当前中文重建站的 Markdown 页面总数为：`113`
+  - 其中包含首页、9 个章节、附录与全站目录
+  - `404.md` 不计入正文页面统计
+- 当前英文镜像站的 Markdown 页面总数为：`113`
+  - 与中文站保持路径镜像关系
+  - 已知缺失的英文页面：`0`
+- 当前英文站已完成并正式上线：
+  - 9 个主教程章节均已有英文目录页与正文页
+  - 附录中的作者介绍、麻将链接集、推荐资源、全站目录也已有英文版本
 - 当前章节顺序已与原始 `sitemap` 对齐：
   1. 麻将基础
   2. 牌理与牌效率
@@ -85,6 +94,39 @@ scripts/build_site.sh
 /opt/miniforge3/bin/python scripts/check_fix_en_asset_paths.py --check-built
 ```
 
+- 当前项目也提供英文站内链审计脚本：
+
+```bash
+/opt/miniforge3/bin/python scripts/check_en_internal_links.py
+/opt/miniforge3/bin/python scripts/check_en_internal_links.py --check-built
+```
+
+- 该脚本用于检查两类问题：
+  - 英文页面是否仍然误链到中文站内页面
+  - 英文页面内部链接是否存在坏链
+- 当前基线结果应保持为：
+  - `markdown_non_english_internal_links=0`
+  - `markdown_broken_internal_links=0`
+  - `built-html_non_english_internal_links=0`
+  - `built-html_broken_internal_links=0`
+- 当前项目也提供英文站正式上线脚本：
+
+```bash
+/opt/miniforge3/bin/python scripts/release_english_pages.py
+```
+
+- 该脚本会批量去掉英文 Markdown 页头中的 `robots: noindex, nofollow`，用于把英文站从占位状态切到正式可索引状态。
+- 当前项目也提供多语言 sitemap 后处理脚本：
+
+```bash
+/opt/miniforge3/bin/python scripts/generate_locale_sitemaps.py
+```
+
+- 该脚本由 `scripts/build_site.sh` 在构建后自动调用，当前会生成：
+  - `docs/sitemap.xml`
+  - `docs/sitemap.xml.gz`
+  - `docs/sitemap-zh.xml`
+  - `docs/sitemap-en.xml`
 - `IndexNow` 已接入本项目，当前密钥文件位于：
   - `site_src/docs/6f0d3cf671bf4bb3b4dfe2dfef4f11d6.txt`
 - 提交脚本位于：
@@ -110,16 +152,15 @@ scripts/build_site.sh
 - 不要使用查询参数式语言路由，如：
   - `?lang=en`
 - 也不要为了做英文版去迁移现有中文路径；中文根路径的既有收录与外链应继续保留。
-- 英文版未完成前：
-  - 可以先搭建 `site_src/docs/en/` 目录骨架
-  - 未完成翻译的英文占位页应优先使用 `robots: noindex, nofollow`
-  - 未完成前不要贸然加入主导航，避免把半成品暴露给普通用户和搜索引擎
-- 英文版真正上线时，需补齐：
+- 当前英文版已经正式上线，以下多语言配套能力已经落地：
   1. 中英页面双向 `hreflang`
   2. `x-default`
   3. 英文版页面级 `title` / `description`
-  4. 英文版 sitemap
-  5. 语言切换入口与中英互链
+  4. 英文版 sitemap：`docs/sitemap-en.xml`
+  5. 中文版 sitemap：`docs/sitemap-zh.xml`
+  6. 语言切换入口与中英互链
+- 当前英文页默认应为可索引状态，不要再为正式页面保留 `robots: noindex, nofollow`。
+- 只有在明确创建临时英文占位页、测试页或不希望被搜索引擎收录的页面时，才应单独设置 `noindex`。
 
 ## 翻译规则
 
@@ -249,6 +290,23 @@ scripts/build_site.sh
 - `teyaku/teyaku07.html`
 - `pairi/pairi20.html`
 
+对多语言上线后的本地生成结果，已额外确认：
+
+- `docs/index.html` 与 `docs/en/index.html` 均输出了：
+  - `hreflang="zh-CN"`
+  - `hreflang="en"`
+  - `hreflang="x-default"`
+- `docs/en/index.html` 已从 `noindex` 切换为：
+  - `index, follow, max-image-preview:large`
+- `docs/robots.txt` 当前已声明：
+  - `sitemap.xml`
+  - `sitemap-zh.xml`
+  - `sitemap-en.xml`
+- 多语言 sitemap 生成后的基线计数为：
+  - `sitemap_all_entries=226`
+  - `sitemap_zh_entries=113`
+  - `sitemap_en_entries=113`
+
 对这些页面，线上检查已确认：
 
 1. 页面返回真实文章内容，而不是 `404`
@@ -264,5 +322,10 @@ scripts/build_site.sh
 ## 构建与提交卫生规则
 
 - 在执行 `scripts/build_site.sh` 期间，`git status` 可能会暂时显示 `docs/` 下大量文件被删除，因为 MkDocs 会先清空输出目录再重建。不要把这个中间态误判为真实回归，必须等构建结束后再看。
-- `docs/sitemap.xml` 与 `docs/sitemap.xml.gz` 经常会随重建变化，但当前工作流中默认不提交，除非用户明确要求。
+- 当前工作流中，以下 sitemap 文件已经是正常的部署产物：
+  - `docs/sitemap.xml`
+  - `docs/sitemap.xml.gz`
+  - `docs/sitemap-zh.xml`
+  - `docs/sitemap-en.xml`
+- 当站点结构、多语言链接关系或索引状态发生变化时，这些 sitemap 文件应随构建结果一起提交。
 - 使用 `git add` 时，如果某个目录下的文件需要整体纳入提交，优先直接 `git add /path/to/dir/`，不要把同目录下的文件逐个递归列出。这样可以显著缩短命令长度，也能减少不必要的 token 消耗。
