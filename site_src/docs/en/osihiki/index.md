@@ -11,7 +11,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/osihiki/index.html
 
 ![Push/Fold Decisions main image](../../images/top-image12.jpg)
 
-1. Push/Fold Fundamentals
+1. [Push/Fold Fundamentals](osihiki01.md)
    The core way of thinking behind push-fold judgment.
 
 2. Judgment Materials
@@ -33,6 +33,6 @@ Original Japanese page: <http://beginners.biz/osihiki/>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="../joukyou/joukyou09.html">Previous Chapter: Situational Judgment</a>
-  <a class="page-nav__link page-nav__link--next" href="../../osihiki/osihiki01.html">Continue in Chinese: Push/Fold Fundamentals</a>
+  <a class="page-nav__link page-nav__link--next" href="osihiki01.html">Next: Push/Fold Fundamentals</a>
 </div>
 <!-- PAGE NAV END -->

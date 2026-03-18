@@ -904,6 +904,13 @@
               <span class="md-ellipsis">{{ osihiki.overview.title if osihiki and osihiki.overview else 'Overview' }}</span>
             </a>
           </li>
+          {% if osihiki and osihiki.osihiki01 %}
+          <li class="md-nav__item{% if current_url == osihiki.osihiki01.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ osihiki.osihiki01.path }}" class="md-nav__link{% if current_url == osihiki.osihiki01.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ osihiki.osihiki01.title }}</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </nav>
     </li>

@@ -362,6 +362,9 @@ extra:
       overview:
         title: Overview
         path: en/osihiki/index.html
+      osihiki01:
+        title: Push/Fold Fundamentals
+        path: en/osihiki/osihiki01.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

@@ -1,5 +1,6 @@
 ---
 description: 押引铁则：麻将玩家必须不断判断，到底该“押”还是该“退”。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/osihiki/osihiki01.html
 ---
 
 # 押引铁则
