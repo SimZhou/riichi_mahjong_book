@@ -108,9 +108,9 @@ The ideas collected here apply across many different mahjong environments. Wheth
 
 ## Update Log
 
-1. Added [Push-Fold in Actual Situations (2)](http://beginners.biz/osihiki/osihiki05.html) (Nov 29)
-2. Added [Push-Fold in Actual Situations (1)](http://beginners.biz/osihiki/osihiki04.html) (Nov 29)
-3. Added [Standards for Push and Fold](http://beginners.biz/osihiki/osihiki03.html) (Oct 22)
+1. Added [Push-Fold in Actual Situations (2)](./osihiki/osihiki05.md) (Nov 29)
+2. Added [Push-Fold in Actual Situations (1)](./osihiki/osihiki04.md) (Nov 29)
+3. Added [Standards for Push and Fold](./osihiki/osihiki03.md) (Oct 22)
 4. Added [South 4 Strategy (3)](./joukyou/joukyou09.md) (Jun 1)
 5. Introduced [Yahoo! Mobage Mahjong](http://track.xmax.jp/click/index.php?mpv=9bax15f5x4173xd2&mpd=9bax15f5x4173xe3b0x12&guid=on) (May 25)
 6. Added [South 4 Strategy (2)](./joukyou/joukyou08.md) (May 18)

@@ -106,9 +106,9 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/index.html
 
 ## 更新日志
 
-1. 新增[实际局面中的押引（2）](http://beginners.biz/osihiki/osihiki05.html)（11 月 29 日）
-2. 新增[实际局面中的押引（1）](http://beginners.biz/osihiki/osihiki04.html)（11 月 29 日）
-3. 新增[押引的基准](http://beginners.biz/osihiki/osihiki03.html)（10 月 22 日）
+1. 新增[实际局面中的押引（2）](./osihiki/osihiki05.md)（11 月 29 日）
+2. 新增[实际局面中的押引（1）](./osihiki/osihiki04.md)（11 月 29 日）
+3. 新增[押引的基准](./osihiki/osihiki03.md)（10 月 22 日）
 4. 新增[最终局战术（3）](./joukyou/joukyou09.md)（6 月 1 日）
 5. 介绍 [Yahoo! mobage 的麻将](http://track.xmax.jp/click/index.php?mpv=9bax15f5x4173xd2&mpd=9bax15f5x4173xe3b0x12&guid=on)（5 月 25 日）
 6. 新增[最终局战术（2）](./joukyou/joukyou08.md)（5 月 18 日）
